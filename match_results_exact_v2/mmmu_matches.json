@@ -1,0 +1,51 @@
+{
+    "total_test_images": 900,
+    "n_test_images_with_match": 3,
+    "test_matches": {
+        "306": {
+            "matched_training_indices": [
+                3446794
+            ],
+            "matched_training_filenames": [
+                "data_engine/partII/images/5560.png"
+            ],
+            "matched_training_filenames_old": [
+                "hfdata/chart2text/15291.jpg"
+            ],
+            "hash": 13489395018024903059
+        },
+        "545": {
+            "matched_training_indices": [
+                447141,
+                1556794,
+                1765322,
+                1849458
+            ],
+            "matched_training_filenames": [
+                "websight/images/train_35931.png",
+                "hfdata/datikz/28582.jpg",
+                "websight/images/train_25340.png",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/DOMAIN_NET+real_image_classification_940_real_106_000278.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "hfdata/robut_wikisql/31667.jpg",
+                "llavar/finetune/100000252653.jpg",
+                "websight/images/train_115774.png",
+                "lnqa/images/train_108646.jpg"
+            ],
+            "hash": 12309698058594407722
+        },
+        "569": {
+            "matched_training_indices": [
+                3049046
+            ],
+            "matched_training_filenames": [
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/45219975.jpeg"
+            ],
+            "matched_training_filenames_old": [
+                "lnqa/images/train_260205.jpg"
+            ],
+            "hash": 15703467513470195612
+        }
+    }
+}

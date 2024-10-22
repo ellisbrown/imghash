@@ -1,0 +1,3147 @@
+{
+    "total_test_images": 793,
+    "n_test_images_with_match": 229,
+    "test_matches": {
+        "1": {
+            "matched_training_indices": [
+                249291
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K/2371956.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000141000.jpg"
+            ],
+            "hash": 13202271844944880679
+        },
+        "3": {
+            "matched_training_indices": [
+                175426
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K/2332372.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000259790.jpg"
+            ],
+            "hash": 9435812338550086253
+        },
+        "5": {
+            "matched_training_indices": [
+                59164
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K_2/2406922.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000284920.jpg"
+            ],
+            "hash": 17696340314554224198
+        },
+        "4": {
+            "matched_training_indices": [
+                209756,
+                345057
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2352255.jpg",
+                "vg/VG_100K/2352255.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "textvqa/train_images/1fe4e78c1fe02dcb.jpg",
+                "ocr_vqa/images/989146715.jpg"
+            ],
+            "hash": 13943140607964252060
+        },
+        "9": {
+            "matched_training_indices": [
+                89858,
+                163950
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2375796.jpg",
+                "vg/VG_100K/2375796.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2316733.jpg",
+                "ocr_vqa/images/1592335942.jpg"
+            ],
+            "hash": 17556030032490738508
+        },
+        "8": {
+            "matched_training_indices": [
+                18413
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2412288.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2327251.jpg"
+            ],
+            "hash": 13733097878089477548
+        },
+        "6": {
+            "matched_training_indices": [
+                91329,
+                176114
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K/2372869.jpg",
+                "gqa/images/2372869.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2358651.jpg",
+                "coco/train2017/000000125667.jpg"
+            ],
+            "hash": 10245174147410584806
+        },
+        "10": {
+            "matched_training_indices": [
+                153424
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K_2/2416926.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "ocr_vqa/images/883684268.jpg"
+            ],
+            "hash": 15562536774399477937
+        },
+        "11": {
+            "matched_training_indices": [
+                59643,
+                80135
+            ],
+            "matched_training_filenames": [
+                "gqa/images/1592592.jpg",
+                "vg/VG_100K/1592592.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000244423.jpg",
+                "gqa/images/2397319.jpg"
+            ],
+            "hash": 17674990287836787905
+        },
+        "13": {
+            "matched_training_indices": [
+                136183
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K/2324119.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000139011.jpg"
+            ],
+            "hash": 11868907912590723533
+        },
+        "14": {
+            "matched_training_indices": [
+                134689,
+                283152
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K/1592212.jpg",
+                "gqa/images/1592212.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2337057.jpg",
+                "gqa/images/2342932.jpg"
+            ],
+            "hash": 16565873033583984781
+        },
+        "15": {
+            "matched_training_indices": [
+                192640
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K/2365089.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "ocr_vqa/images/1560989904.jpg"
+            ],
+            "hash": 13949292360314665287
+        },
+        "23": {
+            "matched_training_indices": [
+                301847
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2411480.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K/2339250.jpg"
+            ],
+            "hash": 13209278859161798309
+        },
+        "26": {
+            "matched_training_indices": [
+                240030
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K/2367409.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2408698.jpg"
+            ],
+            "hash": 9267598373211003480
+        },
+        "62": {
+            "matched_training_indices": [
+                40418,
+                59666
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2338129.jpg",
+                "vg/VG_100K/2338129.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000178935.jpg",
+                "coco/train2017/000000467193.jpg"
+            ],
+            "hash": 10551455732055530194
+        },
+        "17": {
+            "matched_training_indices": [
+                41831,
+                220257
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K/2359947.jpg",
+                "gqa/images/2359947.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K/2342230.jpg",
+                "coco/train2017/000000362783.jpg"
+            ],
+            "hash": 16755558953310426834
+        },
+        "18": {
+            "matched_training_indices": [
+                222197
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2407868.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000211985.jpg"
+            ],
+            "hash": 10734610841128296596
+        },
+        "22": {
+            "matched_training_indices": [
+                148245
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K/2348385.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K_2/1525.jpg"
+            ],
+            "hash": 14326699893243297193
+        },
+        "27": {
+            "matched_training_indices": [
+                85757,
+                142016
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K/2376128.jpg",
+                "gqa/images/2376128.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2318778.jpg",
+                "vg/VG_100K_2/2377612.jpg"
+            ],
+            "hash": 11957786308189686804
+        },
+        "25": {
+            "matched_training_indices": [
+                150644
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K_2/2399882.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "ocr_vqa/images/1602393044.jpg"
+            ],
+            "hash": 10344654065466075084
+        },
+        "29": {
+            "matched_training_indices": [
+                21310,
+                155630
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2348883.jpg",
+                "vg/VG_100K/2348883.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "ocr_vqa/images/965672271.jpg",
+                "vg/VG_100K/2335799.jpg"
+            ],
+            "hash": 10371841768467190445
+        },
+        "30": {
+            "matched_training_indices": [
+                34344
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2369500.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000490801.jpg"
+            ],
+            "hash": 15119602157589983695
+        },
+        "28": {
+            "matched_training_indices": [
+                156295
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2363111.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "ocr_vqa/images/1934598100.jpg"
+            ],
+            "hash": 17669180780987887025
+        },
+        "38": {
+            "matched_training_indices": [
+                95951,
+                107444
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2372092.jpg",
+                "vg/VG_100K/2372092.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2363823.jpg",
+                "gqa/images/2335680.jpg"
+            ],
+            "hash": 9367059744695664514
+        },
+        "37": {
+            "matched_training_indices": [
+                101002,
+                206445
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K/2351814.jpg",
+                "gqa/images/2351814.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000020671.jpg",
+                "vg/VG_100K/2365743.jpg"
+            ],
+            "hash": 11024664310927639569
+        },
+        "32": {
+            "matched_training_indices": [
+                28271
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K/2338126.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2364168.jpg"
+            ],
+            "hash": 16480115555577082804
+        },
+        "34": {
+            "matched_training_indices": [
+                345452
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K_2/2385933.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K/2335009.jpg"
+            ],
+            "hash": 17542334234657323090
+        },
+        "33": {
+            "matched_training_indices": [
+                158199,
+                222214
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K_2/2417485.jpg",
+                "gqa/images/2417485.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2399391.jpg",
+                "coco/train2017/000000020172.jpg"
+            ],
+            "hash": 15941832803901159175
+        },
+        "35": {
+            "matched_training_indices": [
+                32285,
+                195942
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K_2/2400610.jpg",
+                "gqa/images/2400610.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2357015.jpg",
+                "ocr_vqa/images/1608875598.jpg"
+            ],
+            "hash": 14305153086117616677
+        },
+        "36": {
+            "matched_training_indices": [
+                186057,
+                348716
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2416217.jpg",
+                "vg/VG_100K_2/2416217.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "ocr_vqa/images/1433541378.jpg",
+                "ocr_vqa/images/470139420.jpg"
+            ],
+            "hash": 14993511668767742390
+        },
+        "40": {
+            "matched_training_indices": [
+                55478
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K/2353611.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2334257.jpg"
+            ],
+            "hash": 16703396243004512452
+        },
+        "41": {
+            "matched_training_indices": [
+                45039
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K/2375922.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2399615.jpg"
+            ],
+            "hash": 12648045622284698720
+        },
+        "44": {
+            "matched_training_indices": [
+                38549,
+                322654
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K/2364937.jpg",
+                "gqa/images/2364937.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2350102.jpg",
+                "coco/train2017/000000326798.jpg"
+            ],
+            "hash": 18365820991809347355
+        },
+        "47": {
+            "matched_training_indices": [
+                102932
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2391410.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K_2/2393243.jpg"
+            ],
+            "hash": 15515125100883751195
+        },
+        "46": {
+            "matched_training_indices": [
+                122934,
+                342987
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2361295.jpg",
+                "vg/VG_100K/2361295.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K/1592747.jpg",
+                "gqa/images/2365490.jpg"
+            ],
+            "hash": 10226885425923072827
+        },
+        "45": {
+            "matched_training_indices": [
+                38487,
+                38676
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2316698.jpg",
+                "vg/VG_100K/2316698.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2348949.jpg",
+                "gqa/images/2410526.jpg"
+            ],
+            "hash": 12937536254072479798
+        },
+        "43": {
+            "matched_training_indices": [
+                55100,
+                336499
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2387042.jpg",
+                "vg/VG_100K_2/2387042.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000547411.jpg",
+                "coco/train2017/000000570333.jpg"
+            ],
+            "hash": 10045502285442082461
+        },
+        "49": {
+            "matched_training_indices": [
+                66408,
+                95647
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2339823.jpg",
+                "vg/VG_100K/2339823.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000213003.jpg",
+                "gqa/images/2319931.jpg"
+            ],
+            "hash": 17232798368524765339
+        },
+        "51": {
+            "matched_training_indices": [
+                82727,
+                160041
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K/2317976.jpg",
+                "gqa/images/2317976.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "ocr_vqa/images/B005TUDUAS.jpg",
+                "vg/VG_100K/1592808.jpg"
+            ],
+            "hash": 13767874520674439945
+        },
+        "50": {
+            "matched_training_indices": [
+                308586
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K/2370247.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "ocr_vqa/images/1743341474.jpg"
+            ],
+            "hash": 17258076902083521895
+        },
+        "57": {
+            "matched_training_indices": [
+                137021,
+                264963
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K/2340718.jpg",
+                "gqa/images/2340718.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K_2/2379577.jpg",
+                "gqa/images/2369370.jpg"
+            ],
+            "hash": 16241039927427052692
+        },
+        "58": {
+            "matched_training_indices": [
+                349024
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2342573.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K_2/2404185.jpg"
+            ],
+            "hash": 9831806489190262759
+        },
+        "53": {
+            "matched_training_indices": [
+                288004,
+                310522
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2339891.jpg",
+                "vg/VG_100K/2339891.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "textvqa/train_images/39f84c29a048b8da.jpg",
+                "ocr_vqa/images/8124601704.jpg"
+            ],
+            "hash": 17862340572046611713
+        },
+        "63": {
+            "matched_training_indices": [
+                45260,
+                78987
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2361724.jpg",
+                "vg/VG_100K/2361724.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000456376.jpg",
+                "ocr_vqa/images/3832732500.jpg"
+            ],
+            "hash": 9271465183043726804
+        },
+        "54": {
+            "matched_training_indices": [
+                99749,
+                101872,
+                142864,
+                169519
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K/2360885.jpg",
+                "vg/VG_100K/713573.jpg",
+                "gqa/images/2360885.jpg",
+                "gqa/images/713573.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K/2375171.jpg",
+                "gqa/images/2380896.jpg",
+                "vg/VG_100K/2324507.jpg",
+                "coco/train2017/000000305660.jpg"
+            ],
+            "hash": 14478962003664262738
+        },
+        "55": {
+            "matched_training_indices": [
+                101048,
+                220218
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K_2/2385379.jpg",
+                "gqa/images/2385379.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2376147.jpg",
+                "coco/train2017/000000186196.jpg"
+            ],
+            "hash": 17352386540345070983
+        },
+        "64": {
+            "matched_training_indices": [
+                276175,
+                343361
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K/2354338.jpg",
+                "gqa/images/2354338.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "ocr_vqa/images/1742575110.jpg",
+                "ocr_vqa/images/1600581331.jpg"
+            ],
+            "hash": 11790814631269655376
+        },
+        "60": {
+            "matched_training_indices": [
+                19164,
+                206542
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2400743.jpg",
+                "vg/VG_100K_2/2400743.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "textvqa/train_images/2d543daf886f52ac.jpg",
+                "coco/train2017/000000538557.jpg"
+            ],
+            "hash": 17275959060648792493
+        },
+        "59": {
+            "matched_training_indices": [
+                145210,
+                270791
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K_2/2384483.jpg",
+                "gqa/images/2384483.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2319706.jpg",
+                "ocr_vqa/images/1840761520.jpg"
+            ],
+            "hash": 15395892653090369670
+        },
+        "65": {
+            "matched_training_indices": [
+                29170,
+                310736
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2378467.jpg",
+                "vg/VG_100K_2/2378467.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2369091.jpg",
+                "vg/VG_100K/2323338.jpg"
+            ],
+            "hash": 16414662583161310561
+        },
+        "67": {
+            "matched_training_indices": [
+                181615,
+                335704
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2336168.jpg",
+                "vg/VG_100K/2336168.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2352135.jpg",
+                "gqa/images/2339803.jpg"
+            ],
+            "hash": 12902267529354398785
+        },
+        "71": {
+            "matched_training_indices": [
+                79531
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K_2/2398546.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K_2/2381847.jpg"
+            ],
+            "hash": 10788171192729101207
+        },
+        "72": {
+            "matched_training_indices": [
+                228605
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K/2352110.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000368521.jpg"
+            ],
+            "hash": 17373492528099461001
+        },
+        "70": {
+            "matched_training_indices": [
+                30099,
+                39948,
+                70833
+            ],
+            "matched_training_filenames": [
+                "gqa/images/498028.jpg",
+                "gqa/images/2320682.jpg",
+                "vg/VG_100K/498028.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "ocr_vqa/images/1599417901.jpg",
+                "textvqa/train_images/bb8a4d45454cae0c.jpg",
+                "ocr_vqa/images/77260538.jpg"
+            ],
+            "hash": 10767783114606978844
+        },
+        "73": {
+            "matched_training_indices": [
+                154541
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K/2331415.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000138810.jpg"
+            ],
+            "hash": 17941935957679032424
+        },
+        "68": {
+            "matched_training_indices": [
+                73671,
+                270406
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K/2375122.jpg",
+                "gqa/images/2375122.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "ocr_vqa/images/77862473.jpg",
+                "coco/train2017/000000290175.jpg"
+            ],
+            "hash": 12650748162049412126
+        },
+        "74": {
+            "matched_training_indices": [
+                187490
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2414697.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K/2331085.jpg"
+            ],
+            "hash": 18132508360153593490
+        },
+        "78": {
+            "matched_training_indices": [
+                20784,
+                74044
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2410962.jpg",
+                "vg/VG_100K_2/2410962.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2407666.jpg",
+                "coco/train2017/000000060814.jpg"
+            ],
+            "hash": 12953667661601542038
+        },
+        "76": {
+            "matched_training_indices": [
+                142284,
+                200671
+            ],
+            "matched_training_filenames": [
+                "gqa/images/1159833.jpg",
+                "vg/VG_100K/1159833.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "ocr_vqa/images/486235548.jpg",
+                "ocr_vqa/images/671032720.jpg"
+            ],
+            "hash": 16741013461564519922
+        },
+        "79": {
+            "matched_training_indices": [
+                67589,
+                168993
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2381097.jpg",
+                "vg/VG_100K_2/2381097.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "ocr_vqa/images/1423810554.jpg",
+                "vg/VG_100K/2355042.jpg"
+            ],
+            "hash": 18438533303716218891
+        },
+        "80": {
+            "matched_training_indices": [
+                71304,
+                278002
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K/2329534.jpg",
+                "gqa/images/2329534.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K/2342601.jpg",
+                "coco/train2017/000000256474.jpg"
+            ],
+            "hash": 15336258478807469112
+        },
+        "81": {
+            "matched_training_indices": [
+                122093
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K_2/2401996.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2349759.jpg"
+            ],
+            "hash": 14492326575865093226
+        },
+        "84": {
+            "matched_training_indices": [
+                99153
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2407400.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K/2352195.jpg"
+            ],
+            "hash": 15362864114253244890
+        },
+        "85": {
+            "matched_training_indices": [
+                122507,
+                267507
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K/2352722.jpg",
+                "gqa/images/2352722.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "textvqa/train_images/62e59b51e7c93799.jpg",
+                "coco/train2017/000000504486.jpg"
+            ],
+            "hash": 15027033287712513662
+        },
+        "86": {
+            "matched_training_indices": [
+                180065
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2346307.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K/2329897.jpg"
+            ],
+            "hash": 10368013323710306877
+        },
+        "90": {
+            "matched_training_indices": [
+                281735
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2367935.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2324948.jpg"
+            ],
+            "hash": 11993536497465236924
+        },
+        "89": {
+            "matched_training_indices": [
+                158699,
+                176604
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2401885.jpg",
+                "vg/VG_100K_2/2401885.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2407311.jpg",
+                "vg/VG_100K_2/2407882.jpg"
+            ],
+            "hash": 13314407547051755489
+        },
+        "88": {
+            "matched_training_indices": [
+                27975
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2367346.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000144139.jpg"
+            ],
+            "hash": 15009878765753316146
+        },
+        "92": {
+            "matched_training_indices": [
+                267675
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2355406.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000043500.jpg"
+            ],
+            "hash": 9441710825173248286
+        },
+        "99": {
+            "matched_training_indices": [
+                108839,
+                276319
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2317972.jpg",
+                "vg/VG_100K/2317972.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2406469.jpg",
+                "vg/VG_100K/2347675.jpg"
+            ],
+            "hash": 17260663251589879024
+        },
+        "93": {
+            "matched_training_indices": [
+                113132,
+                218083
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K/2335344.jpg",
+                "gqa/images/2335344.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000225210.jpg",
+                "vg/VG_100K_2/2405235.jpg"
+            ],
+            "hash": 12489050750610646856
+        },
+        "94": {
+            "matched_training_indices": [
+                21447
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2369400.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K/2369234.jpg"
+            ],
+            "hash": 9895367018566655900
+        },
+        "96": {
+            "matched_training_indices": [
+                43173,
+                306069
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2399199.jpg",
+                "vg/VG_100K_2/2399199.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000532766.jpg",
+                "coco/train2017/000000416018.jpg"
+            ],
+            "hash": 17753112641012022024
+        },
+        "95": {
+            "matched_training_indices": [
+                214954,
+                344005
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K_2/2410146.jpg",
+                "gqa/images/2410146.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2358486.jpg",
+                "ocr_vqa/images/375833706.jpg"
+            ],
+            "hash": 10829860565328304174
+        },
+        "100": {
+            "matched_training_indices": [
+                226181,
+                300044
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2409961.jpg",
+                "vg/VG_100K_2/2409961.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "textvqa/train_images/7b7d9a8b05f5bfd0.jpg",
+                "ocr_vqa/images/393317609.jpg"
+            ],
+            "hash": 13004436079550382606
+        },
+        "101": {
+            "matched_training_indices": [
+                84180,
+                334389
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2337457.jpg",
+                "vg/VG_100K/2337457.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000057050.jpg",
+                "coco/train2017/000000480864.jpg"
+            ],
+            "hash": 17367718514992845404
+        },
+        "102": {
+            "matched_training_indices": [
+                35661,
+                208778
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K_2/2380499.jpg",
+                "gqa/images/2380499.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K/2336575.jpg",
+                "coco/train2017/000000508252.jpg"
+            ],
+            "hash": 14229740072483782102
+        },
+        "98": {
+            "matched_training_indices": [
+                326011
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2408309.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K/1593059.jpg"
+            ],
+            "hash": 15263653309517120150
+        },
+        "103": {
+            "matched_training_indices": [
+                79493,
+                273178
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K_2/2406483.jpg",
+                "gqa/images/2406483.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000237859.jpg",
+                "textvqa/train_images/f8ba8ad0e8c30655.jpg"
+            ],
+            "hash": 12674224053775966094
+        },
+        "104": {
+            "matched_training_indices": [
+                302313
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K_2/2393784.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "ocr_vqa/images/823929493.jpg"
+            ],
+            "hash": 11858504192200183942
+        },
+        "105": {
+            "matched_training_indices": [
+                127268,
+                202118
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K_2/2385524.jpg",
+                "gqa/images/2385524.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "ocr_vqa/images/966361709.jpg",
+                "vg/VG_100K/2357431.jpg"
+            ],
+            "hash": 13848822611864829433
+        },
+        "106": {
+            "matched_training_indices": [
+                310360
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2368540.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2316257.jpg"
+            ],
+            "hash": 17063897888637568257
+        },
+        "112": {
+            "matched_training_indices": [
+                46850
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2409864.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2373002.jpg"
+            ],
+            "hash": 15480433820816549766
+        },
+        "113": {
+            "matched_training_indices": [
+                79726
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K/2363956.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000264127.jpg"
+            ],
+            "hash": 9224479493883332734
+        },
+        "107": {
+            "matched_training_indices": [
+                161257
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K/2357756.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K_2/2402665.jpg"
+            ],
+            "hash": 9350571460848807142
+        },
+        "111": {
+            "matched_training_indices": [
+                17659,
+                318544
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K/2346514.jpg",
+                "gqa/images/2346514.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K/2373920.jpg",
+                "ocr_vqa/images/934026165.jpg"
+            ],
+            "hash": 16096015875091251383
+        },
+        "108": {
+            "matched_training_indices": [
+                74812,
+                194267
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2354785.jpg",
+                "vg/VG_100K/2354785.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K/713183.jpg",
+                "textvqa/train_images/30151d024e12b848.jpg"
+            ],
+            "hash": 16975567668195468688
+        },
+        "66": {
+            "matched_training_indices": [
+                132663,
+                260749
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K/1160013.jpg",
+                "gqa/images/1160013.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2382761.jpg",
+                "ocr_vqa/images/849770076.jpg"
+            ],
+            "hash": 15903234386118879692
+        },
+        "118": {
+            "matched_training_indices": [
+                114630,
+                284617
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K/2339841.jpg",
+                "gqa/images/2339841.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2385008.jpg",
+                "vg/VG_100K/2322992.jpg"
+            ],
+            "hash": 11176301946043377509
+        },
+        "119": {
+            "matched_training_indices": [
+                171232
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2361208.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2407641.jpg"
+            ],
+            "hash": 15104530205768437544
+        },
+        "115": {
+            "matched_training_indices": [
+                84030
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K/2341078.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2387905.jpg"
+            ],
+            "hash": 13873404841384451646
+        },
+        "117": {
+            "matched_training_indices": [
+                136149
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K/2370583.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000118885.jpg"
+            ],
+            "hash": 12656421614045718223
+        },
+        "116": {
+            "matched_training_indices": [
+                40680,
+                134082
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K_2/2377971.jpg",
+                "gqa/images/2377971.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K/2350972.jpg",
+                "gqa/images/2367622.jpg"
+            ],
+            "hash": 9764922731639548024
+        },
+        "110": {
+            "matched_training_indices": [
+                71716,
+                89898
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K_2/2380377.jpg",
+                "gqa/images/2380377.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000388702.jpg",
+                "vg/VG_100K/2327833.jpg"
+            ],
+            "hash": 15765181530700043826
+        },
+        "56": {
+            "matched_training_indices": [
+                67721
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K_2/2378473.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K/2349885.jpg"
+            ],
+            "hash": 11325723053878423013
+        },
+        "52": {
+            "matched_training_indices": [
+                95422
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K/2363259.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "ocr_vqa/images/1119077052.jpg"
+            ],
+            "hash": 12581305362882522545
+        },
+        "82": {
+            "matched_training_indices": [
+                70878
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K/2334587.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "ocr_vqa/images/1467971391.jpg"
+            ],
+            "hash": 10923627371626480484
+        },
+        "294": {
+            "matched_training_indices": [
+                48553,
+                200874
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000005564.jpg",
+                "vg/VG_100K_2/2387364.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000286204.jpg",
+                "coco/train2017/000000061053.jpg"
+            ],
+            "hash": 13574350217056309006
+        },
+        "295": {
+            "matched_training_indices": [
+                177247,
+                246952
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2385605.jpg",
+                "vg/VG_100K_2/2385605.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K_2/2398578.jpg",
+                "vg/VG_100K/2326695.jpg"
+            ],
+            "hash": 10825126090004837829
+        },
+        "300": {
+            "matched_training_indices": [
+                257948
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2358922.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000334364.jpg"
+            ],
+            "hash": 10892353228543022324
+        },
+        "308": {
+            "matched_training_indices": [
+                20903,
+                25366
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2402154.jpg",
+                "vg/VG_100K_2/2402154.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "ocr_vqa/images/873414446.jpg",
+                "coco/train2017/000000020527.jpg"
+            ],
+            "hash": 10156619590376187090
+        },
+        "309": {
+            "matched_training_indices": [
+                140843
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000277709.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2349139.jpg"
+            ],
+            "hash": 14508824926508782233
+        },
+        "313": {
+            "matched_training_indices": [
+                144637,
+                309339,
+                315448
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000207880.jpg",
+                "gqa/images/2388721.jpg",
+                "vg/VG_100K_2/2388721.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "textvqa/train_images/014d074f58b81e48.jpg",
+                "gqa/images/2392824.jpg",
+                "ocr_vqa/images/1573443719.jpg"
+            ],
+            "hash": 9302634176236854175
+        },
+        "314": {
+            "matched_training_indices": [
+                45510,
+                259490,
+                304242
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2382363.jpg",
+                "coco/train2017/000000159598.jpg",
+                "vg/VG_100K_2/2382363.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000079552.jpg",
+                "textvqa/train_images/0029d81d0f4ac3d0.jpg",
+                "vg/VG_100K/2349338.jpg"
+            ],
+            "hash": 13960655520700305096
+        },
+        "324": {
+            "matched_training_indices": [
+                112641
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000513456.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2385140.jpg"
+            ],
+            "hash": 11523816640477905556
+        },
+        "326": {
+            "matched_training_indices": [
+                127696
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000049974.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K/2341219.jpg"
+            ],
+            "hash": 9287286364210357212
+        },
+        "323": {
+            "matched_training_indices": [
+                64612,
+                101154
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K/2376721.jpg",
+                "gqa/images/2376721.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K_2/2399467.jpg",
+                "gqa/images/107971.jpg"
+            ],
+            "hash": 18057227445320274197
+        },
+        "330": {
+            "matched_training_indices": [
+                118864,
+                180797,
+                228698
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2388383.jpg",
+                "coco/train2017/000000422705.jpg",
+                "vg/VG_100K_2/2388383.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2408636.jpg",
+                "gqa/images/2338393.jpg",
+                "vg/VG_100K/2367264.jpg"
+            ],
+            "hash": 14677860274764968036
+        },
+        "332": {
+            "matched_training_indices": [
+                101536
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000580930.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "ocr_vqa/images/313381798.jpg"
+            ],
+            "hash": 10769666544904094366
+        },
+        "336": {
+            "matched_training_indices": [
+                13493,
+                15123
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K/2339965.jpg",
+                "coco/train2017/000000536534.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K/2331408.jpg",
+                "vg/VG_100K/2347441.jpg"
+            ],
+            "hash": 10612400151045426656
+        },
+        "341": {
+            "matched_training_indices": [
+                9102,
+                338488
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K/2320161.jpg",
+                "gqa/images/2320161.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000361077.jpg",
+                "coco/train2017/000000182127.jpg"
+            ],
+            "hash": 11321469142105868878
+        },
+        "359": {
+            "matched_training_indices": [
+                37546,
+                66348,
+                166646
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2378752.jpg",
+                "vg/VG_100K_2/2378752.jpg",
+                "coco/train2017/000000255392.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000209639.jpg",
+                "ocr_vqa/images/1408158809.jpg",
+                "ocr_vqa/images/415319986.jpg"
+            ],
+            "hash": 10750512742411873431
+        },
+        "369": {
+            "matched_training_indices": [
+                120400,
+                131395,
+                149877
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000195288.jpg",
+                "gqa/images/2346356.jpg",
+                "vg/VG_100K/2346356.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "ocr_vqa/images/814656161.jpg",
+                "vg/VG_100K/2355902.jpg",
+                "ocr_vqa/images/691167966.jpg"
+            ],
+            "hash": 12856235142841208002
+        },
+        "378": {
+            "matched_training_indices": [
+                16048
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000449770.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000359897.jpg"
+            ],
+            "hash": 11875793589058815508
+        },
+        "528": {
+            "matched_training_indices": [
+                258152
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000105903.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "ocr_vqa/images/B00BDI1N8G.jpg"
+            ],
+            "hash": 13661082626328728114
+        },
+        "539": {
+            "matched_training_indices": [
+                34122,
+                82619,
+                304504
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K/2337686.jpg",
+                "gqa/images/2337686.jpg",
+                "coco/train2017/000000218142.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000533051.jpg",
+                "gqa/images/2386746.jpg",
+                "coco/train2017/000000573911.jpg"
+            ],
+            "hash": 16201864792295377172
+        },
+        "563": {
+            "matched_training_indices": [
+                119519
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000503777.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "ocr_vqa/images/1603444785.jpg"
+            ],
+            "hash": 14837274532718024812
+        },
+        "567": {
+            "matched_training_indices": [
+                66436
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000191632.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K_2/2413440.jpg"
+            ],
+            "hash": 18272381386276023486
+        },
+        "583": {
+            "matched_training_indices": [
+                294196
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000087363.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K/2322065.jpg"
+            ],
+            "hash": 15340968652031471947
+        },
+        "607": {
+            "matched_training_indices": [
+                1183
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000035782.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K_2/2378162.jpg"
+            ],
+            "hash": 10509279040687765652
+        },
+        "624": {
+            "matched_training_indices": [
+                124253
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000498967.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K/2326045.jpg"
+            ],
+            "hash": 12177415792891183900
+        },
+        "650": {
+            "matched_training_indices": [
+                78147
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2389641.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2366362.jpg"
+            ],
+            "hash": 16846636386216209551
+        },
+        "651": {
+            "matched_training_indices": [
+                162605
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000316563.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000050620.jpg"
+            ],
+            "hash": 17926723347479733816
+        },
+        "653": {
+            "matched_training_indices": [
+                51133,
+                90175,
+                314179
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2334875.jpg",
+                "coco/train2017/000000326594.jpg",
+                "vg/VG_100K/2334875.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2408110.jpg",
+                "coco/train2017/000000145610.jpg",
+                "ocr_vqa/images/939868059.jpg"
+            ],
+            "hash": 9340748404591932624
+        },
+        "654": {
+            "matched_training_indices": [
+                266869
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000475696.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K/2336834.jpg"
+            ],
+            "hash": 17574130698613461105
+        },
+        "655": {
+            "matched_training_indices": [
+                122085
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000256981.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2317008.jpg"
+            ],
+            "hash": 18302983441828805714
+        },
+        "656": {
+            "matched_training_indices": [
+                169589,
+                183916
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K_2/2392190.jpg",
+                "gqa/images/2392190.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "ocr_vqa/images/1919874275.jpg",
+                "ocr_vqa/images/688152066.jpg"
+            ],
+            "hash": 13063625778894808498
+        },
+        "657": {
+            "matched_training_indices": [
+                271620
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2372547.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "ocr_vqa/images/749658509.jpg"
+            ],
+            "hash": 10462760204694416406
+        },
+        "660": {
+            "matched_training_indices": [
+                214461
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000033625.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K/2329656.jpg"
+            ],
+            "hash": 12988538824319161397
+        },
+        "664": {
+            "matched_training_indices": [
+                274674
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000261225.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000454722.jpg"
+            ],
+            "hash": 13443790311691969688
+        },
+        "663": {
+            "matched_training_indices": [
+                177341
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000309607.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "ocr_vqa/images/148223520X.jpg"
+            ],
+            "hash": 14139086147876471509
+        },
+        "665": {
+            "matched_training_indices": [
+                170400
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000087705.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "textvqa/train_images/cd08d21f06b0e8a0.jpg"
+            ],
+            "hash": 11069078516542969523
+        },
+        "666": {
+            "matched_training_indices": [
+                75274,
+                299681
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K_2/2383868.jpg",
+                "coco/train2017/000000168317.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000145820.jpg",
+                "coco/train2017/000000519369.jpg"
+            ],
+            "hash": 10278535713296904409
+        },
+        "667": {
+            "matched_training_indices": [
+                168356
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000207475.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000283611.jpg"
+            ],
+            "hash": 17143472978604483091
+        },
+        "668": {
+            "matched_training_indices": [
+                17880,
+                72767,
+                340994
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K/2358789.jpg",
+                "gqa/images/2358789.jpg",
+                "coco/train2017/000000066376.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K/2369024.jpg",
+                "gqa/images/2379150.jpg",
+                "vg/VG_100K/2356860.jpg"
+            ],
+            "hash": 9791786733815929492
+        },
+        "670": {
+            "matched_training_indices": [
+                292434
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000320089.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K_2/2409484.jpg"
+            ],
+            "hash": 10921763797262894895
+        },
+        "671": {
+            "matched_training_indices": [
+                126481
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000136672.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2416417.jpg"
+            ],
+            "hash": 16922457729719834189
+        },
+        "673": {
+            "matched_training_indices": [
+                215794
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000419273.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000544215.jpg"
+            ],
+            "hash": 17926157602315218353
+        },
+        "674": {
+            "matched_training_indices": [
+                300073
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000097272.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000036618.jpg"
+            ],
+            "hash": 16398623349125912012
+        },
+        "675": {
+            "matched_training_indices": [
+                284717
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000338407.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "ocr_vqa/images/3805581807.jpg"
+            ],
+            "hash": 11864636133031400081
+        },
+        "676": {
+            "matched_training_indices": [
+                75274,
+                299681
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K_2/2383868.jpg",
+                "coco/train2017/000000168317.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000145820.jpg",
+                "coco/train2017/000000519369.jpg"
+            ],
+            "hash": 10278535713296904409
+        },
+        "678": {
+            "matched_training_indices": [
+                170155
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000104510.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2322795.jpg"
+            ],
+            "hash": 10865193255717399758
+        },
+        "679": {
+            "matched_training_indices": [
+                39919,
+                158159,
+                239278
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K/2371394.jpg",
+                "coco/train2017/000000196002.jpg",
+                "gqa/images/2371394.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000142866.jpg",
+                "textvqa/train_images/10f70565673360b6.jpg",
+                "vg/VG_100K/2351174.jpg"
+            ],
+            "hash": 18139554379733451280
+        },
+        "681": {
+            "matched_training_indices": [
+                343338
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000016458.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000579255.jpg"
+            ],
+            "hash": 11302671439875017031
+        },
+        "683": {
+            "matched_training_indices": [
+                73990,
+                78291,
+                220821
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2370537.jpg",
+                "coco/train2017/000000576386.jpg",
+                "vg/VG_100K/2370537.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2355920.jpg",
+                "coco/train2017/000000106296.jpg",
+                "textvqa/train_images/062e3ddc1b760de6.jpg"
+            ],
+            "hash": 18000974774161988812
+        },
+        "684": {
+            "matched_training_indices": [
+                138599
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000051985.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/497935.jpg"
+            ],
+            "hash": 9585119861078933071
+        },
+        "685": {
+            "matched_training_indices": [
+                73803
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000024215.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000442638.jpg"
+            ],
+            "hash": 15774855608532567604
+        },
+        "686": {
+            "matched_training_indices": [
+                287097
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000527224.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K/2325864.jpg"
+            ],
+            "hash": 9647160443169322324
+        },
+        "687": {
+            "matched_training_indices": [
+                302584
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000502495.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "ocr_vqa/images/199537267.jpg"
+            ],
+            "hash": 15356477018219374887
+        },
+        "688": {
+            "matched_training_indices": [
+                269499,
+                324603
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000262118.jpg",
+                "vg/VG_100K_2/2416600.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K/2367311.jpg",
+                "coco/train2017/000000534513.jpg"
+            ],
+            "hash": 9766170926158410077
+        },
+        "691": {
+            "matched_training_indices": [
+                884,
+                141010,
+                151676
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000094651.jpg",
+                "vg/VG_100K/713794.jpg",
+                "gqa/images/713794.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000031454.jpg",
+                "ocr_vqa/images/760348960.jpg",
+                "coco/train2017/000000314357.jpg"
+            ],
+            "hash": 9325083660112456294
+        },
+        "692": {
+            "matched_training_indices": [
+                159650
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000151567.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2413712.jpg"
+            ],
+            "hash": 14258890804427492092
+        },
+        "693": {
+            "matched_training_indices": [
+                123700,
+                142554,
+                211314
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000243442.jpg",
+                "gqa/images/2388384.jpg",
+                "vg/VG_100K_2/2388384.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K_2/2408694.jpg",
+                "ocr_vqa/images/1130452263.jpg",
+                "coco/train2017/000000227451.jpg"
+            ],
+            "hash": 12523132274507159102
+        },
+        "694": {
+            "matched_training_indices": [
+                292452
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000273704.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2413568.jpg"
+            ],
+            "hash": 9539340485352613335
+        },
+        "696": {
+            "matched_training_indices": [
+                46859,
+                202140
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2370692.jpg",
+                "vg/VG_100K/2370692.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K/2375344.jpg",
+                "vg/VG_100K/2371706.jpg"
+            ],
+            "hash": 15003574099896395353
+        },
+        "698": {
+            "matched_training_indices": [
+                98705
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000102763.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000242739.jpg"
+            ],
+            "hash": 16829307700068651454
+        },
+        "699": {
+            "matched_training_indices": [
+                24090,
+                181006,
+                259376
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2391407.jpg",
+                "vg/VG_100K_2/2391407.jpg",
+                "coco/train2017/000000511523.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "ocr_vqa/images/905214587.jpg",
+                "textvqa/train_images/bdbd16f54641f6ec.jpg",
+                "vg/VG_100K_2/2381810.jpg"
+            ],
+            "hash": 12304629367364263754
+        },
+        "700": {
+            "matched_training_indices": [
+                212236,
+                335764
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000124462.jpg",
+                "vg/VG_100K/2360683.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K/2330718.jpg",
+                "vg/VG_100K/2349544.jpg"
+            ],
+            "hash": 9955742328638418385
+        },
+        "701": {
+            "matched_training_indices": [
+                249196
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000355357.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/285705.jpg"
+            ],
+            "hash": 12949641731846724739
+        },
+        "702": {
+            "matched_training_indices": [
+                231618
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000079172.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000102461.jpg"
+            ],
+            "hash": 17192941770261057892
+        },
+        "703": {
+            "matched_training_indices": [
+                123122,
+                238484
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K/2373891.jpg",
+                "coco/train2017/000000151862.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "ocr_vqa/images/470289716.jpg",
+                "ocr_vqa/images/1440572828.jpg"
+            ],
+            "hash": 16970852516061355937
+        },
+        "704": {
+            "matched_training_indices": [
+                346809
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000478298.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "textvqa/train_images/dae7d1520d12dc38.jpg"
+            ],
+            "hash": 17472600570794897822
+        },
+        "705": {
+            "matched_training_indices": [
+                63178
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000296188.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000533154.jpg"
+            ],
+            "hash": 15192943481466221214
+        },
+        "707": {
+            "matched_training_indices": [
+                127467,
+                156089
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K/2343743.jpg",
+                "coco/train2017/000000315156.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "ocr_vqa/images/965602400.jpg",
+                "ocr_vqa/images/1613744013.jpg"
+            ],
+            "hash": 13505949566634912265
+        },
+        "709": {
+            "matched_training_indices": [
+                65106,
+                264009,
+                321348
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2373775.jpg",
+                "coco/train2017/000000116572.jpg",
+                "vg/VG_100K/2373775.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "ocr_vqa/images/71370048.jpg",
+                "coco/train2017/000000047617.jpg",
+                "ocr_vqa/images/1771640790.jpg"
+            ],
+            "hash": 17439508796892765929
+        },
+        "710": {
+            "matched_training_indices": [
+                206733
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000410805.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "ocr_vqa/images/696000342.jpg"
+            ],
+            "hash": 14324887374614532851
+        },
+        "712": {
+            "matched_training_indices": [
+                103243
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000361778.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "ocr_vqa/images/1118339339.jpg"
+            ],
+            "hash": 15491854819161883022
+        },
+        "711": {
+            "matched_training_indices": [
+                154562,
+                241961
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000457035.jpg",
+                "vg/VG_100K/1592233.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2366901.jpg",
+                "coco/train2017/000000200241.jpg"
+            ],
+            "hash": 17068502514684804640
+        },
+        "713": {
+            "matched_training_indices": [
+                7986,
+                91442
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K/2332165.jpg",
+                "coco/train2017/000000195525.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000272489.jpg",
+                "coco/train2017/000000576075.jpg"
+            ],
+            "hash": 14463188815448849693
+        },
+        "714": {
+            "matched_training_indices": [
+                73027,
+                155633,
+                327395
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000197398.jpg",
+                "gqa/images/2336193.jpg",
+                "vg/VG_100K/2336193.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "ocr_vqa/images/881922366.jpg",
+                "ocr_vqa/images/300188056.jpg",
+                "vg/VG_100K_2/2386761.jpg"
+            ],
+            "hash": 15319604349472202790
+        },
+        "715": {
+            "matched_training_indices": [
+                222800
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2408194.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "ocr_vqa/images/815634129.jpg"
+            ],
+            "hash": 18440915780300537984
+        },
+        "718": {
+            "matched_training_indices": [
+                56682
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000089848.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K/2324235.jpg"
+            ],
+            "hash": 14374566711118759545
+        },
+        "719": {
+            "matched_training_indices": [
+                186975
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000374922.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000175912.jpg"
+            ],
+            "hash": 16057144868854547648
+        },
+        "720": {
+            "matched_training_indices": [
+                147643,
+                273396,
+                295209
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000018233.jpg",
+                "vg/VG_100K/2332406.jpg",
+                "gqa/images/2332406.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000395957.jpg",
+                "vg/VG_100K_2/2382892.jpg",
+                "gqa/images/2362379.jpg"
+            ],
+            "hash": 15607275600795986635
+        },
+        "721": {
+            "matched_training_indices": [
+                316832
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000443397.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "textvqa/train_images/b8b2634526c3680a.jpg"
+            ],
+            "hash": 13191931948565160246
+        },
+        "722": {
+            "matched_training_indices": [
+                82980
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000177809.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000296831.jpg"
+            ],
+            "hash": 10217643576878559858
+        },
+        "723": {
+            "matched_training_indices": [
+                107530,
+                218634,
+                268577
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K/2341517.jpg",
+                "coco/train2017/000000252000.jpg",
+                "gqa/images/2341517.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "textvqa/train_images/990e6e7ad6cb1ee5.jpg",
+                "textvqa/train_images/8d38e523c6558a1c.jpg",
+                "coco/train2017/000000406253.jpg"
+            ],
+            "hash": 16098293209940804533
+        },
+        "724": {
+            "matched_training_indices": [
+                301288
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000129262.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2346686.jpg"
+            ],
+            "hash": 10294755579827618383
+        },
+        "725": {
+            "matched_training_indices": [
+                55486
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000439486.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000069583.jpg"
+            ],
+            "hash": 10927787762283614876
+        },
+        "726": {
+            "matched_training_indices": [
+                21964,
+                152449
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2345624.jpg",
+                "vg/VG_100K/2345624.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2411084.jpg",
+                "ocr_vqa/images/890966176.jpg"
+            ],
+            "hash": 11336034436711852764
+        },
+        "727": {
+            "matched_training_indices": [
+                74712
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000268570.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2331922.jpg"
+            ],
+            "hash": 10763712771366115056
+        },
+        "728": {
+            "matched_training_indices": [
+                12827,
+                285425
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K/2326759.jpg",
+                "coco/train2017/000000219817.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2395983.jpg",
+                "textvqa/train_images/5a8a20481bdc0f99.jpg"
+            ],
+            "hash": 10912330220640894319
+        },
+        "729": {
+            "matched_training_indices": [
+                103963,
+                281398
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000415093.jpg",
+                "vg/VG_100K/2320783.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "ocr_vqa/images/1934159069.jpg",
+                "coco/train2017/000000029761.jpg"
+            ],
+            "hash": 11052962990989757529
+        },
+        "731": {
+            "matched_training_indices": [
+                170511
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000540436.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000545200.jpg"
+            ],
+            "hash": 10199910353372285785
+        },
+        "732": {
+            "matched_training_indices": [
+                168085,
+                302396,
+                335449
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K/2324716.jpg",
+                "coco/train2017/000000268227.jpg",
+                "gqa/images/2324716.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000256184.jpg",
+                "ocr_vqa/images/764812483.jpg",
+                "coco/train2017/000000541298.jpg"
+            ],
+            "hash": 10484780407456621493
+        },
+        "733": {
+            "matched_training_indices": [
+                2942,
+                10707
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K/2362980.jpg",
+                "gqa/images/2362980.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K/2349394.jpg",
+                "coco/train2017/000000002614.jpg"
+            ],
+            "hash": 17061766557394454323
+        },
+        "734": {
+            "matched_training_indices": [
+                245864,
+                265865
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K_2/2397609.jpg",
+                "coco/train2017/000000266353.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K/2319067.jpg",
+                "ocr_vqa/images/150112403X.jpg"
+            ],
+            "hash": 10690321921374643595
+        },
+        "735": {
+            "matched_training_indices": [
+                129829,
+                235088
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000303047.jpg",
+                "vg/VG_100K/2329142.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "ocr_vqa/images/307589897.jpg",
+                "gqa/images/2369411.jpg"
+            ],
+            "hash": 13869297183043926487
+        },
+        "736": {
+            "matched_training_indices": [
+                148325
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000023137.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K/2356369.jpg"
+            ],
+            "hash": 17419126468391888952
+        },
+        "737": {
+            "matched_training_indices": [
+                111819,
+                144943,
+                189979
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000278646.jpg",
+                "vg/VG_100K/2331107.jpg",
+                "gqa/images/2331107.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000384957.jpg",
+                "textvqa/train_images/df7cfc51b68b8cb7.jpg",
+                "coco/train2017/000000017890.jpg"
+            ],
+            "hash": 16845869752224484278
+        },
+        "740": {
+            "matched_training_indices": [
+                242437
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000079421.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2360700.jpg"
+            ],
+            "hash": 15004813961553396622
+        },
+        "741": {
+            "matched_training_indices": [
+                130000
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000379612.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000004893.jpg"
+            ],
+            "hash": 13301178705643788312
+        },
+        "743": {
+            "matched_training_indices": [
+                5883,
+                35429,
+                322387
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K/2345670.jpg",
+                "coco/train2017/000000493316.jpg",
+                "gqa/images/2345670.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K/2322013.jpg",
+                "ocr_vqa/images/312368798.jpg",
+                "vg/VG_100K_2/2391042.jpg"
+            ],
+            "hash": 14732345963762060697
+        },
+        "746": {
+            "matched_training_indices": [
+                7026,
+                19968
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000413334.jpg",
+                "vg/VG_100K/2340499.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "ocr_vqa/images/1627987479.jpg",
+                "gqa/images/2378651.jpg"
+            ],
+            "hash": 15774286178914964645
+        },
+        "748": {
+            "matched_training_indices": [
+                246816
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000205613.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "ocr_vqa/images/1465424644.jpg"
+            ],
+            "hash": 16213100165344509820
+        },
+        "749": {
+            "matched_training_indices": [
+                45937
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000385145.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "ocr_vqa/images/1449636403.jpg"
+            ],
+            "hash": 13333287483977999793
+        },
+        "752": {
+            "matched_training_indices": [
+                85751,
+                328276
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K_2/2387104.jpg",
+                "coco/train2017/000000456376.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000353653.jpg",
+                "ocr_vqa/images/155337827X.jpg"
+            ],
+            "hash": 14490250875692159077
+        },
+        "753": {
+            "matched_training_indices": [
+                155063
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000293014.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000506183.jpg"
+            ],
+            "hash": 10910266739842636466
+        },
+        "755": {
+            "matched_training_indices": [
+                40758,
+                251576
+            ],
+            "matched_training_filenames": [
+                "gqa/images/1159864.jpg",
+                "vg/VG_100K/1159864.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K_2/3133.jpg",
+                "ocr_vqa/images/394531515.jpg"
+            ],
+            "hash": 15077680268674872555
+        },
+        "754": {
+            "matched_training_indices": [
+                43370
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000358630.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000048220.jpg"
+            ],
+            "hash": 11936160013381782692
+        },
+        "756": {
+            "matched_training_indices": [
+                286768
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000160890.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K_2/2392840.jpg"
+            ],
+            "hash": 13922806127153755602
+        },
+        "757": {
+            "matched_training_indices": [
+                292434
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000320089.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K_2/2409484.jpg"
+            ],
+            "hash": 10921763797262894895
+        },
+        "759": {
+            "matched_training_indices": [
+                106919
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000470472.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "ocr_vqa/images/71354484.jpg"
+            ],
+            "hash": 12679894256200957252
+        },
+        "760": {
+            "matched_training_indices": [
+                61266,
+                79198,
+                241897
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K_2/2410283.jpg",
+                "gqa/images/2410283.jpg",
+                "coco/train2017/000000362966.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000070309.jpg",
+                "gqa/images/2346998.jpg",
+                "coco/train2017/000000552776.jpg"
+            ],
+            "hash": 14548137290846775004
+        },
+        "761": {
+            "matched_training_indices": [
+                5442
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000460991.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "ocr_vqa/images/794842305.jpg"
+            ],
+            "hash": 14397844733778779746
+        },
+        "763": {
+            "matched_training_indices": [
+                199510,
+                225753
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2315872.jpg",
+                "vg/VG_100K/2315872.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000023429.jpg",
+                "gqa/images/2358943.jpg"
+            ],
+            "hash": 9755429256757258595
+        },
+        "762": {
+            "matched_training_indices": [
+                150097
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000392387.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K/2345040.jpg"
+            ],
+            "hash": 9518757925557465479
+        },
+        "764": {
+            "matched_training_indices": [
+                48219
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000543747.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000292058.jpg"
+            ],
+            "hash": 16873299344600828719
+        },
+        "765": {
+            "matched_training_indices": [
+                282684
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000318497.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "ocr_vqa/images/60185104.jpg"
+            ],
+            "hash": 16203985126043371883
+        },
+        "767": {
+            "matched_training_indices": [
+                18110
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K_2/2389614.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000078053.jpg"
+            ],
+            "hash": 14303214026866726793
+        },
+        "769": {
+            "matched_training_indices": [
+                148353
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000274108.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000533394.jpg"
+            ],
+            "hash": 13901885900065224219
+        },
+        "771": {
+            "matched_training_indices": [
+                344443
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000411668.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "ocr_vqa/images/71778624.jpg"
+            ],
+            "hash": 16630697705651200780
+        },
+        "770": {
+            "matched_training_indices": [
+                134635
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000481820.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000344149.jpg"
+            ],
+            "hash": 13062853337065349940
+        },
+        "772": {
+            "matched_training_indices": [
+                159501
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000435549.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2340473.jpg"
+            ],
+            "hash": 10610410475158015865
+        },
+        "773": {
+            "matched_training_indices": [
+                309221
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000504027.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2374992.jpg"
+            ],
+            "hash": 12225554960089262493
+        },
+        "775": {
+            "matched_training_indices": [
+                260828
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000157965.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2361067.jpg"
+            ],
+            "hash": 10985265695437389716
+        },
+        "776": {
+            "matched_training_indices": [
+                172333
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000407927.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000493828.jpg"
+            ],
+            "hash": 13240855573697697948
+        },
+        "778": {
+            "matched_training_indices": [
+                211242,
+                280702
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000544216.jpg",
+                "vg/VG_100K/2348717.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000002867.jpg",
+                "vg/VG_100K_2/2338.jpg"
+            ],
+            "hash": 12088854609778643145
+        },
+        "779": {
+            "matched_training_indices": [
+                113543
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000159118.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K_2/2888.jpg"
+            ],
+            "hash": 17986114368171172965
+        },
+        "780": {
+            "matched_training_indices": [
+                207787
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000468951.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "textvqa/train_images/af64880695b72bd5.jpg"
+            ],
+            "hash": 17350051321278274716
+        },
+        "781": {
+            "matched_training_indices": [
+                51397,
+                87207,
+                131999
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000477647.jpg",
+                "vg/VG_100K/2319442.jpg",
+                "gqa/images/2319442.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "textvqa/train_images/c901076492e682b6.jpg",
+                "gqa/images/2326738.jpg",
+                "coco/train2017/000000461333.jpg"
+            ],
+            "hash": 10489295206563587175
+        },
+        "782": {
+            "matched_training_indices": [
+                87250
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000540164.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000040716.jpg"
+            ],
+            "hash": 11379864087012374961
+        },
+        "783": {
+            "matched_training_indices": [
+                60733
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000282076.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000185479.jpg"
+            ],
+            "hash": 17795653646227687556
+        },
+        "784": {
+            "matched_training_indices": [
+                177391,
+                276966,
+                284323
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K/2346080.jpg",
+                "coco/train2017/000000367471.jpg",
+                "gqa/images/2346080.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000014103.jpg",
+                "gqa/images/2413917.jpg",
+                "coco/train2017/000000111259.jpg"
+            ],
+            "hash": 10184224784040236201
+        },
+        "785": {
+            "matched_training_indices": [
+                158211
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000479563.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "ocr_vqa/images/470630043.jpg"
+            ],
+            "hash": 14726400116211280560
+        },
+        "786": {
+            "matched_training_indices": [
+                41942,
+                346011
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K_2/2399384.jpg",
+                "coco/train2017/000000508412.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2370436.jpg",
+                "gqa/images/2403738.jpg"
+            ],
+            "hash": 14372540679919177252
+        },
+        "787": {
+            "matched_training_indices": [
+                34629,
+                253013
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K/2353542.jpg",
+                "coco/train2017/000000015391.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2378365.jpg",
+                "ocr_vqa/images/1590481615.jpg"
+            ],
+            "hash": 10850237396762637011
+        },
+        "788": {
+            "matched_training_indices": [
+                152633
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000550455.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000527092.jpg"
+            ],
+            "hash": 18383342308314204673
+        },
+        "791": {
+            "matched_training_indices": [
+                213009
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000522405.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000544250.jpg"
+            ],
+            "hash": 12456768418724471529
+        }
+    }
+}

@@ -1,0 +1,747 @@
+{
+    "total_test_images": 5188,
+    "n_test_images_with_match": 53,
+    "test_matches": {
+        "6": {
+            "matched_training_indices": [
+                1690707,
+                2707821,
+                3133145
+            ],
+            "matched_training_filenames": [
+                "docvqa/documents/gryn0081_1.png",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/infographicvqa+single_document_question_821_gryn0081_1.png",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/DOCVQA+question_answer_561_gryn0081_1.png"
+            ],
+            "matched_training_filenames_old": [
+                "websight/images/train_730570.png",
+                "websight/images/train_608407.png",
+                "websight/images/train_719775.png"
+            ],
+            "hash": 12673640300430150172
+        },
+        "10": {
+            "matched_training_indices": [
+                1690707,
+                2707821,
+                3133145
+            ],
+            "matched_training_filenames": [
+                "docvqa/documents/gryn0081_1.png",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/infographicvqa+single_document_question_821_gryn0081_1.png",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/DOCVQA+question_answer_561_gryn0081_1.png"
+            ],
+            "matched_training_filenames_old": [
+                "websight/images/train_730570.png",
+                "websight/images/train_608407.png",
+                "websight/images/train_719775.png"
+            ],
+            "hash": 12673640300430150172
+        },
+        "11": {
+            "matched_training_indices": [
+                1690707,
+                2707821,
+                3133145
+            ],
+            "matched_training_filenames": [
+                "docvqa/documents/gryn0081_1.png",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/infographicvqa+single_document_question_821_gryn0081_1.png",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/DOCVQA+question_answer_561_gryn0081_1.png"
+            ],
+            "matched_training_filenames_old": [
+                "websight/images/train_730570.png",
+                "websight/images/train_608407.png",
+                "websight/images/train_719775.png"
+            ],
+            "hash": 12673640300430150172
+        },
+        "12": {
+            "matched_training_indices": [
+                1690707,
+                2707821,
+                3133145
+            ],
+            "matched_training_filenames": [
+                "docvqa/documents/gryn0081_1.png",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/infographicvqa+single_document_question_821_gryn0081_1.png",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/DOCVQA+question_answer_561_gryn0081_1.png"
+            ],
+            "matched_training_filenames_old": [
+                "websight/images/train_730570.png",
+                "websight/images/train_608407.png",
+                "websight/images/train_719775.png"
+            ],
+            "hash": 12673640300430150172
+        },
+        "15": {
+            "matched_training_indices": [
+                1690707,
+                2707821,
+                3133145
+            ],
+            "matched_training_filenames": [
+                "docvqa/documents/gryn0081_1.png",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/infographicvqa+single_document_question_821_gryn0081_1.png",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/DOCVQA+question_answer_561_gryn0081_1.png"
+            ],
+            "matched_training_filenames_old": [
+                "websight/images/train_730570.png",
+                "websight/images/train_608407.png",
+                "websight/images/train_719775.png"
+            ],
+            "hash": 12673640300430150172
+        },
+        "14": {
+            "matched_training_indices": [
+                1690707,
+                2707821,
+                3133145
+            ],
+            "matched_training_filenames": [
+                "docvqa/documents/gryn0081_1.png",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/infographicvqa+single_document_question_821_gryn0081_1.png",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/DOCVQA+question_answer_561_gryn0081_1.png"
+            ],
+            "matched_training_filenames_old": [
+                "websight/images/train_730570.png",
+                "websight/images/train_608407.png",
+                "websight/images/train_719775.png"
+            ],
+            "hash": 12673640300430150172
+        },
+        "17": {
+            "matched_training_indices": [
+                1690707,
+                2707821,
+                3133145
+            ],
+            "matched_training_filenames": [
+                "docvqa/documents/gryn0081_1.png",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/infographicvqa+single_document_question_821_gryn0081_1.png",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/DOCVQA+question_answer_561_gryn0081_1.png"
+            ],
+            "matched_training_filenames_old": [
+                "websight/images/train_730570.png",
+                "websight/images/train_608407.png",
+                "websight/images/train_719775.png"
+            ],
+            "hash": 12673640300430150172
+        },
+        "18": {
+            "matched_training_indices": [
+                1690707,
+                2707821,
+                3133145
+            ],
+            "matched_training_filenames": [
+                "docvqa/documents/gryn0081_1.png",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/infographicvqa+single_document_question_821_gryn0081_1.png",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/DOCVQA+question_answer_561_gryn0081_1.png"
+            ],
+            "matched_training_filenames_old": [
+                "websight/images/train_730570.png",
+                "websight/images/train_608407.png",
+                "websight/images/train_719775.png"
+            ],
+            "hash": 12673640300430150172
+        },
+        "19": {
+            "matched_training_indices": [
+                1690707,
+                2707821,
+                3133145
+            ],
+            "matched_training_filenames": [
+                "docvqa/documents/gryn0081_1.png",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/infographicvqa+single_document_question_821_gryn0081_1.png",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/DOCVQA+question_answer_561_gryn0081_1.png"
+            ],
+            "matched_training_filenames_old": [
+                "websight/images/train_730570.png",
+                "websight/images/train_608407.png",
+                "websight/images/train_719775.png"
+            ],
+            "hash": 12673640300430150172
+        },
+        "907": {
+            "matched_training_indices": [
+                1172928,
+                3611263
+            ],
+            "matched_training_filenames": [
+                "docvqa/documents/qpjf0226_4.png",
+                "docvqa/documents/tpjf0226_3.png"
+            ],
+            "matched_training_filenames_old": [
+                "websight/images/train_245125.png",
+                "hfdata/raven/10563.jpg"
+            ],
+            "hash": 13129087780821699740
+        },
+        "908": {
+            "matched_training_indices": [
+                1172928,
+                3611263
+            ],
+            "matched_training_filenames": [
+                "docvqa/documents/qpjf0226_4.png",
+                "docvqa/documents/tpjf0226_3.png"
+            ],
+            "matched_training_filenames_old": [
+                "websight/images/train_245125.png",
+                "hfdata/raven/10563.jpg"
+            ],
+            "hash": 13129087780821699740
+        },
+        "909": {
+            "matched_training_indices": [
+                1172928,
+                3611263
+            ],
+            "matched_training_filenames": [
+                "docvqa/documents/qpjf0226_4.png",
+                "docvqa/documents/tpjf0226_3.png"
+            ],
+            "matched_training_filenames_old": [
+                "websight/images/train_245125.png",
+                "hfdata/raven/10563.jpg"
+            ],
+            "hash": 13129087780821699740
+        },
+        "911": {
+            "matched_training_indices": [
+                1172928,
+                3611263
+            ],
+            "matched_training_filenames": [
+                "docvqa/documents/qpjf0226_4.png",
+                "docvqa/documents/tpjf0226_3.png"
+            ],
+            "matched_training_filenames_old": [
+                "websight/images/train_245125.png",
+                "hfdata/raven/10563.jpg"
+            ],
+            "hash": 13129087780821699740
+        },
+        "910": {
+            "matched_training_indices": [
+                1172928,
+                3611263
+            ],
+            "matched_training_filenames": [
+                "docvqa/documents/qpjf0226_4.png",
+                "docvqa/documents/tpjf0226_3.png"
+            ],
+            "matched_training_filenames_old": [
+                "websight/images/train_245125.png",
+                "hfdata/raven/10563.jpg"
+            ],
+            "hash": 13129087780821699740
+        },
+        "1070": {
+            "matched_training_indices": [
+                1967514,
+                2340486
+            ],
+            "matched_training_filenames": [
+                "docvqa/documents/fsgj0223_4.png",
+                "docvqa/documents/gsgj0223_4.png"
+            ],
+            "matched_training_filenames_old": [
+                "chartqa/train/png/two_col_82274.png",
+                "chartqa/train/png/two_col_22765.png"
+            ],
+            "hash": 13772219379213811636
+        },
+        "1071": {
+            "matched_training_indices": [
+                1967514,
+                2340486
+            ],
+            "matched_training_filenames": [
+                "docvqa/documents/fsgj0223_4.png",
+                "docvqa/documents/gsgj0223_4.png"
+            ],
+            "matched_training_filenames_old": [
+                "chartqa/train/png/two_col_82274.png",
+                "chartqa/train/png/two_col_22765.png"
+            ],
+            "hash": 13772219379213811636
+        },
+        "1074": {
+            "matched_training_indices": [
+                1967514,
+                2340486
+            ],
+            "matched_training_filenames": [
+                "docvqa/documents/fsgj0223_4.png",
+                "docvqa/documents/gsgj0223_4.png"
+            ],
+            "matched_training_filenames_old": [
+                "chartqa/train/png/two_col_82274.png",
+                "chartqa/train/png/two_col_22765.png"
+            ],
+            "hash": 13772219379213811636
+        },
+        "1075": {
+            "matched_training_indices": [
+                1967514,
+                2340486
+            ],
+            "matched_training_filenames": [
+                "docvqa/documents/fsgj0223_4.png",
+                "docvqa/documents/gsgj0223_4.png"
+            ],
+            "matched_training_filenames_old": [
+                "chartqa/train/png/two_col_82274.png",
+                "chartqa/train/png/two_col_22765.png"
+            ],
+            "hash": 13772219379213811636
+        },
+        "1708": {
+            "matched_training_indices": [
+                2160810
+            ],
+            "matched_training_filenames": [
+                "docvqa/documents/xkbw0217_53.png"
+            ],
+            "matched_training_filenames_old": [
+                "geo170k/images/geoqa_plus/12684.png"
+            ],
+            "hash": 17912371941693159575
+        },
+        "1798": {
+            "matched_training_indices": [
+                2160810
+            ],
+            "matched_training_filenames": [
+                "docvqa/documents/xkbw0217_53.png"
+            ],
+            "matched_training_filenames_old": [
+                "geo170k/images/geoqa_plus/12684.png"
+            ],
+            "hash": 17912371941693159575
+        },
+        "2505": {
+            "matched_training_indices": [
+                788366
+            ],
+            "matched_training_filenames": [
+                "docvqa/documents/rybx0223_67.png"
+            ],
+            "matched_training_filenames_old": [
+                "lnqa/images/train_175369.jpg"
+            ],
+            "hash": 13707482617866790341
+        },
+        "2506": {
+            "matched_training_indices": [
+                788366
+            ],
+            "matched_training_filenames": [
+                "docvqa/documents/rybx0223_67.png"
+            ],
+            "matched_training_filenames_old": [
+                "lnqa/images/train_175369.jpg"
+            ],
+            "hash": 13707482617866790341
+        },
+        "2508": {
+            "matched_training_indices": [
+                788366
+            ],
+            "matched_training_filenames": [
+                "docvqa/documents/rybx0223_67.png"
+            ],
+            "matched_training_filenames_old": [
+                "lnqa/images/train_175369.jpg"
+            ],
+            "hash": 13707482617866790341
+        },
+        "2510": {
+            "matched_training_indices": [
+                788366
+            ],
+            "matched_training_filenames": [
+                "docvqa/documents/rybx0223_67.png"
+            ],
+            "matched_training_filenames_old": [
+                "lnqa/images/train_175369.jpg"
+            ],
+            "hash": 13707482617866790341
+        },
+        "2511": {
+            "matched_training_indices": [
+                788366
+            ],
+            "matched_training_filenames": [
+                "docvqa/documents/rybx0223_67.png"
+            ],
+            "matched_training_filenames_old": [
+                "lnqa/images/train_175369.jpg"
+            ],
+            "hash": 13707482617866790341
+        },
+        "2513": {
+            "matched_training_indices": [
+                788366
+            ],
+            "matched_training_filenames": [
+                "docvqa/documents/rybx0223_67.png"
+            ],
+            "matched_training_filenames_old": [
+                "lnqa/images/train_175369.jpg"
+            ],
+            "hash": 13707482617866790341
+        },
+        "2517": {
+            "matched_training_indices": [
+                788366
+            ],
+            "matched_training_filenames": [
+                "docvqa/documents/rybx0223_67.png"
+            ],
+            "matched_training_filenames_old": [
+                "lnqa/images/train_175369.jpg"
+            ],
+            "hash": 13707482617866790341
+        },
+        "2520": {
+            "matched_training_indices": [
+                788366
+            ],
+            "matched_training_filenames": [
+                "docvqa/documents/rybx0223_67.png"
+            ],
+            "matched_training_filenames_old": [
+                "lnqa/images/train_175369.jpg"
+            ],
+            "hash": 13707482617866790341
+        },
+        "2523": {
+            "matched_training_indices": [
+                788366
+            ],
+            "matched_training_filenames": [
+                "docvqa/documents/rybx0223_67.png"
+            ],
+            "matched_training_filenames_old": [
+                "lnqa/images/train_175369.jpg"
+            ],
+            "hash": 13707482617866790341
+        },
+        "3193": {
+            "matched_training_indices": [
+                3618072
+            ],
+            "matched_training_filenames": [
+                "docvqa/documents/gnvj0223_13.png"
+            ],
+            "matched_training_filenames_old": [
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/137424.jpeg"
+            ],
+            "hash": 13814106630122160334
+        },
+        "3195": {
+            "matched_training_indices": [
+                3618072
+            ],
+            "matched_training_filenames": [
+                "docvqa/documents/gnvj0223_13.png"
+            ],
+            "matched_training_filenames_old": [
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/137424.jpeg"
+            ],
+            "hash": 13814106630122160334
+        },
+        "3197": {
+            "matched_training_indices": [
+                3618072
+            ],
+            "matched_training_filenames": [
+                "docvqa/documents/gnvj0223_13.png"
+            ],
+            "matched_training_filenames_old": [
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/137424.jpeg"
+            ],
+            "hash": 13814106630122160334
+        },
+        "3215": {
+            "matched_training_indices": [
+                1886780,
+                3747285
+            ],
+            "matched_training_filenames": [
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/infographicvqa+single_document_question_908_mjdw0217_2.png",
+                "docvqa/documents/mjdw0217_2.png"
+            ],
+            "matched_training_filenames_old": [
+                "hfdata/geomverse/7147.jpg",
+                "alfworld/alf-image-id-2/episode-94-step-36-image.png"
+            ],
+            "hash": 13419156114621187524
+        },
+        "3450": {
+            "matched_training_indices": [
+                2898635
+            ],
+            "matched_training_filenames": [
+                "docvqa/documents/jtxh0226_1.png"
+            ],
+            "matched_training_filenames_old": [
+                "hfdata/robut_wikisql/16912.jpg"
+            ],
+            "hash": 16954868748536809092
+        },
+        "3452": {
+            "matched_training_indices": [
+                2898635
+            ],
+            "matched_training_filenames": [
+                "docvqa/documents/jtxh0226_1.png"
+            ],
+            "matched_training_filenames_old": [
+                "hfdata/robut_wikisql/16912.jpg"
+            ],
+            "hash": 16954868748536809092
+        },
+        "3453": {
+            "matched_training_indices": [
+                2898635
+            ],
+            "matched_training_filenames": [
+                "docvqa/documents/jtxh0226_1.png"
+            ],
+            "matched_training_filenames_old": [
+                "hfdata/robut_wikisql/16912.jpg"
+            ],
+            "hash": 16954868748536809092
+        },
+        "3455": {
+            "matched_training_indices": [
+                2898635
+            ],
+            "matched_training_filenames": [
+                "docvqa/documents/jtxh0226_1.png"
+            ],
+            "matched_training_filenames_old": [
+                "hfdata/robut_wikisql/16912.jpg"
+            ],
+            "hash": 16954868748536809092
+        },
+        "3517": {
+            "matched_training_indices": [
+                1886780,
+                3747285
+            ],
+            "matched_training_filenames": [
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/infographicvqa+single_document_question_908_mjdw0217_2.png",
+                "docvqa/documents/mjdw0217_2.png"
+            ],
+            "matched_training_filenames_old": [
+                "hfdata/geomverse/7147.jpg",
+                "alfworld/alf-image-id-2/episode-94-step-36-image.png"
+            ],
+            "hash": 13419156114621187524
+        },
+        "3518": {
+            "matched_training_indices": [
+                1886780,
+                3747285
+            ],
+            "matched_training_filenames": [
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/infographicvqa+single_document_question_908_mjdw0217_2.png",
+                "docvqa/documents/mjdw0217_2.png"
+            ],
+            "matched_training_filenames_old": [
+                "hfdata/geomverse/7147.jpg",
+                "alfworld/alf-image-id-2/episode-94-step-36-image.png"
+            ],
+            "hash": 13419156114621187524
+        },
+        "3519": {
+            "matched_training_indices": [
+                1886780,
+                3747285
+            ],
+            "matched_training_filenames": [
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/infographicvqa+single_document_question_908_mjdw0217_2.png",
+                "docvqa/documents/mjdw0217_2.png"
+            ],
+            "matched_training_filenames_old": [
+                "hfdata/geomverse/7147.jpg",
+                "alfworld/alf-image-id-2/episode-94-step-36-image.png"
+            ],
+            "hash": 13419156114621187524
+        },
+        "3520": {
+            "matched_training_indices": [
+                1886780,
+                3747285
+            ],
+            "matched_training_filenames": [
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/infographicvqa+single_document_question_908_mjdw0217_2.png",
+                "docvqa/documents/mjdw0217_2.png"
+            ],
+            "matched_training_filenames_old": [
+                "hfdata/geomverse/7147.jpg",
+                "alfworld/alf-image-id-2/episode-94-step-36-image.png"
+            ],
+            "hash": 13419156114621187524
+        },
+        "3542": {
+            "matched_training_indices": [
+                2440948
+            ],
+            "matched_training_filenames": [
+                "docvqa/documents/fsgj0223_7.png"
+            ],
+            "matched_training_filenames_old": [
+                "hfdata/tabmwp/16302.jpg"
+            ],
+            "hash": 13791359201542511262
+        },
+        "3829": {
+            "matched_training_indices": [
+                2440948
+            ],
+            "matched_training_filenames": [
+                "docvqa/documents/fsgj0223_7.png"
+            ],
+            "matched_training_filenames_old": [
+                "hfdata/tabmwp/16302.jpg"
+            ],
+            "hash": 13791359201542511262
+        },
+        "3832": {
+            "matched_training_indices": [
+                2440948
+            ],
+            "matched_training_filenames": [
+                "docvqa/documents/fsgj0223_7.png"
+            ],
+            "matched_training_filenames_old": [
+                "hfdata/tabmwp/16302.jpg"
+            ],
+            "hash": 13791359201542511262
+        },
+        "4409": {
+            "matched_training_indices": [
+                468165
+            ],
+            "matched_training_filenames": [
+                "docvqa/documents/yrgj0223_38.png"
+            ],
+            "matched_training_filenames_old": [
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/214164.jpeg"
+            ],
+            "hash": 13780865780377895392
+        },
+        "4411": {
+            "matched_training_indices": [
+                468165
+            ],
+            "matched_training_filenames": [
+                "docvqa/documents/yrgj0223_38.png"
+            ],
+            "matched_training_filenames_old": [
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/214164.jpeg"
+            ],
+            "hash": 13780865780377895392
+        },
+        "4413": {
+            "matched_training_indices": [
+                468165
+            ],
+            "matched_training_filenames": [
+                "docvqa/documents/yrgj0223_38.png"
+            ],
+            "matched_training_filenames_old": [
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/214164.jpeg"
+            ],
+            "hash": 13780865780377895392
+        },
+        "4414": {
+            "matched_training_indices": [
+                468165
+            ],
+            "matched_training_filenames": [
+                "docvqa/documents/yrgj0223_38.png"
+            ],
+            "matched_training_filenames_old": [
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/214164.jpeg"
+            ],
+            "hash": 13780865780377895392
+        },
+        "4415": {
+            "matched_training_indices": [
+                468165
+            ],
+            "matched_training_filenames": [
+                "docvqa/documents/yrgj0223_38.png"
+            ],
+            "matched_training_filenames_old": [
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/214164.jpeg"
+            ],
+            "hash": 13780865780377895392
+        },
+        "4417": {
+            "matched_training_indices": [
+                468165
+            ],
+            "matched_training_filenames": [
+                "docvqa/documents/yrgj0223_38.png"
+            ],
+            "matched_training_filenames_old": [
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/214164.jpeg"
+            ],
+            "hash": 13780865780377895392
+        },
+        "4471": {
+            "matched_training_indices": [
+                1043289,
+                2877507
+            ],
+            "matched_training_filenames": [
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/DOCVQA+question_answer_137_zxbw0217_3.png",
+                "docvqa/documents/zxbw0217_3.png"
+            ],
+            "matched_training_filenames_old": [
+                "synthdog/images/377558.jpg",
+                "llavar/finetune/100001279707.jpg"
+            ],
+            "hash": 12569281505053020306
+        },
+        "4474": {
+            "matched_training_indices": [
+                1043289,
+                2877507
+            ],
+            "matched_training_filenames": [
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/DOCVQA+question_answer_137_zxbw0217_3.png",
+                "docvqa/documents/zxbw0217_3.png"
+            ],
+            "matched_training_filenames_old": [
+                "synthdog/images/377558.jpg",
+                "llavar/finetune/100001279707.jpg"
+            ],
+            "hash": 12569281505053020306
+        },
+        "4475": {
+            "matched_training_indices": [
+                1043289,
+                2877507
+            ],
+            "matched_training_filenames": [
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/DOCVQA+question_answer_137_zxbw0217_3.png",
+                "docvqa/documents/zxbw0217_3.png"
+            ],
+            "matched_training_filenames_old": [
+                "synthdog/images/377558.jpg",
+                "llavar/finetune/100001279707.jpg"
+            ],
+            "hash": 12569281505053020306
+        }
+    }
+}

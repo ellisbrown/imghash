@@ -1,0 +1,4158 @@
+{
+    "total_test_images": 1500,
+    "n_test_images_with_match": 180,
+    "test_matches": {
+        "0": {
+            "matched_training_indices": [
+                142531,
+                400538,
+                1752431,
+                2095874,
+                3251399,
+                3348540
+            ],
+            "matched_training_filenames": [
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/STVQA+image_question_answer_341_COCO_train2014_000000541725.jpg",
+                "hfdata/st_vqa/4103.jpg",
+                "vg/VG_100K_2/2383287.jpg",
+                "tallyqa/train2014/COCO_train2014_000000541725.jpg",
+                "tallyqa/VG_100K_2/2383287.jpg",
+                "coco/train2017/000000541725.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/FlickrLogos-27+logo_detection_927_4449281604.jpg",
+                "/mnt/disks/storage/data/finetune_data/screen_qa/combined/55578.jpg",
+                "hfdata/robut_wikisql/31475.jpg",
+                "data_engine/partII/images/70439.png",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/52498.jpeg",
+                "synthdog/images/243027.jpg"
+            ],
+            "hash": 10769083819780265409
+        },
+        "54": {
+            "matched_training_indices": [
+                1078361
+            ],
+            "matched_training_filenames": [
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/6350.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "clevr/CLEVR_v1.0/images/train/CLEVR_train_016975.png"
+            ],
+            "hash": 9625647909584988300
+        },
+        "100": {
+            "matched_training_indices": [
+                2550672,
+                2767098
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000015733.jpg",
+                "tallyqa/train2014/COCO_train2014_000000015733.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "synthdog/images/177083.jpg",
+                "synthdog/images/371156.jpg"
+            ],
+            "hash": 15214053018177065865
+        },
+        "107": {
+            "matched_training_indices": [
+                1191340,
+                2638470
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000413551.jpg",
+                "tallyqa/val2014/COCO_val2014_000000413551.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/197124.jpeg",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/76482241.jpeg"
+            ],
+            "hash": 15579757928186341068
+        },
+        "106": {
+            "matched_training_indices": [
+                1235765,
+                1810236
+            ],
+            "matched_training_filenames": [
+                "tallyqa/train2014/COCO_train2014_000000384391.jpg",
+                "coco/train2017/000000384391.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "hfdata/iconqa/1985.jpg",
+                "dvqa/images/bar_train_00094669.png"
+            ],
+            "hash": 11669308798542202022
+        },
+        "113": {
+            "matched_training_indices": [
+                58976,
+                88185,
+                164555,
+                271045,
+                394279,
+                545466,
+                675710,
+                763201,
+                952262,
+                964647,
+                1038578,
+                1082385,
+                1105049,
+                1143625,
+                1215774,
+                1318202,
+                1427231,
+                1756940,
+                1791466,
+                1971430,
+                1975778,
+                1995425,
+                2080002,
+                2488551,
+                2492102,
+                2515043,
+                2600405,
+                2618132,
+                2728440,
+                2764836,
+                2787074,
+                3002800,
+                3027202,
+                3065760,
+                3147275,
+                3196579,
+                3248803,
+                3254080,
+                3291773,
+                3399211,
+                3463928,
+                3539638,
+                3555469,
+                3568444,
+                3583567,
+                3621953,
+                3758647,
+                3856090
+            ],
+            "matched_training_filenames": [
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/1404.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/11217.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/6666.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/4914.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/2132.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10152.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/11934.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/4503.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/3637.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/1714.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/7610.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/5433.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/1763.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/9814.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/3869.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/3867.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/7222.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/4601.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/7664.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/11398.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/2784.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/3171.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10928.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/3408.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/8464.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/3781.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/3519.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/11382.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/5101.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/735.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/1338.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/8830.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/4488.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/7240.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/11126.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/6890.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/6208.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/4654.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/1531.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/6988.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/8764.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/2926.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/2942.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/854.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/4545.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/2026.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/9804.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/11655.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "hfdata/geomverse/5077.jpg",
+                "lnqa/images/train_110682.jpg",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/41462080.jpeg",
+                "websight/images/train_299242.png",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/132577.jpeg",
+                "data_engine/partII/images/37469.png",
+                "clevr/CLEVR_v1.0/images/train/CLEVR_train_063283.png",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/41957892.jpeg",
+                "dvqa/images/bar_train_00119841.png",
+                "hfdata/intergps/920.jpg",
+                "dvqa/images/bar_train_00126202.png",
+                "tallyqa/VG_100K/2327025.jpg",
+                "hfdata/tabmwp/11966.jpg",
+                "lnqa/images/train_135162.jpg",
+                "hfdata/raven/13574.jpg",
+                "data_engine/partII/images/22294.png",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/158844.jpeg",
+                "websight/images/train_534196.png",
+                "lnqa/images/train_69476.jpg",
+                "ocr_vqa/images/1617690228.jpg",
+                "alfworld/alf-image-id-3/episode-80-step-43-image.png",
+                "dvqa/images/bar_train_00127337.png",
+                "synthdog/images/253483.jpg",
+                "websight/images/train_214281.png",
+                "websight/images/train_444855.png",
+                "hfdata/robut_wtq/22974.jpg",
+                "data_engine/partI/images/1174.png",
+                "synthdog/images/4512.jpg",
+                "websight/images/train_684453.png",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/STANFORD_DOGS+dog_classification_382_n02094433_4198.jpg",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/DOMAIN_NET+infograph_image_classification_826_infograph_326_000180.jpg",
+                "websight/images/train_210804.png",
+                "websight/images/train_708708.png",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/GQA_2332329.jpg",
+                "Q-Instruct-DB/spaq_koniq/00660.jpg",
+                "hfdata/robut_wikisql/26263.jpg",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/135951068.jpeg",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/40359571.jpeg",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/68574.jpeg",
+                "websight/images/train_380125.png",
+                "websight/images/train_77627.png",
+                "clevr/CLEVR_v1.0/images/train/CLEVR_train_056613.png",
+                "alfworld/alf-image-id-0/episode-192-step-42-image.png",
+                "websight/images/train_5669.png",
+                "ocr_vqa/images/321785126.jpg",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/ImageNet-C+image_classification_blur_108_ILSVRC2012_val_00043660.JPEG",
+                "websight/images/train_199955.png",
+                "vizwiz/train/VizWiz_train_00001797.jpg"
+            ],
+            "hash": 18383935999109207145
+        },
+        "124": {
+            "matched_training_indices": [
+                121810,
+                429851,
+                3247177,
+                3516016,
+                3572755
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2378422.jpg",
+                "vg/VG_100K_2/2378422.jpg",
+                "coco/train2017/000000011569.jpg",
+                "tallyqa/VG_100K_2/2378422.jpg",
+                "tallyqa/train2014/COCO_train2014_000000011569.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "clevr/CLEVR_v1.0/images/train/CLEVR_train_060074.png",
+                "dvqa/images/bar_train_00170674.png",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/132462047.jpeg",
+                "hfdata/robut_wikisql/24697.jpg",
+                "hfdata/raven/30575.jpg"
+            ],
+            "hash": 13898819900085952031
+        },
+        "125": {
+            "matched_training_indices": [
+                102291,
+                1286804,
+                1661587,
+                1839267
+            ],
+            "matched_training_filenames": [
+                "tallyqa/VG_100K/2346658.jpg",
+                "coco/train2017/000000019238.jpg",
+                "gqa/images/2346658.jpg",
+                "tallyqa/train2014/COCO_train2014_000000019238.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "websight/images/train_168506.png",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/89322.jpeg",
+                "synthdog/images/208923.jpg",
+                "lnqa/images/train_234821.jpg"
+            ],
+            "hash": 12005684431169506680
+        },
+        "180": {
+            "matched_training_indices": [
+                1284730,
+                1837635,
+                1844219,
+                2349022,
+                2827316
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2316144.jpg",
+                "coco/train2017/000000018217.jpg",
+                "tallyqa/train2014/COCO_train2014_000000018217.jpg",
+                "tallyqa/VG_100K/2316144.jpg",
+                "vg/VG_100K/2316144.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "synthdog/images/402057.jpg",
+                "lnqa/images/train_208269.jpg",
+                "synthdog/images/85149.jpg",
+                "websight/images/train_51095.png",
+                "hfdata/robut_wikisql/1956.jpg"
+            ],
+            "hash": 16472359179607579763
+        },
+        "194": {
+            "matched_training_indices": [
+                984734,
+                2093332,
+                3065782
+            ],
+            "matched_training_filenames": [
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/coco+image_classification_animal_508_000000173574.jpg",
+                "coco/train2017/000000173574.jpg",
+                "tallyqa/val2014/COCO_val2014_000000173574.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/42151350.jpeg",
+                "alfworld/alf-image-id-3/episode-109-step-2-image.png",
+                "websight/images/train_219481.png"
+            ],
+            "hash": 9765844136491456551
+        },
+        "217": {
+            "matched_training_indices": [
+                439153,
+                2005864
+            ],
+            "matched_training_filenames": [
+                "coco/val2017/000000039956.jpg",
+                "tallyqa/val2014/COCO_val2014_000000039956.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "lnqa/images/train_208777.jpg",
+                "synthdog/images/74832.jpg"
+            ],
+            "hash": 11064666256527811504
+        },
+        "224": {
+            "matched_training_indices": [
+                151896,
+                2080885,
+                2385217
+            ],
+            "matched_training_filenames": [
+                "coco/val2017/000000286994.jpg",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/A-OKVQA+answer_rationales_matching_318_000000286994.jpg",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/A-OKVQA+rationales_generation_395_000000286994.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "synthdog/images/499285.jpg",
+                "ocr_vqa/images/1412999537.jpg",
+                "dvqa/images/bar_train_00182637.png"
+            ],
+            "hash": 16465716515843744860
+        },
+        "253": {
+            "matched_training_indices": [
+                3671677
+            ],
+            "matched_training_filenames": [
+                "hfdata/chart2text/9045.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/ImageNet-C+image_classification_weather_967_ILSVRC2012_val_00037842.JPEG"
+            ],
+            "hash": 18401930842636518588
+        },
+        "275": {
+            "matched_training_indices": [
+                3047116
+            ],
+            "matched_training_filenames": [
+                "hfdata/chart2text/2298.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "synthdog/images/126192.jpg"
+            ],
+            "hash": 13734998523515332507
+        },
+        "297": {
+            "matched_training_indices": [
+                681160,
+                2707360,
+                3792744
+            ],
+            "matched_training_filenames": [
+                "lnqa/images/train_234674.jpg",
+                "coco/train2017/000000026041.jpg",
+                "tallyqa/train2014/COCO_train2014_000000026041.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "synthdog/images/389187.jpg",
+                "dvqa/images/bar_train_00063470.png",
+                "data_engine/partIII/images/22996.png"
+            ],
+            "hash": 11931671674293990765
+        },
+        "314": {
+            "matched_training_indices": [
+                81047
+            ],
+            "matched_training_filenames": [
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/4655.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "dvqa/images/bar_train_00127551.png"
+            ],
+            "hash": 12241869654593643271
+        },
+        "324": {
+            "matched_training_indices": [
+                91582,
+                1281574,
+                2896604,
+                3796473
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2398559.jpg",
+                "vg/VG_100K_2/2398559.jpg",
+                "tallyqa/train2014/COCO_train2014_000000418372.jpg",
+                "coco/train2017/000000418372.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "synthdog/images/341557.jpg",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/75136051.jpeg",
+                "websight/images/train_409439.png",
+                "lnqa/images/train_166470.jpg"
+            ],
+            "hash": 13682457491044819213
+        },
+        "360": {
+            "matched_training_indices": [
+                127806,
+                3434045,
+                3439258
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000047101.jpg",
+                "vg/VG_100K/2341847.jpg",
+                "gqa/images/2341847.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2412794.jpg",
+                "websight/images/train_752260.png",
+                "dvqa/images/bar_train_00028807.png"
+            ],
+            "hash": 14498506438045504842
+        },
+        "364": {
+            "matched_training_indices": [
+                568136
+            ],
+            "matched_training_filenames": [
+                "ai2d/ai2d/images/4859.png"
+            ],
+            "matched_training_filenames_old": [
+                "tallyqa/train2014/COCO_train2014_000000302071.jpg"
+            ],
+            "hash": 10138679237446714966
+        },
+        "366": {
+            "matched_training_indices": [
+                2706011,
+                3815804
+            ],
+            "matched_training_filenames": [
+                "tallyqa/train2014/COCO_train2014_000000269477.jpg",
+                "coco/train2017/000000269477.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "websight/images/train_365740.png",
+                "idk/train2014/COCO_train2014_000000005684.jpg"
+            ],
+            "hash": 16604804178089560124
+        },
+        "365": {
+            "matched_training_indices": [
+                2073718,
+                2449163,
+                2932190
+            ],
+            "matched_training_filenames": [
+                "tallyqa/train2014/COCO_train2014_000000289170.jpg",
+                "coco/train2017/000000289170.jpg",
+                "idk/train2014/COCO_train2014_000000289170.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "hfdata/visual7w/8069.jpg",
+                "synthdog/images/126557.jpg",
+                "/mnt/disks/storage/data/finetune_data/screen_qa/combined/940.jpg"
+            ],
+            "hash": 16900220731678449771
+        },
+        "395": {
+            "matched_training_indices": [
+                39314,
+                110264,
+                158742,
+                211227,
+                242360,
+                383254,
+                690854,
+                808607,
+                1379898,
+                1478235,
+                1727285,
+                2908653,
+                2968021,
+                3396531,
+                3499546,
+                3812892
+            ],
+            "matched_training_filenames": [
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/7196.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/4612.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/12368.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/1281.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/630.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/9577.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10365.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/2077.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/3539.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/7252.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/8388.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/7326.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/3366.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/89.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/9065.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/6343.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "lnqa/images/train_88286.jpg",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/Office_31+Image_Classification_Category_854_frame_0014.jpg",
+                "lnqa/images/train_28302.jpg",
+                "hfdata/tqa/656.jpg",
+                "idk/train2014/COCO_train2014_000000484257.jpg",
+                "hfdata/robut_wikisql/32997.jpg",
+                "synthdog/images/112250.jpg",
+                "hfdata/chart2text/16507.jpg",
+                "websight/images/train_16054.png",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/153665.jpeg",
+                "hfdata/hateful_memes/139.jpg",
+                "lnqa/images/train_143229.jpg",
+                "websight/images/train_358036.png",
+                "websight/images/train_602904.png",
+                "gqa/images/2384665.jpg",
+                "vg/VG_100K/2341537.jpg"
+            ],
+            "hash": 16414086514673446028
+        },
+        "411": {
+            "matched_training_indices": [
+                1856803,
+                2041742,
+                2798227
+            ],
+            "matched_training_filenames": [
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/VQA_object_recognition_COCO_train2014_000000531983.jpg",
+                "tallyqa/train2014/COCO_train2014_000000531983.jpg",
+                "coco/train2017/000000531983.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "websight/images/train_532548.png",
+                "hfdata/robut_wtq/12610.jpg",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/63732.jpeg"
+            ],
+            "hash": 10777580440349347302
+        },
+        "412": {
+            "matched_training_indices": [
+                92548,
+                2244070,
+                2367066,
+                3347872
+            ],
+            "matched_training_filenames": [
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/A-OKVQA+visual_question_answering_143_000000372819.jpg",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/A-OKVQA+answer_rationales_matching_431_000000372819.jpg",
+                "tallyqa/val2014/COCO_val2014_000000372819.jpg",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/A-OKVQA+rationales_generation_12_000000372819.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "websight/images/train_198270.png",
+                "lnqa/images/train_258447.jpg",
+                "coco/train2017/000000233843.jpg",
+                "synthdog/images/117024.jpg"
+            ],
+            "hash": 15837513049301145803
+        },
+        "420": {
+            "matched_training_indices": [
+                334188
+            ],
+            "matched_training_filenames": [
+                "ai2d/ai2d/images/2232.png"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2410109.jpg"
+            ],
+            "hash": 17524547166625614259
+        },
+        "421": {
+            "matched_training_indices": [
+                1710993,
+                2019513
+            ],
+            "matched_training_filenames": [
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/AI2D+visual_question_answering_675_2189.png",
+                "ai2d/ai2d/images/2189.png"
+            ],
+            "matched_training_filenames_old": [
+                "lnqa/images/train_17669.jpg",
+                "clevr/CLEVR_v1.0/images/train/CLEVR_train_015956.png"
+            ],
+            "hash": 13745515175914413250
+        },
+        "429": {
+            "matched_training_indices": [
+                966612,
+                1748373,
+                2772088
+            ],
+            "matched_training_filenames": [
+                "tallyqa/train2014/COCO_train2014_000000078689.jpg",
+                "hfdata/st_vqa/3673.jpg",
+                "coco/train2017/000000078689.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "hfdata/chart2text/15828.jpg",
+                "websight/images/train_460435.png",
+                "websight/images/train_350111.png"
+            ],
+            "hash": 10254375104140173920
+        },
+        "428": {
+            "matched_training_indices": [
+                3239775,
+                3748269
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000351686.jpg",
+                "tallyqa/train2014/COCO_train2014_000000351686.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "websight/images/train_796879.png",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/232715.jpeg"
+            ],
+            "hash": 11083999896649725620
+        },
+        "506": {
+            "matched_training_indices": [
+                2814193
+            ],
+            "matched_training_filenames": [
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/KVQA+image_captioning_534_45626.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/108783.jpeg"
+            ],
+            "hash": 12664316968839000729
+        },
+        "507": {
+            "matched_training_indices": [
+                1116233
+            ],
+            "matched_training_filenames": [
+                "data_engine/partII/images/18224.png"
+            ],
+            "matched_training_filenames_old": [
+                "synthdog/images/12797.jpg"
+            ],
+            "hash": 12878971210879530722
+        },
+        "535": {
+            "matched_training_indices": [
+                2637032
+            ],
+            "matched_training_filenames": [
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/7624.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "synthdog/images/194679.jpg"
+            ],
+            "hash": 9585343060627852680
+        },
+        "538": {
+            "matched_training_indices": [
+                1622181,
+                3691432
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000042254.jpg",
+                "vg/VG_100K/2374627.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "synthdog/images/383735.jpg",
+                "dvqa/images/bar_train_00038452.png"
+            ],
+            "hash": 10960516731714575980
+        },
+        "542": {
+            "matched_training_indices": [
+                2466451,
+                2724117
+            ],
+            "matched_training_filenames": [
+                "tallyqa/train2014/COCO_train2014_000000261225.jpg",
+                "coco/train2017/000000261225.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "idk/train2014/COCO_train2014_000000344126.jpg",
+                "lnqa/images/train_86188.jpg"
+            ],
+            "hash": 13443790311691969688
+        },
+        "547": {
+            "matched_training_indices": [
+                1811238,
+                1956383
+            ],
+            "matched_training_filenames": [
+                "tallyqa/train2014/COCO_train2014_000000067004.jpg",
+                "coco/train2017/000000067004.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "data_engine/partIII/images/24358.png",
+                "synthdog/images/161387.jpg"
+            ],
+            "hash": 18373771725117190336
+        },
+        "553": {
+            "matched_training_indices": [
+                10649,
+                113921,
+                137701,
+                138192,
+                235358,
+                256267,
+                289260,
+                389309,
+                401688,
+                416993,
+                440584,
+                481176,
+                603673,
+                650380,
+                726289,
+                805012,
+                868121,
+                1048024,
+                1057426,
+                1115017,
+                1143640,
+                1167961,
+                1187997,
+                1237878,
+                1307223,
+                1316801,
+                1507327,
+                1550851,
+                1563399,
+                1598363,
+                1655142,
+                1685679,
+                1709839,
+                1781425,
+                1787982,
+                1790782,
+                1831874,
+                1854193,
+                2021037,
+                2209734,
+                2313633,
+                2322149,
+                2368722,
+                2385791,
+                2403152,
+                2486913,
+                2508323,
+                2509241,
+                2554180,
+                2602193,
+                2691573,
+                2704741,
+                2788077,
+                2940800,
+                2988888,
+                3103404,
+                3172809,
+                3236611,
+                3318574,
+                3375465,
+                3433828,
+                3445349,
+                3558042,
+                3618746,
+                3681864,
+                3681872,
+                3701990,
+                3722916,
+                3758835,
+                3782931,
+                3821928,
+                3832838
+            ],
+            "matched_training_filenames": [
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/3062.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/6191.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/7791.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10384.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/9866.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10492.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/9290.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/3113.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/7869.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/2346.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/1906.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/4783.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/7018.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/2008.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10751.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/7902.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/1649.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10420.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/2358.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10209.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/11560.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/7768.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/4524.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/8704.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/1206.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/8283.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/12587.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/12427.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/5693.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/271.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10882.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/9750.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/9373.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/3537.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/8593.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/11012.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/1699.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/5489.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/1557.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10317.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/5002.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/11236.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/1004.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/8615.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/450.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/12029.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/5937.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/29.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/1987.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/531.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/11435.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/8280.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/4997.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/229.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/2172.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/9935.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/7769.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/4631.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/11415.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/4036.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/8320.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/12480.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/8985.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10745.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/11996.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/11163.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/445.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/5315.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/6580.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10822.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10807.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10855.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "hfdata/geomverse/1839.jpg",
+                "lnqa/images/train_30178.jpg",
+                "websight/images/train_772191.png",
+                "textvqa/train_images/029eeb15de850634.jpg",
+                "hfdata/robut_wikisql/66507.jpg",
+                "hfdata/st_vqa/8510.jpg",
+                "vg/VG_100K_2/2382430.jpg",
+                "dvqa/images/bar_train_00150124.png",
+                "lnqa/images/train_247680.jpg",
+                "data_engine/partII/images/40738.png",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/Caltech101+Image_classification_842_image_0031.jpg",
+                "chartqa/train/png/two_col_100996.png",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/HICO+human_activity_detection_19_HICO_train2015_00035076.jpg",
+                "arxivqa/images/2010.06799_2.jpg",
+                "arxivqa/images/1605.01477_1.jpg",
+                "websight/images/train_423829.png",
+                "websight/images/train_159704.png",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/40369595.jpeg",
+                "vg/VG_100K/2329854.jpg",
+                "synthdog/images/361178.jpg",
+                "websight/images/train_582508.png",
+                "lnqa/images/train_68963.jpg",
+                "websight/images/train_318125.png",
+                "data_engine/partIII/images/12757.png",
+                "synthdog/images/152385.jpg",
+                "arxivqa/images/2005.00654_0.jpg",
+                "synthdog/images/254933.jpg",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/semart+image_type_982_07581-50franci.jpg",
+                "websight/images/train_638342.png",
+                "websight/images/train_447223.png",
+                "lnqa/images/train_253884.jpg",
+                "ocr_vqa/images/849320593.jpg",
+                "tallyqa/train2014/COCO_train2014_000000290265.jpg",
+                "websight/images/train_597503.png",
+                "websight/images/train_176941.png",
+                "lnqa/images/train_57016.jpg",
+                "websight/images/train_504551.png",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/46998568.jpeg",
+                "synthdog/images/34689.jpg",
+                "synthdog/images/301239.jpg",
+                "ocr_vqa/images/870406116.jpg",
+                "hfdata/visualmrc/2673.jpg",
+                "ocr_vqa/images/155634337X.jpg",
+                "hfdata/raven/40400.jpg",
+                "vg/VG_100K/2357726.jpg",
+                "coco/train2017/000000207471.jpg",
+                "synthdog/images/27056.jpg",
+                "synthdog/images/849.jpg",
+                "hfdata/robut_wikisql/2953.jpg",
+                "dvqa/images/bar_train_00027580.png",
+                "lnqa/images/train_116361.jpg",
+                "synthdog/images/310925.jpg",
+                "clevr/CLEVR_v1.0/images/train/CLEVR_train_057751.png",
+                "ocr_vqa/images/7104065.jpg",
+                "websight/images/train_228895.png",
+                "websight/images/train_96274.png",
+                "lnqa/images/train_249926.jpg",
+                "hfdata/robut_wikisql/66679.jpg",
+                "websight/images/train_779263.png",
+                "synthdog/images/404643.jpg",
+                "chartqa/train/png/two_col_100677.png",
+                "dvqa/images/bar_train_00024785.png",
+                "gqa/images/2377222.jpg",
+                "dvqa/images/bar_train_00108410.png",
+                "hfdata/robut_wtq/32801.jpg",
+                "tallyqa/train2014/COCO_train2014_000000425628.jpg",
+                "lnqa/images/train_241899.jpg",
+                "alfworld/alf-image-id-3/episode-26-step-52-image.png",
+                "dvqa/images/bar_train_00079668.png",
+                "data_engine/partII/images/59243.png",
+                "lnqa/images/train_262520.jpg",
+                "hfdata/datikz/26976.jpg"
+            ],
+            "hash": 9680295471716339343
+        },
+        "556": {
+            "matched_training_indices": [
+                10649,
+                113921,
+                137701,
+                138192,
+                235358,
+                256267,
+                289260,
+                389309,
+                401688,
+                416993,
+                440584,
+                481176,
+                603673,
+                650380,
+                726289,
+                805012,
+                868121,
+                1048024,
+                1057426,
+                1115017,
+                1143640,
+                1167961,
+                1187997,
+                1237878,
+                1307223,
+                1316801,
+                1507327,
+                1550851,
+                1563399,
+                1598363,
+                1655142,
+                1685679,
+                1709839,
+                1781425,
+                1787982,
+                1790782,
+                1831874,
+                1854193,
+                2021037,
+                2209734,
+                2313633,
+                2322149,
+                2368722,
+                2385791,
+                2403152,
+                2486913,
+                2508323,
+                2509241,
+                2554180,
+                2602193,
+                2691573,
+                2704741,
+                2788077,
+                2940800,
+                2988888,
+                3103404,
+                3172809,
+                3236611,
+                3318574,
+                3375465,
+                3433828,
+                3445349,
+                3558042,
+                3618746,
+                3681864,
+                3681872,
+                3701990,
+                3722916,
+                3758835,
+                3782931,
+                3821928,
+                3832838
+            ],
+            "matched_training_filenames": [
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/3062.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/6191.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/7791.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10384.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/9866.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10492.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/9290.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/3113.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/7869.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/2346.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/1906.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/4783.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/7018.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/2008.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10751.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/7902.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/1649.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10420.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/2358.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10209.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/11560.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/7768.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/4524.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/8704.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/1206.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/8283.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/12587.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/12427.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/5693.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/271.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10882.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/9750.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/9373.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/3537.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/8593.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/11012.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/1699.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/5489.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/1557.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10317.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/5002.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/11236.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/1004.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/8615.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/450.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/12029.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/5937.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/29.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/1987.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/531.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/11435.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/8280.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/4997.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/229.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/2172.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/9935.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/7769.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/4631.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/11415.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/4036.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/8320.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/12480.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/8985.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10745.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/11996.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/11163.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/445.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/5315.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/6580.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10822.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10807.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10855.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "hfdata/geomverse/1839.jpg",
+                "lnqa/images/train_30178.jpg",
+                "websight/images/train_772191.png",
+                "textvqa/train_images/029eeb15de850634.jpg",
+                "hfdata/robut_wikisql/66507.jpg",
+                "hfdata/st_vqa/8510.jpg",
+                "vg/VG_100K_2/2382430.jpg",
+                "dvqa/images/bar_train_00150124.png",
+                "lnqa/images/train_247680.jpg",
+                "data_engine/partII/images/40738.png",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/Caltech101+Image_classification_842_image_0031.jpg",
+                "chartqa/train/png/two_col_100996.png",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/HICO+human_activity_detection_19_HICO_train2015_00035076.jpg",
+                "arxivqa/images/2010.06799_2.jpg",
+                "arxivqa/images/1605.01477_1.jpg",
+                "websight/images/train_423829.png",
+                "websight/images/train_159704.png",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/40369595.jpeg",
+                "vg/VG_100K/2329854.jpg",
+                "synthdog/images/361178.jpg",
+                "websight/images/train_582508.png",
+                "lnqa/images/train_68963.jpg",
+                "websight/images/train_318125.png",
+                "data_engine/partIII/images/12757.png",
+                "synthdog/images/152385.jpg",
+                "arxivqa/images/2005.00654_0.jpg",
+                "synthdog/images/254933.jpg",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/semart+image_type_982_07581-50franci.jpg",
+                "websight/images/train_638342.png",
+                "websight/images/train_447223.png",
+                "lnqa/images/train_253884.jpg",
+                "ocr_vqa/images/849320593.jpg",
+                "tallyqa/train2014/COCO_train2014_000000290265.jpg",
+                "websight/images/train_597503.png",
+                "websight/images/train_176941.png",
+                "lnqa/images/train_57016.jpg",
+                "websight/images/train_504551.png",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/46998568.jpeg",
+                "synthdog/images/34689.jpg",
+                "synthdog/images/301239.jpg",
+                "ocr_vqa/images/870406116.jpg",
+                "hfdata/visualmrc/2673.jpg",
+                "ocr_vqa/images/155634337X.jpg",
+                "hfdata/raven/40400.jpg",
+                "vg/VG_100K/2357726.jpg",
+                "coco/train2017/000000207471.jpg",
+                "synthdog/images/27056.jpg",
+                "synthdog/images/849.jpg",
+                "hfdata/robut_wikisql/2953.jpg",
+                "dvqa/images/bar_train_00027580.png",
+                "lnqa/images/train_116361.jpg",
+                "synthdog/images/310925.jpg",
+                "clevr/CLEVR_v1.0/images/train/CLEVR_train_057751.png",
+                "ocr_vqa/images/7104065.jpg",
+                "websight/images/train_228895.png",
+                "websight/images/train_96274.png",
+                "lnqa/images/train_249926.jpg",
+                "hfdata/robut_wikisql/66679.jpg",
+                "websight/images/train_779263.png",
+                "synthdog/images/404643.jpg",
+                "chartqa/train/png/two_col_100677.png",
+                "dvqa/images/bar_train_00024785.png",
+                "gqa/images/2377222.jpg",
+                "dvqa/images/bar_train_00108410.png",
+                "hfdata/robut_wtq/32801.jpg",
+                "tallyqa/train2014/COCO_train2014_000000425628.jpg",
+                "lnqa/images/train_241899.jpg",
+                "alfworld/alf-image-id-3/episode-26-step-52-image.png",
+                "dvqa/images/bar_train_00079668.png",
+                "data_engine/partII/images/59243.png",
+                "lnqa/images/train_262520.jpg",
+                "hfdata/datikz/26976.jpg"
+            ],
+            "hash": 9680295471716339343
+        },
+        "563": {
+            "matched_training_indices": [
+                10649,
+                113921,
+                137701,
+                138192,
+                235358,
+                256267,
+                289260,
+                389309,
+                401688,
+                416993,
+                440584,
+                481176,
+                603673,
+                650380,
+                726289,
+                805012,
+                868121,
+                1048024,
+                1057426,
+                1115017,
+                1143640,
+                1167961,
+                1187997,
+                1237878,
+                1307223,
+                1316801,
+                1507327,
+                1550851,
+                1563399,
+                1598363,
+                1655142,
+                1685679,
+                1709839,
+                1781425,
+                1787982,
+                1790782,
+                1831874,
+                1854193,
+                2021037,
+                2209734,
+                2313633,
+                2322149,
+                2368722,
+                2385791,
+                2403152,
+                2486913,
+                2508323,
+                2509241,
+                2554180,
+                2602193,
+                2691573,
+                2704741,
+                2788077,
+                2940800,
+                2988888,
+                3103404,
+                3172809,
+                3236611,
+                3318574,
+                3375465,
+                3433828,
+                3445349,
+                3558042,
+                3618746,
+                3681864,
+                3681872,
+                3701990,
+                3722916,
+                3758835,
+                3782931,
+                3821928,
+                3832838
+            ],
+            "matched_training_filenames": [
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/3062.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/6191.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/7791.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10384.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/9866.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10492.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/9290.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/3113.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/7869.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/2346.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/1906.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/4783.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/7018.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/2008.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10751.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/7902.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/1649.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10420.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/2358.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10209.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/11560.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/7768.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/4524.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/8704.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/1206.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/8283.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/12587.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/12427.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/5693.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/271.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10882.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/9750.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/9373.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/3537.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/8593.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/11012.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/1699.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/5489.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/1557.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10317.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/5002.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/11236.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/1004.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/8615.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/450.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/12029.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/5937.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/29.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/1987.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/531.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/11435.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/8280.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/4997.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/229.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/2172.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/9935.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/7769.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/4631.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/11415.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/4036.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/8320.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/12480.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/8985.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10745.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/11996.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/11163.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/445.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/5315.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/6580.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10822.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10807.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10855.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "hfdata/geomverse/1839.jpg",
+                "lnqa/images/train_30178.jpg",
+                "websight/images/train_772191.png",
+                "textvqa/train_images/029eeb15de850634.jpg",
+                "hfdata/robut_wikisql/66507.jpg",
+                "hfdata/st_vqa/8510.jpg",
+                "vg/VG_100K_2/2382430.jpg",
+                "dvqa/images/bar_train_00150124.png",
+                "lnqa/images/train_247680.jpg",
+                "data_engine/partII/images/40738.png",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/Caltech101+Image_classification_842_image_0031.jpg",
+                "chartqa/train/png/two_col_100996.png",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/HICO+human_activity_detection_19_HICO_train2015_00035076.jpg",
+                "arxivqa/images/2010.06799_2.jpg",
+                "arxivqa/images/1605.01477_1.jpg",
+                "websight/images/train_423829.png",
+                "websight/images/train_159704.png",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/40369595.jpeg",
+                "vg/VG_100K/2329854.jpg",
+                "synthdog/images/361178.jpg",
+                "websight/images/train_582508.png",
+                "lnqa/images/train_68963.jpg",
+                "websight/images/train_318125.png",
+                "data_engine/partIII/images/12757.png",
+                "synthdog/images/152385.jpg",
+                "arxivqa/images/2005.00654_0.jpg",
+                "synthdog/images/254933.jpg",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/semart+image_type_982_07581-50franci.jpg",
+                "websight/images/train_638342.png",
+                "websight/images/train_447223.png",
+                "lnqa/images/train_253884.jpg",
+                "ocr_vqa/images/849320593.jpg",
+                "tallyqa/train2014/COCO_train2014_000000290265.jpg",
+                "websight/images/train_597503.png",
+                "websight/images/train_176941.png",
+                "lnqa/images/train_57016.jpg",
+                "websight/images/train_504551.png",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/46998568.jpeg",
+                "synthdog/images/34689.jpg",
+                "synthdog/images/301239.jpg",
+                "ocr_vqa/images/870406116.jpg",
+                "hfdata/visualmrc/2673.jpg",
+                "ocr_vqa/images/155634337X.jpg",
+                "hfdata/raven/40400.jpg",
+                "vg/VG_100K/2357726.jpg",
+                "coco/train2017/000000207471.jpg",
+                "synthdog/images/27056.jpg",
+                "synthdog/images/849.jpg",
+                "hfdata/robut_wikisql/2953.jpg",
+                "dvqa/images/bar_train_00027580.png",
+                "lnqa/images/train_116361.jpg",
+                "synthdog/images/310925.jpg",
+                "clevr/CLEVR_v1.0/images/train/CLEVR_train_057751.png",
+                "ocr_vqa/images/7104065.jpg",
+                "websight/images/train_228895.png",
+                "websight/images/train_96274.png",
+                "lnqa/images/train_249926.jpg",
+                "hfdata/robut_wikisql/66679.jpg",
+                "websight/images/train_779263.png",
+                "synthdog/images/404643.jpg",
+                "chartqa/train/png/two_col_100677.png",
+                "dvqa/images/bar_train_00024785.png",
+                "gqa/images/2377222.jpg",
+                "dvqa/images/bar_train_00108410.png",
+                "hfdata/robut_wtq/32801.jpg",
+                "tallyqa/train2014/COCO_train2014_000000425628.jpg",
+                "lnqa/images/train_241899.jpg",
+                "alfworld/alf-image-id-3/episode-26-step-52-image.png",
+                "dvqa/images/bar_train_00079668.png",
+                "data_engine/partII/images/59243.png",
+                "lnqa/images/train_262520.jpg",
+                "hfdata/datikz/26976.jpg"
+            ],
+            "hash": 9680295471716339343
+        },
+        "566": {
+            "matched_training_indices": [
+                2809722
+            ],
+            "matched_training_filenames": [
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/4790.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "websight/images/train_436162.png"
+            ],
+            "hash": 14605935919529745248
+        },
+        "567": {
+            "matched_training_indices": [
+                534141
+            ],
+            "matched_training_filenames": [
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/2895.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "alfworld/alf-image-id-0/episode-4-step-37-image.png"
+            ],
+            "hash": 15704517699680886597
+        },
+        "568": {
+            "matched_training_indices": [
+                2856630
+            ],
+            "matched_training_filenames": [
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/1547.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "dvqa/images/bar_train_00085081.png"
+            ],
+            "hash": 14936550170262703946
+        },
+        "581": {
+            "matched_training_indices": [
+                734419,
+                1533943,
+                3413529
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000468471.jpg",
+                "tallyqa/val2014/COCO_val2014_000000468471.jpg",
+                "vg/VG_100K/2322001.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "synthdog/images/281939.jpg",
+                "vg/VG_100K_2/2379846.jpg",
+                "lnqa/images/train_235806.jpg"
+            ],
+            "hash": 10638459350992631404
+        },
+        "583": {
+            "matched_training_indices": [
+                1061400
+            ],
+            "matched_training_filenames": [
+                "ai2d/ai2d/images/4463.png"
+            ],
+            "matched_training_filenames_old": [
+                "textvqa/train_images/17f681daacb62f09.jpg"
+            ],
+            "hash": 11385615110882380374
+        },
+        "585": {
+            "matched_training_indices": [
+                730917
+            ],
+            "matched_training_filenames": [
+                "ai2d/ai2d/images/626.png"
+            ],
+            "matched_training_filenames_old": [
+                "lnqa/images/train_117599.jpg"
+            ],
+            "hash": 15465319906652778664
+        },
+        "588": {
+            "matched_training_indices": [
+                416005,
+                2934737
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000102811.jpg",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/ok_vqa_COCO_train2014_000000102811.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "synthdog/images/390083.jpg",
+                "hfdata/raven/23153.jpg"
+            ],
+            "hash": 10274946358186645097
+        },
+        "594": {
+            "matched_training_indices": [
+                53444,
+                1143854
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000384482.jpg",
+                "tallyqa/val2014/COCO_val2014_000000384482.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000059736.jpg",
+                "websight/images/train_260208.png"
+            ],
+            "hash": 15048311732122515589
+        },
+        "597": {
+            "matched_training_indices": [
+                2101538,
+                3469195
+            ],
+            "matched_training_filenames": [
+                "tallyqa/val2014/COCO_val2014_000000238537.jpg",
+                "coco/train2017/000000238537.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/42666042.png",
+                "lnqa/images/train_146933.jpg"
+            ],
+            "hash": 17424584005286472806
+        },
+        "600": {
+            "matched_training_indices": [
+                1586291,
+                1752094
+            ],
+            "matched_training_filenames": [
+                "tallyqa/train2014/COCO_train2014_000000171698.jpg",
+                "coco/train2017/000000171698.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "data_engine/partII/images/48883.png",
+                "lnqa/images/train_116155.jpg"
+            ],
+            "hash": 14606780298938357849
+        },
+        "617": {
+            "matched_training_indices": [
+                1324839,
+                3523345
+            ],
+            "matched_training_filenames": [
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/AI2D+visual_question_answering_86_4677.png",
+                "ai2d/ai2d/images/4677.png"
+            ],
+            "matched_training_filenames_old": [
+                "chartqa/train/png/two_col_23614.png",
+                "hfdata/datikz/31241.jpg"
+            ],
+            "hash": 11754620067460398471
+        },
+        "619": {
+            "matched_training_indices": [
+                1954998,
+                3274758
+            ],
+            "matched_training_filenames": [
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/12602.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/4126.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "synthdog/images/127639.jpg",
+                "llavar/finetune/100000407924.jpg"
+            ],
+            "hash": 14653055464457772319
+        },
+        "626": {
+            "matched_training_indices": [
+                2122337,
+                2966508
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000155231.jpg",
+                "tallyqa/train2014/COCO_train2014_000000155231.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "hfdata/raven/24261.jpg",
+                "synthdog/images/258355.jpg"
+            ],
+            "hash": 16481821918118590520
+        },
+        "629": {
+            "matched_training_indices": [
+                2709390
+            ],
+            "matched_training_filenames": [
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/9333.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "hfdata/robut_wtq/11616.jpg"
+            ],
+            "hash": 14607060737036933797
+        },
+        "632": {
+            "matched_training_indices": [
+                3270611
+            ],
+            "matched_training_filenames": [
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/6649.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "websight/images/train_196959.png"
+            ],
+            "hash": 11435450138074962789
+        },
+        "634": {
+            "matched_training_indices": [
+                3419666
+            ],
+            "matched_training_filenames": [
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/1648.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "hfdata/websight/5996.jpg"
+            ],
+            "hash": 15759965749220745124
+        },
+        "635": {
+            "matched_training_indices": [
+                1053702
+            ],
+            "matched_training_filenames": [
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/1348.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "dvqa/images/bar_train_00062950.png"
+            ],
+            "hash": 15832024438492388112
+        },
+        "647": {
+            "matched_training_indices": [
+                1872669
+            ],
+            "matched_training_filenames": [
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/4662.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "hfdata/iconqa/18117.jpg"
+            ],
+            "hash": 15758850840219113989
+        },
+        "646": {
+            "matched_training_indices": [
+                1190291,
+                3332421
+            ],
+            "matched_training_filenames": [
+                "ai2d/ai2d/images/320.png",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/AI2D+visual_question_answering_556_320.png"
+            ],
+            "matched_training_filenames_old": [
+                "websight/images/train_602671.png",
+                "lnqa/images/train_137338.jpg"
+            ],
+            "hash": 12230228836811872125
+        },
+        "655": {
+            "matched_training_indices": [
+                1821656
+            ],
+            "matched_training_filenames": [
+                "ai2d/ai2d/images/935.png"
+            ],
+            "matched_training_filenames_old": [
+                "dvqa/images/bar_train_00016272.png"
+            ],
+            "hash": 12422601034960115256
+        },
+        "658": {
+            "matched_training_indices": [
+                83348
+            ],
+            "matched_training_filenames": [
+                "ai2d/ai2d/images/1281.png"
+            ],
+            "matched_training_filenames_old": [
+                "websight/images/train_516802.png"
+            ],
+            "hash": 16970754804487886059
+        },
+        "664": {
+            "matched_training_indices": [
+                463949,
+                3214051
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000164094.jpg",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/visdial+answer_question_2_481_COCO_train2014_000000164094.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/CLEVR_CoGenT+Multiple_Question_Answering_172_CLEVR_trainA_058735.png",
+                "websight/images/train_316502.png"
+            ],
+            "hash": 15000977670300992665
+        },
+        "672": {
+            "matched_training_indices": [
+                736403,
+                1216551,
+                2199505,
+                2516528,
+                2745657,
+                3132886,
+                3520395
+            ],
+            "matched_training_filenames": [
+                "data_engine/partII/images/78658.png",
+                "data_engine/partIII/images/11617.png",
+                "data_engine/partIII/images/19909.png",
+                "data_engine/partII/images/12579.png",
+                "data_engine/partII/images/88383.png",
+                "data_engine/partI/images/24276.png",
+                "data_engine/partI/images/4266.png"
+            ],
+            "matched_training_filenames_old": [
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/41717950.jpeg",
+                "synthdog/images/56741.jpg",
+                "synthdog/images/104822.jpg",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/103585090.jpeg",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/Clevr+VQA_context_521_CLEVR_train_018272.png",
+                "websight/images/train_667317.png",
+                "websight/images/train_152565.png"
+            ],
+            "hash": 17634759469895566703
+        },
+        "676": {
+            "matched_training_indices": [
+                1954998,
+                3274758
+            ],
+            "matched_training_filenames": [
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/12602.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/4126.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "synthdog/images/127639.jpg",
+                "llavar/finetune/100000407924.jpg"
+            ],
+            "hash": 14653055464457772319
+        },
+        "691": {
+            "matched_training_indices": [
+                3416543
+            ],
+            "matched_training_filenames": [
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10025.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "data_engine/partII/images/10214.png"
+            ],
+            "hash": 11479640475286451628
+        },
+        "694": {
+            "matched_training_indices": [
+                1187897,
+                3140423
+            ],
+            "matched_training_filenames": [
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/8525.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/1805.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "lnqa/images/train_251959.jpg",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/78933.jpeg"
+            ],
+            "hash": 14114628938036562899
+        },
+        "699": {
+            "matched_training_indices": [
+                149029,
+                2259975,
+                2325574
+            ],
+            "matched_training_filenames": [
+                "hfdata/st_vqa/10867.jpg",
+                "coco/train2017/000000038022.jpg",
+                "tallyqa/train2014/COCO_train2014_000000038022.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2335116.jpg",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/102867688.jpeg",
+                "websight/images/train_133947.png"
+            ],
+            "hash": 18438213154387644803
+        },
+        "700": {
+            "matched_training_indices": [
+                862686,
+                1057425,
+                1677908,
+                3618993
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000045131.jpg",
+                "tallyqa/VG_100K/2355138.jpg",
+                "tallyqa/train2014/COCO_train2014_000000045131.jpg",
+                "vg/VG_100K/2355138.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "synthdog/images/432340.jpg",
+                "synthdog/images/143208.jpg",
+                "tallyqa/VG_100K/2366880.jpg",
+                "mathvision/images/3007.jpg"
+            ],
+            "hash": 14707491525152642012
+        },
+        "703": {
+            "matched_training_indices": [
+                3947,
+                540105,
+                3308120
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K/2349442.jpg",
+                "tallyqa/train2014/COCO_train2014_000000018658.jpg",
+                "coco/train2017/000000018658.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "synthdog/images/110917.jpg",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/LFW+face_recognition_582_George_W_Bush_0173.jpg",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/1674.jpeg"
+            ],
+            "hash": 16788582080681703588
+        },
+        "704": {
+            "matched_training_indices": [
+                2951604
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000013995.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "websight/images/train_773103.png"
+            ],
+            "hash": 14007073610283237591
+        },
+        "731": {
+            "matched_training_indices": [
+                719320,
+                862390,
+                1731709,
+                2357013,
+                2725174,
+                3231120
+            ],
+            "matched_training_filenames": [
+                "tallyqa/train2014/COCO_train2014_000000066381.jpg",
+                "tallyqa/VG_100K_2/2403345.jpg",
+                "gqa/images/2403345.jpg",
+                "coco/train2017/000000066381.jpg",
+                "vg/VG_100K_2/2403345.jpg",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/VQA_color_COCO_train2014_000000066381.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "data_engine/partII/images/16537.png",
+                "websight/images/train_224108.png",
+                "pathvqa/images/test_3182.jpg",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/76577638.jpeg",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/40877860.jpeg",
+                "hfdata/iconqa/9050.jpg"
+            ],
+            "hash": 12273881219819558352
+        },
+        "734": {
+            "matched_training_indices": [
+                1648182,
+                2256493,
+                3412744
+            ],
+            "matched_training_filenames": [
+                "vg/VG_100K/2357496.jpg",
+                "coco/train2017/000000085637.jpg",
+                "gqa/images/2357496.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "synthdog/images/496064.jpg",
+                "dvqa/images/bar_train_00070323.png",
+                "synthdog/images/399050.jpg"
+            ],
+            "hash": 13947116007822943075
+        },
+        "737": {
+            "matched_training_indices": [
+                186198,
+                508832,
+                2489175
+            ],
+            "matched_training_filenames": [
+                "tallyqa/train2014/COCO_train2014_000000117677.jpg",
+                "coco/train2017/000000117677.jpg",
+                "idk/train2014/COCO_train2014_000000117677.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "websight/images/train_706237.png",
+                "hfdata/robut_wikisql/4482.jpg",
+                "dvqa/images/bar_train_00004770.png"
+            ],
+            "hash": 10969843778262532270
+        },
+        "759": {
+            "matched_training_indices": [
+                919848,
+                3757068
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000002902.jpg",
+                "tallyqa/train2014/COCO_train2014_000000002902.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2352201.jpg",
+                "tallyqa/val2014/COCO_val2014_000000046761.jpg"
+            ],
+            "hash": 18072282532281600711
+        },
+        "760": {
+            "matched_training_indices": [
+                79040,
+                3544098,
+                3837249
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000020619.jpg",
+                "tallyqa/train2014/COCO_train2014_000000020619.jpg",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/question_image_match_COCO_train2014_000000020619.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "tallyqa/train2014/COCO_train2014_000000080520.jpg",
+                "ocr_vqa/images/1442412526.jpg",
+                "synthdog/images/368879.jpg"
+            ],
+            "hash": 11834439229983316069
+        },
+        "772": {
+            "matched_training_indices": [
+                1055073
+            ],
+            "matched_training_filenames": [
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/4147.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "data_engine/partIII/images/15317.png"
+            ],
+            "hash": 14707036855457111535
+        },
+        "775": {
+            "matched_training_indices": [
+                112351
+            ],
+            "matched_training_filenames": [
+                "websight/images/train_361209.png"
+            ],
+            "matched_training_filenames_old": [
+                "dvqa/images/bar_train_00020884.png"
+            ],
+            "hash": 10363046690062135311
+        },
+        "773": {
+            "matched_training_indices": [
+                570078
+            ],
+            "matched_training_filenames": [
+                "ai2d/ai2d/images/2081.png"
+            ],
+            "matched_training_filenames_old": [
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/40802554.jpeg"
+            ],
+            "hash": 9468668343499162989
+        },
+        "765": {
+            "matched_training_indices": [
+                1711320
+            ],
+            "matched_training_filenames": [
+                "ai2d/ai2d/images/1773.png"
+            ],
+            "matched_training_filenames_old": [
+                "ocr_vqa/images/1557345910.jpg"
+            ],
+            "hash": 13557287821911891598
+        },
+        "780": {
+            "matched_training_indices": [
+                596832,
+                2117090
+            ],
+            "matched_training_filenames": [
+                "hfdata/iconqa/25527.jpg",
+                "hfdata/iconqa/26494.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "/mnt/disks/storage/data/finetune_data/screen_qa/combined/21776.jpg",
+                "websight/images/train_709282.png"
+            ],
+            "hash": 15362411404457481423
+        },
+        "808": {
+            "matched_training_indices": [
+                1848905
+            ],
+            "matched_training_filenames": [
+                "ai2d/ai2d/images/4504.png"
+            ],
+            "matched_training_filenames_old": [
+                "hfdata/robut_wikisql/11860.jpg"
+            ],
+            "hash": 17606756398203940390
+        },
+        "840": {
+            "matched_training_indices": [
+                63128,
+                3662479
+            ],
+            "matched_training_filenames": [
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/AI2D+visual_question_answering_138_976.png",
+                "ai2d/ai2d/images/976.png"
+            ],
+            "matched_training_filenames_old": [
+                "hfdata/finqa/5025.jpg",
+                "tallyqa/train2014/COCO_train2014_000000151581.jpg"
+            ],
+            "hash": 13388857793149352128
+        },
+        "859": {
+            "matched_training_indices": [
+                840386
+            ],
+            "matched_training_filenames": [
+                "ai2d/ai2d/images/19.png"
+            ],
+            "matched_training_filenames_old": [
+                "ocr_vqa/images/1607740362.jpg"
+            ],
+            "hash": 17560054137036229411
+        },
+        "865": {
+            "matched_training_indices": [
+                2133175,
+                3111915,
+                3247485,
+                3822549
+            ],
+            "matched_training_filenames": [
+                "dvqa/images/bar_train_00183720.png",
+                "dvqa/images/bar_train_00070935.png",
+                "dvqa/images/bar_train_00078857.png",
+                "dvqa/images/bar_train_00178032.png"
+            ],
+            "matched_training_filenames_old": [
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/223226.jpeg",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/73544414.jpeg",
+                "arxivqa/images/1510.08450_0.jpg",
+                "hfdata/raven/40077.jpg"
+            ],
+            "hash": 13593486149822358874
+        },
+        "858": {
+            "matched_training_indices": [
+                1790671,
+                2471236,
+                2489532
+            ],
+            "matched_training_filenames": [
+                "ai2d/ai2d/images/4692.png",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/AI2D+visual_question_answering_850_4692.png",
+                "lnqa/images/train_190049.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "data_engine/partI/images/8442.png",
+                "hfdata/raven/41750.jpg",
+                "synthdog/images/83402.jpg"
+            ],
+            "hash": 13752814820809189057
+        },
+        "884": {
+            "matched_training_indices": [
+                261206,
+                341031,
+                1464592,
+                2357595,
+                3218285
+            ],
+            "matched_training_filenames": [
+                "gqa/images/2362470.jpg",
+                "hfdata/visual7w/458.jpg",
+                "tallyqa/VG_100K/2362470.jpg",
+                "vg/VG_100K/2362470.jpg",
+                "coco/train2017/000000077662.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "textvqa/train_images/1e408583b4b1edc0.jpg",
+                "lnqa/images/train_100824.jpg",
+                "websight/images/train_253187.png",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/infographicvqa+single_document_question_650_tfgn0226_65.png",
+                "coco/train2017/000000561818.jpg"
+            ],
+            "hash": 12373275804191308230
+        },
+        "883": {
+            "matched_training_indices": [
+                1324839,
+                3523345
+            ],
+            "matched_training_filenames": [
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/AI2D+visual_question_answering_86_4677.png",
+                "ai2d/ai2d/images/4677.png"
+            ],
+            "matched_training_filenames_old": [
+                "chartqa/train/png/two_col_23614.png",
+                "hfdata/datikz/31241.jpg"
+            ],
+            "hash": 11754620067460398471
+        },
+        "892": {
+            "matched_training_indices": [
+                13164,
+                213410,
+                585392,
+                1001528,
+                1037870,
+                1409550,
+                1774809,
+                2232645,
+                3516456,
+                3720258
+            ],
+            "matched_training_filenames": [
+                "hfdata/tabmwp/19254.jpg",
+                "hfdata/tabmwp/5323.jpg",
+                "hfdata/tabmwp/16741.jpg",
+                "hfdata/tabmwp/2402.jpg",
+                "hfdata/tabmwp/19700.jpg",
+                "hfdata/tabmwp/5366.jpg",
+                "hfdata/tabmwp/4475.jpg",
+                "hfdata/tabmwp/5573.jpg",
+                "hfdata/tabmwp/8589.jpg",
+                "hfdata/tabmwp/12264.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/41553445.jpeg",
+                "/mnt/disks/storage/data/finetune_data/screen_qa/combined/20008.jpg",
+                "pathvqa/images/validation_2289.jpg",
+                "data_engine/partI/images/8082.png",
+                "coco/train2017/000000570874.jpg",
+                "Q-Instruct-DB/spaq_koniq/7107776883.jpg",
+                "alfworld/alf-image-id-3/episode-143-step-38-image.png",
+                "hfdata/chart2text/16311.jpg",
+                "websight/images/train_241469.png",
+                "data_engine/partII/images/21833.png"
+            ],
+            "hash": 10335884705346326287
+        },
+        "907": {
+            "matched_training_indices": [
+                767661,
+                1219423,
+                1991846,
+                2000419,
+                2281880,
+                2859725,
+                3066988,
+                3667717,
+                3843948
+            ],
+            "matched_training_filenames": [
+                "hfdata/iconqa/24693.jpg",
+                "hfdata/iconqa/21352.jpg",
+                "hfdata/iconqa/23433.jpg",
+                "hfdata/iconqa/24123.jpg",
+                "hfdata/iconqa/23450.jpg",
+                "hfdata/iconqa/20140.jpg",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/iconqa+fill_in_blank_9_image.png",
+                "hfdata/iconqa/19537.jpg",
+                "hfdata/iconqa/17990.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "dvqa/images/bar_train_00023993.png",
+                "coco/train2017/000000090570.jpg",
+                "coco/train2017/000000354500.jpg",
+                "coco/train2017/000000555144.jpg",
+                "websight/images/train_248505.png",
+                "arxivqa/images/astro-ph0610551_2.jpg",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/45103599.jpeg",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/cinic-10+image_classification_shipping_51_n03173929_14029.png",
+                "ocr_vqa/images/756673178.jpg"
+            ],
+            "hash": 18082084962712975456
+        },
+        "906": {
+            "matched_training_indices": [
+                3102496
+            ],
+            "matched_training_filenames": [
+                "ai2d/ai2d/images/2465.png"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2384821.jpg"
+            ],
+            "hash": 13410285811588974019
+        },
+        "916": {
+            "matched_training_indices": [
+                1190291,
+                3332421
+            ],
+            "matched_training_filenames": [
+                "ai2d/ai2d/images/320.png",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/AI2D+visual_question_answering_556_320.png"
+            ],
+            "matched_training_filenames_old": [
+                "websight/images/train_602671.png",
+                "lnqa/images/train_137338.jpg"
+            ],
+            "hash": 12230228836811872125
+        },
+        "905": {
+            "matched_training_indices": [
+                1494543
+            ],
+            "matched_training_filenames": [
+                "ai2d/ai2d/images/774.png"
+            ],
+            "matched_training_filenames_old": [
+                "websight/images/train_100475.png"
+            ],
+            "hash": 13099715896027827769
+        },
+        "917": {
+            "matched_training_indices": [
+                61789
+            ],
+            "matched_training_filenames": [
+                "ai2d/ai2d/images/2086.png"
+            ],
+            "matched_training_filenames_old": [
+                "Q-Instruct-DB/spaq_koniq/04928.jpg"
+            ],
+            "hash": 16949635584237143651
+        },
+        "932": {
+            "matched_training_indices": [
+                48385,
+                161257,
+                375048,
+                629408,
+                778159,
+                1472915,
+                1678525,
+                2298038,
+                2937396,
+                2970202,
+                3616728
+            ],
+            "matched_training_filenames": [
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/3913.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/8483.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/1952.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/11698.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/7219.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/5530.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/8035.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/11661.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/11915.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/6200.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/596.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "synthdog/images/231113.jpg",
+                "data_engine/partII/images/85718.png",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/NOCAPS+image_caption_242_f24ca937211d91af.jpg",
+                "clevr/CLEVR_v1.0/images/train/CLEVR_train_013863.png",
+                "websight/images/train_170725.png",
+                "hfdata/websight/3471.jpg",
+                "websight/images/train_381206.png",
+                "oodvqa/phase-1/images/2010_001049.jpg",
+                "ocr_vqa/images/1848192665.jpg",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/100784126.jpeg",
+                "lnqa/images/train_48384.jpg"
+            ],
+            "hash": 18383935994814125673
+        },
+        "934": {
+            "matched_training_indices": [
+                80399,
+                499827,
+                562988,
+                1579090,
+                1893294,
+                1951519,
+                2171060,
+                2184874,
+                2950302,
+                3037787,
+                3057395,
+                3077323,
+                3106830,
+                3126983,
+                3529563,
+                3656510
+            ],
+            "matched_training_filenames": [
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/11484.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10169.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/2193.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/3503.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10181.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10629.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/3228.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/577.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/1069.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10104.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/4935.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/4937.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/7396.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/4233.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/11924.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/11503.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K/2372540.jpg",
+                "vg/VG_100K_2/2707.jpg",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/112349.jpeg",
+                "dvqa/images/bar_train_00149157.png",
+                "data_engine/partII/images/51814.png",
+                "coco/train2017/000000161470.jpg",
+                "/mnt/disks/storage/data/finetune_data/screen_qa/combined/6946.jpg",
+                "websight/images/train_234418.png",
+                "coco/train2017/000000361430.jpg",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/100933222.png",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/31347.jpeg",
+                "synthdog/images/216959.jpg",
+                "coco/val2017/000000181421.jpg",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/104733506.jpeg",
+                "ocr_vqa/images/1570914435.jpg",
+                "tallyqa/train2014/COCO_train2014_000000305168.jpg"
+            ],
+            "hash": 16342026723558423557
+        },
+        "935": {
+            "matched_training_indices": [
+                548814,
+                583786,
+                617413,
+                704347,
+                908258,
+                1276264,
+                1378917,
+                1718247,
+                1739275,
+                1930572,
+                2323888,
+                2335487,
+                2457733,
+                2879281,
+                2997015,
+                3130172,
+                3196449,
+                3353197,
+                3354929
+            ],
+            "matched_training_filenames": [
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/3611.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/11738.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/11438.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/3925.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/8230.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/5010.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/2207.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/601.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/12666.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10015.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/4243.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/9963.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/4118.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/6419.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/8892.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/1076.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/656.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/1522.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/1605.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/Clevr+Question_Answering_226_CLEVR_train_043032.png",
+                "websight/images/train_567644.png",
+                "synthdog/images/421578.jpg",
+                "websight/images/train_43868.png",
+                "hfdata/robut_wikisql/14758.jpg",
+                "gqa/images/2316499.jpg",
+                "ocr_vqa/images/1505755603.jpg",
+                "tallyqa/val2014/COCO_val2014_000000463640.jpg",
+                "Q-Instruct-DB/spaq_koniq/09649.jpg",
+                "hfdata/vistext/3608.jpg",
+                "ocr_vqa/images/012388425X.jpg",
+                "dvqa/images/bar_train_00173105.png",
+                "websight/images/train_229843.png",
+                "synthdog/images/382458.jpg",
+                "lnqa/images/train_301893.jpg",
+                "data_engine/partII/images/4093.png",
+                "synthdog/images/290044.jpg",
+                "websight/images/train_296247.png",
+                "websight/images/train_677209.png"
+            ],
+            "hash": 16630821011398589540
+        },
+        "936": {
+            "matched_training_indices": [
+                1763757,
+                2308689,
+                2668865
+            ],
+            "matched_training_filenames": [
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/9339.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/5843.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/4555.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "tallyqa/VG_100K/2355447.jpg",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/45392263.jpeg",
+                "websight/images/train_384531.png"
+            ],
+            "hash": 17872517664358567704
+        },
+        "947": {
+            "matched_training_indices": [
+                337807,
+                957098,
+                1097085,
+                1164571,
+                1643936,
+                1988172,
+                2082848,
+                2451405,
+                2468352,
+                2947653,
+                3848056
+            ],
+            "matched_training_filenames": [
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/3780.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/6049.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/5873.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/618.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/7042.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/137.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/9335.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10036.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/1812.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/3440.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/699.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "arxivqa/images/1909.08743_0.jpg",
+                "synthdog/images/435115.jpg",
+                "data_engine/partIII/images/2419.png",
+                "websight/images/train_178433.png",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/131689196.jpeg",
+                "synthdog/images/367237.jpg",
+                "websight/images/train_194299.png",
+                "synthdog/images/282836.jpg",
+                "websight/images/train_603639.png",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/197290.jpeg",
+                "synthdog/images/468736.jpg"
+            ],
+            "hash": 18383935990519289448
+        },
+        "961": {
+            "matched_training_indices": [
+                99194,
+                269588,
+                281993,
+                301391,
+                390979,
+                583242,
+                665537,
+                1086343,
+                1593377,
+                1662551,
+                1926580,
+                2054303,
+                2612794,
+                2665641,
+                2919458,
+                3130484,
+                3148831,
+                3385234,
+                3552429,
+                3600838,
+                3696281,
+                3748857,
+                3772989
+            ],
+            "matched_training_filenames": [
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/7830.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/3744.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/11208.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/499.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/3334.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/4192.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/8768.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/2384.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/4159.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/491.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/7165.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/9509.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/1991.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/11768.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/3204.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/1712.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/1972.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/5775.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/6987.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/8002.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/9561.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/896.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/6917.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "lnqa/images/train_165478.jpg",
+                "websight/images/train_205296.png",
+                "websight/images/train_330782.png",
+                "synthdog/images/250585.jpg",
+                "data_engine/partII/images/18327.png",
+                "lnqa/images/train_161779.jpg",
+                "synthdog/images/225705.jpg",
+                "clevr/CLEVR_v1.0/images/train/CLEVR_train_027732.png",
+                "websight/images/train_508670.png",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/156316.jpeg",
+                "vg/VG_100K_2/2413065.jpg",
+                "tallyqa/val2014/COCO_val2014_000000230995.jpg",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/42396.jpeg",
+                "synthdog/images/458652.jpg",
+                "lnqa/images/train_41015.jpg",
+                "gqa/images/2383111.jpg",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/Cars+car_classification_874_07749.jpg",
+                "hfdata/raven/10449.jpg",
+                "websight/images/train_268172.png",
+                "dvqa/images/bar_train_00133386.png",
+                "synthdog/images/20963.jpg",
+                "lnqa/images/train_80556.jpg",
+                "websight/images/train_439171.png"
+            ],
+            "hash": 16342026723810081797
+        },
+        "965": {
+            "matched_training_indices": [
+                166942,
+                301199,
+                438586,
+                950624,
+                983154,
+                1027042,
+                1286257,
+                1529961,
+                1551026,
+                2017640,
+                2455100,
+                2898533,
+                3415383,
+                3477068,
+                3589532
+            ],
+            "matched_training_filenames": [
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/11002.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/6413.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/5849.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/4514.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/2547.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/4177.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/11038.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10809.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/1973.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/614.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/448.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/4510.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/2963.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10653.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/6332.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "synthdog/images/370069.jpg",
+                "lnqa/images/train_214800.jpg",
+                "hfdata/robut_wtq/35397.jpg",
+                "gqa/images/2373506.jpg",
+                "hfdata/tabmwp/9047.jpg",
+                "tallyqa/val2014/COCO_val2014_000000207763.jpg",
+                "clevr/CLEVR_v1.0/images/train/CLEVR_train_067540.png",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/197105.jpeg",
+                "vg/VG_100K/2351106.jpg",
+                "coco/train2017/000000105047.jpg",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/79061.jpeg",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/83432.jpeg",
+                "websight/images/train_615752.png",
+                "vg/VG_100K/1160071.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/9957.jpg"
+            ],
+            "hash": 13770550690768348171
+        },
+        "969": {
+            "matched_training_indices": [
+                3398926
+            ],
+            "matched_training_filenames": [
+                "hfdata/iconqa/18033.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "websight/images/train_328385.png"
+            ],
+            "hash": 13452587138331327154
+        },
+        "990": {
+            "matched_training_indices": [
+                2089084
+            ],
+            "matched_training_filenames": [
+                "ai2d/ai2d/images/4443.png"
+            ],
+            "matched_training_filenames_old": [
+                "synthdog/images/468094.jpg"
+            ],
+            "hash": 13344947195519952924
+        },
+        "991": {
+            "matched_training_indices": [
+                1459757,
+                2713183
+            ],
+            "matched_training_filenames": [
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/AI2D+visual_question_answering_668_2061.png",
+                "ai2d/ai2d/images/2061.png"
+            ],
+            "matched_training_filenames_old": [
+                "websight/images/train_268469.png",
+                "synthdog/images/125475.jpg"
+            ],
+            "hash": 13530137315121548364
+        },
+        "1006": {
+            "matched_training_indices": [
+                2462220
+            ],
+            "matched_training_filenames": [
+                "hfdata/iconqa/26558.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/106213.jpeg"
+            ],
+            "hash": 12303039974553168300
+        },
+        "1014": {
+            "matched_training_indices": [
+                3994
+            ],
+            "matched_training_filenames": [
+                "dvqa/images/bar_train_00114238.png"
+            ],
+            "matched_training_filenames_old": [
+                "data_engine/partII/images/37676.png"
+            ],
+            "hash": 15611137991688893752
+        },
+        "1028": {
+            "matched_training_indices": [
+                464681,
+                2282985,
+                2898411
+            ],
+            "matched_training_filenames": [
+                "hfdata/iconqa/18237.jpg",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/iconqa+fill_in_blank_594_image.png",
+                "hfdata/iconqa/17516.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "websight/images/train_70783.png",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/79266.jpeg",
+                "vg/VG_100K/150294.jpg"
+            ],
+            "hash": 11072423860886709910
+        },
+        "1030": {
+            "matched_training_indices": [
+                161782,
+                882529,
+                1383908,
+                2299265,
+                2612690,
+                3598402
+            ],
+            "matched_training_filenames": [
+                "geo170k/images/geo3k/train/1780/img_diagram.png",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/GEOMETRY3K+geometry_question_answer_664_img_diagram.png",
+                "geo170k/images/geo3k/train/1476/img_diagram.png",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/GEOMETRY3K+geometry_question_answer_699_img_diagram.png",
+                "geo170k/images/geo3k/train/617/img_diagram.png",
+                "geo170k/images/geo3k/train/1642/img_diagram.png"
+            ],
+            "matched_training_filenames_old": [
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/207657.jpeg",
+                "dvqa/images/bar_train_00095474.png",
+                "hfdata/robut_wikisql/4476.jpg",
+                "websight/images/train_331366.png",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/132821662.jpeg",
+                "websight/images/train_423360.png"
+            ],
+            "hash": 12613937661733208474
+        },
+        "1033": {
+            "matched_training_indices": [
+                140251,
+                950829,
+                1517729,
+                1820274,
+                2368660,
+                2506123,
+                2674739,
+                3060308
+            ],
+            "matched_training_filenames": [
+                "hfdata/iconqa/21265.jpg",
+                "hfdata/iconqa/18197.jpg",
+                "hfdata/iconqa/18971.jpg",
+                "hfdata/iconqa/17583.jpg",
+                "hfdata/iconqa/19533.jpg",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/iconqa+fill_in_blank_977_image.png",
+                "hfdata/iconqa/24035.jpg",
+                "hfdata/iconqa/26557.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/ImageNet-R+image_classification_681_misc_0.jpg",
+                "chartqa/train/png/7659.png",
+                "hfdata/tqa/1018.jpg",
+                "lnqa/images/train_279980.jpg",
+                "websight/images/train_211001.png",
+                "geo170k/images/geoqa_plus/12422.png",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/45160669.jpeg",
+                "dvqa/images/bar_train_00174509.png"
+            ],
+            "hash": 13742230921774483905
+        },
+        "1042": {
+            "matched_training_indices": [
+                199665
+            ],
+            "matched_training_filenames": [
+                "hfdata/iconqa/19440.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "websight/images/train_223988.png"
+            ],
+            "hash": 15463245000281240774
+        },
+        "1045": {
+            "matched_training_indices": [
+                465296,
+                904505,
+                954368,
+                2171252,
+                2526468,
+                3079098
+            ],
+            "matched_training_filenames": [
+                "geo170k/images/geo3k/train/1149/img_diagram_point.png",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/GEOMETRY3K+geometry_question_answer_120_img_diagram.png",
+                "geo170k/images/geo3k/train/1149/img_diagram.png",
+                "geo170k/images/geo3k/train/1807/img_diagram_point.png",
+                "geo170k/images/geo3k/train/211/img_diagram.png",
+                "geo170k/images/geo3k/train/1807/img_diagram.png"
+            ],
+            "matched_training_filenames_old": [
+                "websight/images/train_226955.png",
+                "websight/images/train_592449.png",
+                "hfdata/finqa/287.jpg",
+                "hfdata/robut_wikisql/59381.jpg",
+                "arxivqa/images/1411.2437_0.jpg",
+                "alfworld/alf-image-id-1/episode-123-step-20-image.png"
+            ],
+            "hash": 13615163619315104964
+        },
+        "1047": {
+            "matched_training_indices": [
+                1844886
+            ],
+            "matched_training_filenames": [
+                "hfdata/iconqa/21729.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "synthdog/images/241564.jpg"
+            ],
+            "hash": 13744207869362882114
+        },
+        "1050": {
+            "matched_training_indices": [
+                312493
+            ],
+            "matched_training_filenames": [
+                "geo170k/images/geoqa_plus/10228.png"
+            ],
+            "matched_training_filenames_old": [
+                "websight/images/train_119603.png"
+            ],
+            "hash": 13736789492195134443
+        },
+        "1048": {
+            "matched_training_indices": [
+                252847,
+                403923,
+                1225027,
+                2089914,
+                2120085,
+                2305861
+            ],
+            "matched_training_filenames": [
+                "hfdata/iconqa/24368.jpg",
+                "hfdata/iconqa/20965.jpg",
+                "hfdata/iconqa/19911.jpg",
+                "hfdata/iconqa/16681.jpg",
+                "hfdata/iconqa/18929.jpg",
+                "hfdata/iconqa/25384.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "synthdog/images/198589.jpg",
+                "websight/images/train_691233.png",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/ImageNet-Sketch+image_classification_451_sketch_45.JPEG",
+                "websight/images/train_501793.png",
+                "websight/images/train_705508.png",
+                "hfdata/iconqa/3194.jpg"
+            ],
+            "hash": 13600093780886864578
+        },
+        "1049": {
+            "matched_training_indices": [
+                3137278
+            ],
+            "matched_training_filenames": [
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/GEOMETRY3K+geometry_question_answer_977_img_diagram.png"
+            ],
+            "matched_training_filenames_old": [
+                "dvqa/images/bar_train_00145776.png"
+            ],
+            "hash": 12661114760855993105
+        },
+        "1074": {
+            "matched_training_indices": [
+                2827300
+            ],
+            "matched_training_filenames": [
+                "geo170k/images/geoqa_plus/11383.png"
+            ],
+            "matched_training_filenames_old": [
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/22841.jpeg"
+            ],
+            "hash": 16364909453839206211
+        },
+        "1073": {
+            "matched_training_indices": [
+                2347289,
+                2677012,
+                2933064,
+                3711020,
+                3823072
+            ],
+            "matched_training_filenames": [
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/A-OKVQA+answer_rationales_matching_14_000000355257.jpg",
+                "tallyqa/val2014/COCO_val2014_000000355257.jpg",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/A-OKVQA+rationales_generation_48_000000355257.jpg",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/A-OKVQA+visual_question_answering_686_000000355257.jpg",
+                "coco/val2017/000000355257.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "docvqa/documents/hfjw0023_1.png",
+                "chartqa/train/png/two_col_63672.png",
+                "vg/VG_100K_2/2378506.jpg",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/227975.jpeg",
+                "ocr_vqa/images/30358272.jpg"
+            ],
+            "hash": 17629166951013489827
+        },
+        "1078": {
+            "matched_training_indices": [
+                3336247
+            ],
+            "matched_training_filenames": [
+                "hfdata/iconqa/1834.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/56563.jpeg"
+            ],
+            "hash": 14841700598974652393
+        },
+        "1077": {
+            "matched_training_indices": [
+                371419,
+                1376182,
+                1746261,
+                1849667,
+                2113679,
+                2471474,
+                2513043,
+                2709444,
+                2723014,
+                2903236,
+                3091568,
+                3739142
+            ],
+            "matched_training_filenames": [
+                "hfdata/iconqa/18774.jpg",
+                "hfdata/iconqa/18524.jpg",
+                "hfdata/iconqa/19548.jpg",
+                "hfdata/iconqa/22636.jpg",
+                "hfdata/iconqa/23715.jpg",
+                "hfdata/iconqa/23871.jpg",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/iconqa+fill_in_blank_292_image.png",
+                "hfdata/iconqa/16644.jpg",
+                "hfdata/iconqa/18923.jpg",
+                "hfdata/iconqa/25025.jpg",
+                "hfdata/iconqa/18843.jpg",
+                "hfdata/iconqa/17873.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/Total-Text+text_detection_109_img366.jpg",
+                "coco/train2017/000000517017.jpg",
+                "synthdog/images/404473.jpg",
+                "websight/images/train_425734.png",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/29753.jpeg",
+                "websight/images/train_417132.png",
+                "hfdata/robut_wikisql/4803.jpg",
+                "synthdog/images/68643.jpg",
+                "synthdog/images/8468.jpg",
+                "synthdog/images/170835.jpg",
+                "lnqa/images/train_205263.jpg",
+                "synthdog/images/185838.jpg"
+            ],
+            "hash": 12591269800957455532
+        },
+        "1084": {
+            "matched_training_indices": [
+                319295,
+                486156,
+                662772,
+                663151,
+                1092519,
+                1417260,
+                1513869,
+                1800981,
+                2998131,
+                3023363,
+                3085635,
+                3307424,
+                3350882
+            ],
+            "matched_training_filenames": [
+                "hfdata/iconqa/20302.jpg",
+                "hfdata/iconqa/23452.jpg",
+                "hfdata/iconqa/22898.jpg",
+                "hfdata/iconqa/20827.jpg",
+                "hfdata/iconqa/21908.jpg",
+                "hfdata/iconqa/24512.jpg",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/iconqa+fill_in_blank_778_image.png",
+                "hfdata/iconqa/20584.jpg",
+                "hfdata/iconqa/18812.jpg",
+                "hfdata/iconqa/21753.jpg",
+                "hfdata/iconqa/17114.jpg",
+                "hfdata/iconqa/22318.jpg",
+                "hfdata/iconqa/26336.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K/2326295.jpg",
+                "lnqa/images/train_218700.jpg",
+                "websight/images/train_98072.png",
+                "coco/train2017/000000213423.jpg",
+                "websight/images/train_445616.png",
+                "hfdata/robut_wikisql/43869.jpg",
+                "websight/images/train_415931.png",
+                "tallyqa/VG_100K/2318244.jpg",
+                "lnqa/images/train_273937.jpg",
+                "dvqa/images/bar_train_00084194.png",
+                "dvqa/images/bar_train_00137759.png",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/ImageNet-R+image_domain_classification_607_painting_0.jpg",
+                "synthdog/images/312373.jpg"
+            ],
+            "hash": 11501946731436753603
+        },
+        "1096": {
+            "matched_training_indices": [
+                903779
+            ],
+            "matched_training_filenames": [
+                "geo170k/images/geoqa_plus/10295.png"
+            ],
+            "matched_training_filenames_old": [
+                "hfdata/robut_wikisql/18705.jpg"
+            ],
+            "hash": 12349061323150234332
+        },
+        "1100": {
+            "matched_training_indices": [
+                742271,
+                834518,
+                3496482
+            ],
+            "matched_training_filenames": [
+                "geo170k/images/geo3k/train/1494/img_diagram.png",
+                "geo170k/images/geo3k/train/72/img_diagram.png",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/GEOMETRY3K+geometry_question_answer_261_img_diagram.png"
+            ],
+            "matched_training_filenames_old": [
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/40890635.jpeg",
+                "synthdog/images/309431.jpg",
+                "clevr/CLEVR_v1.0/images/train/CLEVR_train_051914.png"
+            ],
+            "hash": 11154095436587632041
+        },
+        "1119": {
+            "matched_training_indices": [
+                136165,
+                1159917,
+                1249358,
+                1517899,
+                3202317
+            ],
+            "matched_training_filenames": [
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/GEOMETRY3K+geometry_question_answer_436_img_diagram.png",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/GEOMETRY3K+geometry_question_answer_20_img_diagram.png",
+                "geo170k/images/geo3k/train/1617/img_diagram.png",
+                "geo170k/images/geo3k/train/1240/img_diagram.png",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/GEOMETRY3K+geometry_question_answer_458_img_diagram.png"
+            ],
+            "matched_training_filenames_old": [
+                "data_engine/partII/images/34024.png",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/130595282.jpeg",
+                "hfdata/robut_wtq/11150.jpg",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/76650192.jpeg",
+                "data_engine/partII/images/97690.png"
+            ],
+            "hash": 16915955739720596785
+        },
+        "1126": {
+            "matched_training_indices": [
+                1916058
+            ],
+            "matched_training_filenames": [
+                "hfdata/tabmwp/20174.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "arxivqa/images/1905.13400_2.jpg"
+            ],
+            "hash": 12499284711539758663
+        },
+        "1128": {
+            "matched_training_indices": [
+                861406,
+                2637752
+            ],
+            "matched_training_filenames": [
+                "tallyqa/val2014/COCO_val2014_000000486118.jpg",
+                "coco/train2017/000000486118.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "tallyqa/train2014/COCO_train2014_000000324012.jpg",
+                "synthdog/images/343541.jpg"
+            ],
+            "hash": 13878022178990700018
+        },
+        "1135": {
+            "matched_training_indices": [
+                854572
+            ],
+            "matched_training_filenames": [
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/GEOMETRY3K+geometry_question_answer_884_img_diagram.png"
+            ],
+            "matched_training_filenames_old": [
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/134965582.jpeg"
+            ],
+            "hash": 12647146554947590705
+        },
+        "1137": {
+            "matched_training_indices": [
+                1264538
+            ],
+            "matched_training_filenames": [
+                "geo170k/images/geoqa_plus/13017.png"
+            ],
+            "matched_training_filenames_old": [
+                "synthdog/images/250995.jpg"
+            ],
+            "hash": 12950400052376679015
+        },
+        "1136": {
+            "matched_training_indices": [
+                566823,
+                3450013
+            ],
+            "matched_training_filenames": [
+                "tallyqa/val2014/COCO_val2014_000000358685.jpg",
+                "coco/train2017/000000358685.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/72699374.jpeg",
+                "data_engine/partII/images/94868.png"
+            ],
+            "hash": 11631405200276692103
+        },
+        "1138": {
+            "matched_training_indices": [
+                984649,
+                1182377,
+                2587245
+            ],
+            "matched_training_filenames": [
+                "geo170k/images/geo3k/train/1266/img_diagram.png",
+                "geo170k/images/geo3k/train/500/img_diagram.png",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/GEOMETRY3K+geometry_question_answer_533_img_diagram.png"
+            ],
+            "matched_training_filenames_old": [
+                "websight/images/train_448886.png",
+                "websight/images/train_625752.png",
+                "lnqa/images/train_253433.jpg"
+            ],
+            "hash": 12355889494145512913
+        },
+        "1139": {
+            "matched_training_indices": [
+                669322
+            ],
+            "matched_training_filenames": [
+                "hfdata/tabmwp/21575.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/144060.jpeg"
+            ],
+            "hash": 10192616207847898300
+        },
+        "1143": {
+            "matched_training_indices": [
+                3033334
+            ],
+            "matched_training_filenames": [
+                "geo170k/images/geoqa_plus/11353.png"
+            ],
+            "matched_training_filenames_old": [
+                "dvqa/images/bar_train_00035204.png"
+            ],
+            "hash": 17062350191990150842
+        },
+        "1145": {
+            "matched_training_indices": [
+                965243,
+                2649226
+            ],
+            "matched_training_filenames": [
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/GEOMETRY3K+geometry_question_answer_266_img_diagram.png",
+                "geo170k/images/geo3k/train/888/img_diagram.png"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000034684.jpg",
+                "hfdata/iconqa/6862.jpg"
+            ],
+            "hash": 12048132637473967282
+        },
+        "1148": {
+            "matched_training_indices": [
+                2573777
+            ],
+            "matched_training_filenames": [
+                "coco/train2017/000000462807.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/76578792.png"
+            ],
+            "hash": 15534623937016460407
+        },
+        "1152": {
+            "matched_training_indices": [
+                2503492
+            ],
+            "matched_training_filenames": [
+                "geo170k/images/geo3k/train/245/img_diagram.png"
+            ],
+            "matched_training_filenames_old": [
+                "dvqa/images/bar_train_00108338.png"
+            ],
+            "hash": 17213186991507467398
+        },
+        "1158": {
+            "matched_training_indices": [
+                3429254,
+                3563333
+            ],
+            "matched_training_filenames": [
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/GEOMETRY3K+geometry_question_answer_750_img_diagram.png",
+                "geo170k/images/geo3k/train/209/img_diagram.png"
+            ],
+            "matched_training_filenames_old": [
+                "dvqa/images/bar_train_00097327.png",
+                "hfdata/datikz/26705.jpg"
+            ],
+            "hash": 13793065540795795377
+        },
+        "1164": {
+            "matched_training_indices": [
+                206213
+            ],
+            "matched_training_filenames": [
+                "geo170k/images/geo3k/train/531/img_diagram.png"
+            ],
+            "matched_training_filenames_old": [
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/70765.jpeg"
+            ],
+            "hash": 10323327006263591838
+        },
+        "1173": {
+            "matched_training_indices": [
+                1245398,
+                2168466,
+                2785876,
+                3675236
+            ],
+            "matched_training_filenames": [
+                "hfdata/tabmwp/15198.jpg",
+                "hfdata/tabmwp/22598.jpg",
+                "hfdata/tabmwp/6775.jpg",
+                "hfdata/tabmwp/8796.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "lnqa/images/train_208506.jpg",
+                "llavar/finetune/100001123305.jpg",
+                "hfdata/raven/32807.jpg",
+                "synthdog/images/496544.jpg"
+            ],
+            "hash": 13494268017991220922
+        },
+        "1189": {
+            "matched_training_indices": [
+                1076851,
+                1454242,
+                1932492,
+                3074440,
+                3398355,
+                3822895
+            ],
+            "matched_training_filenames": [
+                "hfdata/iconqa/18530.jpg",
+                "hfdata/iconqa/24855.jpg",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/iconqa+fill_in_blank_80_image.png",
+                "hfdata/iconqa/24892.jpg",
+                "hfdata/iconqa/27018.jpg",
+                "hfdata/iconqa/25326.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/71813662.jpeg",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/140140.jpeg",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/recipe-qa+visual_coherence_400_recipe-qa+visual_coherence+7502.jpg",
+                "websight/images/train_272505.png",
+                "lnqa/images/train_227978.jpg",
+                "websight/images/train_494184.png"
+            ],
+            "hash": 13816770727711914040
+        },
+        "1198": {
+            "matched_training_indices": [
+                2213527
+            ],
+            "matched_training_filenames": [
+                "geo170k/images/geoqa_plus/12532.png"
+            ],
+            "matched_training_filenames_old": [
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/96309.jpeg"
+            ],
+            "hash": 12348392129642219681
+        },
+        "1220": {
+            "matched_training_indices": [
+                1326162,
+                1877211,
+                2463687,
+                2506100,
+                2524093,
+                2727572,
+                3054704,
+                3434953,
+                3686272,
+                3800366
+            ],
+            "matched_training_filenames": [
+                "hfdata/iconqa/25719.jpg",
+                "hfdata/iconqa/22658.jpg",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/iconqa+fill_in_blank_325_image.png",
+                "hfdata/iconqa/21784.jpg",
+                "hfdata/iconqa/16943.jpg",
+                "hfdata/iconqa/26168.jpg",
+                "hfdata/iconqa/24841.jpg",
+                "hfdata/iconqa/22489.jpg",
+                "hfdata/iconqa/16477.jpg",
+                "hfdata/iconqa/27000.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/12487.jpg",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/47175629.jpeg",
+                "lnqa/images/train_233201.jpg",
+                "websight/images/train_690160.png",
+                "websight/images/train_291992.png",
+                "vg/VG_100K/2343936.jpg",
+                "websight/images/train_275638.png",
+                "coco/train2017/000000252382.jpg",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/VQA-E+image_captioning_481_COCO_train2014_000000199594.jpg",
+                "tallyqa/train2014/COCO_train2014_000000285913.jpg"
+            ],
+            "hash": 11501946194557452995
+        },
+        "1227": {
+            "matched_training_indices": [
+                1947206,
+                2446063,
+                3166858
+            ],
+            "matched_training_filenames": [
+                "hfdata/iconqa/22565.jpg",
+                "hfdata/iconqa/25771.jpg",
+                "hfdata/iconqa/25903.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/171539.jpeg",
+                "websight/images/train_259146.png",
+                "lnqa/images/train_113846.jpg"
+            ],
+            "hash": 13742226558087711169
+        },
+        "1228": {
+            "matched_training_indices": [
+                1199163,
+                1563523,
+                3342555
+            ],
+            "matched_training_filenames": [
+                "geo170k/images/geoqa_plus/12037.png",
+                "geo170k/images/geoqa_plus/11874.png",
+                "geo170k/images/geoqa_plus/11772.png"
+            ],
+            "matched_training_filenames_old": [
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/68568.jpeg",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/106678157.jpeg",
+                "coco/train2017/000000359715.jpg"
+            ],
+            "hash": 16639963458328040035
+        },
+        "1231": {
+            "matched_training_indices": [
+                520824
+            ],
+            "matched_training_filenames": [
+                "geo170k/images/geoqa_plus/12963.png"
+            ],
+            "matched_training_filenames_old": [
+                "ocr_vqa/images/399536345.jpg"
+            ],
+            "hash": 9767563966062131223
+        },
+        "1236": {
+            "matched_training_indices": [
+                2287235,
+                2556707
+            ],
+            "matched_training_filenames": [
+                "geo170k/images/geo3k/train/1610/img_diagram.png",
+                "geo170k/images/geo3k/train/1497/img_diagram.png"
+            ],
+            "matched_training_filenames_old": [
+                "synthdog/images/277680.jpg",
+                "tallyqa/train2014/COCO_train2014_000000542778.jpg"
+            ],
+            "hash": 13718136660129604006
+        },
+        "1240": {
+            "matched_training_indices": [
+                1032532,
+                1813055,
+                3467120
+            ],
+            "matched_training_filenames": [
+                "geo170k/images/geo3k/train/469/img_diagram.png",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/GEOMETRY3K+geometry_question_answer_231_img_diagram.png",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/GEOMETRY3K+geometry_question_answer_539_img_diagram.png"
+            ],
+            "matched_training_filenames_old": [
+                "vizwiz/train/VizWiz_train_00002308.jpg",
+                "synthdog/images/98110.jpg",
+                "ocr_vqa/images/199364869.jpg"
+            ],
+            "hash": 17179422356209802162
+        },
+        "1241": {
+            "matched_training_indices": [
+                1546603,
+                2470890
+            ],
+            "matched_training_filenames": [
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/GEOMETRY3K+geometry_question_answer_306_img_diagram.png",
+                "geo170k/images/geo3k/train/1382/img_diagram.png"
+            ],
+            "matched_training_filenames_old": [
+                "geo170k/images/geoqa_plus/11122.png",
+                "hfdata/robut_wikisql/18233.jpg"
+            ],
+            "hash": 12616694751687725804
+        },
+        "1274": {
+            "matched_training_indices": [
+                1546964
+            ],
+            "matched_training_filenames": [
+                "ai2d/ai2d/images/2418.png"
+            ],
+            "matched_training_filenames_old": [
+                "websight/images/train_135362.png"
+            ],
+            "hash": 12617942727701569337
+        },
+        "1276": {
+            "matched_training_indices": [
+                592199
+            ],
+            "matched_training_filenames": [
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10065.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "synthdog/images/175288.jpg"
+            ],
+            "hash": 15965602392613459681
+        },
+        "1285": {
+            "matched_training_indices": [
+                1213219,
+                3020597
+            ],
+            "matched_training_filenames": [
+                "ai2d/ai2d/images/1931.png",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/AI2D+visual_question_answering_991_1931.png"
+            ],
+            "matched_training_filenames_old": [
+                "synthdog/images/321523.jpg",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/76106160.jpeg"
+            ],
+            "hash": 16634223683011486713
+        },
+        "1288": {
+            "matched_training_indices": [
+                552449,
+                615402,
+                991916,
+                2397585,
+                2691085,
+                2708177,
+                3599711,
+                3845172
+            ],
+            "matched_training_filenames": [
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/1432.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/5419.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/1895.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/3230.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/3257.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/1868.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/9991.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10085.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "websight/images/train_556109.png",
+                "lnqa/images/train_12468.jpg",
+                "websight/images/train_731101.png",
+                "hfdata/geomverse/4743.jpg",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/102925609.jpeg",
+                "websight/images/train_6112.png",
+                "websight/images/train_153859.png",
+                "websight/images/train_114089.png"
+            ],
+            "hash": 18383935999109076585
+        },
+        "1286": {
+            "matched_training_indices": [
+                1349229,
+                2730557
+            ],
+            "matched_training_filenames": [
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/AI2D+visual_question_answering_573_2036.png",
+                "ai2d/ai2d/images/2036.png"
+            ],
+            "matched_training_filenames_old": [
+                "websight/images/train_53510.png",
+                "websight/images/train_69861.png"
+            ],
+            "hash": 13388852261388076238
+        },
+        "1301": {
+            "matched_training_indices": [
+                2137698
+            ],
+            "matched_training_filenames": [
+                "ai2d/ai2d/images/2023.png"
+            ],
+            "matched_training_filenames_old": [
+                "hfdata/raven/9976.jpg"
+            ],
+            "hash": 17196011249373906298
+        },
+        "1302": {
+            "matched_training_indices": [
+                1174002,
+                1274666,
+                1320768,
+                1437065,
+                2254900,
+                2660846,
+                3234896,
+                3253998,
+                3888463
+            ],
+            "matched_training_filenames": [
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/1489.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10864.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/9786.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/5739.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/8146.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/5852.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/1925.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/9693.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/4171.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "websight/images/train_298314.png",
+                "websight/images/train_51287.png",
+                "websight/images/train_30671.png",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/130185.jpeg",
+                "vg/VG_100K_2/2397114.jpg",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/PACS+photo_object_classification_330_n02439033_67.jpg",
+                "hfdata/websight/5126.jpg",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/MemeCap+meme_captioning_953_memes_ymxydq.png",
+                "data_engine/partII/images/29870.png"
+            ],
+            "hash": 16392851954993460092
+        },
+        "1315": {
+            "matched_training_indices": [
+                1095105
+            ],
+            "matched_training_filenames": [
+                "ai2d/ai2d/images/967.png"
+            ],
+            "matched_training_filenames_old": [
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/71788960.jpeg"
+            ],
+            "hash": 15830515918649711524
+        },
+        "1316": {
+            "matched_training_indices": [
+                833582
+            ],
+            "matched_training_filenames": [
+                "ai2d/ai2d/images/993.png"
+            ],
+            "matched_training_filenames_old": [
+                "textvqa/train_images/3ec0a2b12536baf6.jpg"
+            ],
+            "hash": 12347661695034647704
+        },
+        "1321": {
+            "matched_training_indices": [
+                2456202
+            ],
+            "matched_training_filenames": [
+                "ai2d/ai2d/images/1856.png"
+            ],
+            "matched_training_filenames_old": [
+                "tallyqa/val2014/COCO_val2014_000000561214.jpg"
+            ],
+            "hash": 14644853403204234827
+        },
+        "1329": {
+            "matched_training_indices": [
+                927279
+            ],
+            "matched_training_filenames": [
+                "ai2d/ai2d/images/2169.png"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000484425.jpg"
+            ],
+            "hash": 11794914237602471812
+        },
+        "1345": {
+            "matched_training_indices": [
+                840386
+            ],
+            "matched_training_filenames": [
+                "ai2d/ai2d/images/19.png"
+            ],
+            "matched_training_filenames_old": [
+                "ocr_vqa/images/1607740362.jpg"
+            ],
+            "hash": 17560054137036229411
+        },
+        "1362": {
+            "matched_training_indices": [
+                2207824
+            ],
+            "matched_training_filenames": [
+                "ai2d/ai2d/images/1287.png"
+            ],
+            "matched_training_filenames_old": [
+                "synthdog/images/424544.jpg"
+            ],
+            "hash": 15754474938625080417
+        },
+        "1378": {
+            "matched_training_indices": [
+                80399,
+                499827,
+                562988,
+                1579090,
+                1893294,
+                1951519,
+                2171060,
+                2184874,
+                2950302,
+                3037787,
+                3057395,
+                3077323,
+                3106830,
+                3126983,
+                3529563,
+                3656510
+            ],
+            "matched_training_filenames": [
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/11484.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10169.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/2193.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/3503.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10181.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10629.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/3228.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/577.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/1069.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10104.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/4935.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/4937.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/7396.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/4233.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/11924.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/11503.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K/2372540.jpg",
+                "vg/VG_100K_2/2707.jpg",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/112349.jpeg",
+                "dvqa/images/bar_train_00149157.png",
+                "data_engine/partII/images/51814.png",
+                "coco/train2017/000000161470.jpg",
+                "/mnt/disks/storage/data/finetune_data/screen_qa/combined/6946.jpg",
+                "websight/images/train_234418.png",
+                "coco/train2017/000000361430.jpg",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/100933222.png",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/31347.jpeg",
+                "synthdog/images/216959.jpg",
+                "coco/val2017/000000181421.jpg",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/104733506.jpeg",
+                "ocr_vqa/images/1570914435.jpg",
+                "tallyqa/train2014/COCO_train2014_000000305168.jpg"
+            ],
+            "hash": 16342026723558423557
+        },
+        "1367": {
+            "matched_training_indices": [
+                1711320
+            ],
+            "matched_training_filenames": [
+                "ai2d/ai2d/images/1773.png"
+            ],
+            "matched_training_filenames_old": [
+                "ocr_vqa/images/1557345910.jpg"
+            ],
+            "hash": 13557287821911891598
+        },
+        "1379": {
+            "matched_training_indices": [
+                33676,
+                245004,
+                317582,
+                724717,
+                916902,
+                980601,
+                1137433,
+                1699499,
+                1824397,
+                1981936,
+                2043104,
+                2057757,
+                2136711,
+                2331815,
+                2390006,
+                2489167,
+                2567814,
+                2592626,
+                3186782,
+                3275472,
+                3469005,
+                3543218,
+                3650030
+            ],
+            "matched_training_filenames": [
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/2149.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/8486.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/504.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/1575.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/2512.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/12071.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/5413.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/1898.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/7135.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/5436.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/9176.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/6483.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/3349.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/11566.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/6934.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10170.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/11075.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/11050.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/7351.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/7500.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10720.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/2069.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/9903.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "websight/images/train_519781.png",
+                "synthdog/images/112982.jpg",
+                "hfdata/websight/5494.jpg",
+                "hfdata/raven/30305.jpg",
+                "hfdata/robut_wikisql/61581.jpg",
+                "websight/images/train_601220.png",
+                "websight/images/train_137797.png",
+                "data_engine/partII/images/58526.png",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/Caltech-256+image_classification_71_195_0022.jpg",
+                "lnqa/images/train_11938.jpg",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/DOMAIN_NET+painting_image_classification_582_painting_174_000032.jpg",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/DTD+coarse_grained_texture_classification_551_grid_0072.jpg",
+                "dvqa/images/bar_train_00175733.png",
+                "ocr_vqa/images/B00HZSH5BM.jpg",
+                "hfdata/robut_wikisql/47318.jpg",
+                "data_engine/partI/images/25315.png",
+                "data_engine/partIII/images/7423.png",
+                "websight/images/train_702822.png",
+                "clevr/CLEVR_v1.0/images/train/CLEVR_train_048206.png",
+                "websight/images/train_559629.png",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/101560020.jpeg",
+                "lnqa/images/train_4874.jpg",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/197332.jpeg"
+            ],
+            "hash": 14471248860421918582
+        },
+        "1372": {
+            "matched_training_indices": [
+                1711320
+            ],
+            "matched_training_filenames": [
+                "ai2d/ai2d/images/1773.png"
+            ],
+            "matched_training_filenames_old": [
+                "ocr_vqa/images/1557345910.jpg"
+            ],
+            "hash": 13557287821911891598
+        },
+        "1385": {
+            "matched_training_indices": [
+                3219101
+            ],
+            "matched_training_filenames": [
+                "ai2d/ai2d/images/391.png"
+            ],
+            "matched_training_filenames_old": [
+                "alfworld/alf-image-id-4/episode-179-step-24-image.png"
+            ],
+            "hash": 16580835618532041153
+        },
+        "1386": {
+            "matched_training_indices": [
+                3219101
+            ],
+            "matched_training_filenames": [
+                "ai2d/ai2d/images/391.png"
+            ],
+            "matched_training_filenames_old": [
+                "alfworld/alf-image-id-4/episode-179-step-24-image.png"
+            ],
+            "hash": 16580835618532041153
+        },
+        "1389": {
+            "matched_training_indices": [
+                1722080
+            ],
+            "matched_training_filenames": [
+                "ai2d/ai2d/images/861.png"
+            ],
+            "matched_training_filenames_old": [
+                "websight/images/train_99289.png"
+            ],
+            "hash": 14602177033050629482
+        },
+        "1391": {
+            "matched_training_indices": [
+                2456202
+            ],
+            "matched_training_filenames": [
+                "ai2d/ai2d/images/1856.png"
+            ],
+            "matched_training_filenames_old": [
+                "tallyqa/val2014/COCO_val2014_000000561214.jpg"
+            ],
+            "hash": 14644853403204234827
+        },
+        "1396": {
+            "matched_training_indices": [
+                2805340
+            ],
+            "matched_training_filenames": [
+                "ai2d/ai2d/images/2026.png"
+            ],
+            "matched_training_filenames_old": [
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/101418165.jpeg"
+            ],
+            "hash": 10793873441574370379
+        },
+        "1381": {
+            "matched_training_indices": [
+                3252824
+            ],
+            "matched_training_filenames": [
+                "ai2d/ai2d/images/490.png"
+            ],
+            "matched_training_filenames_old": [
+                "websight/images/train_342474.png"
+            ],
+            "hash": 17156910752477754518
+        },
+        "1399": {
+            "matched_training_indices": [
+                2211998,
+                2873352
+            ],
+            "matched_training_filenames": [
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/AI2D+visual_question_answering_356_1790.png",
+                "ai2d/ai2d/images/1790.png"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000181939.jpg",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/PACS+horse_image_category_classification_875_n02374451_14425-8.png"
+            ],
+            "hash": 16063778288799164692
+        },
+        "1398": {
+            "matched_training_indices": [
+                1290258,
+                3705403
+            ],
+            "matched_training_filenames": [
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/AI2D+visual_question_answering_708_1783.png",
+                "ai2d/ai2d/images/1783.png"
+            ],
+            "matched_training_filenames_old": [
+                "lnqa/images/train_177923.jpg",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/40246889.jpeg"
+            ],
+            "hash": 13554059151058447244
+        },
+        "1407": {
+            "matched_training_indices": [
+                580116,
+                713584
+            ],
+            "matched_training_filenames": [
+                "ai2d/ai2d/images/69.png",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/AI2D+visual_question_answering_420_69.png"
+            ],
+            "matched_training_filenames_old": [
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/70490280.jpeg",
+                "websight/images/train_132168.png"
+            ],
+            "hash": 14328526084431450414
+        },
+        "1411": {
+            "matched_training_indices": [
+                387794,
+                470967,
+                515152,
+                578968,
+                633396,
+                1712866,
+                2183805,
+                2520460,
+                2607733,
+                3161782,
+                3412349,
+                3704609,
+                3711932
+            ],
+            "matched_training_filenames": [
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/5375.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/2681.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/5135.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/11051.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/8714.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/11918.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/390.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/9086.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/9701.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/5969.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/12561.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/8046.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/9719.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/64427.jpeg",
+                "synthdog/images/222815.jpg",
+                "dvqa/images/bar_train_00125509.png",
+                "data_engine/partII/images/58982.png",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/219130.jpeg",
+                "hfdata/st_vqa/13217.jpg",
+                "lnqa/images/train_146850.jpg",
+                "hfdata/raven/31077.jpg",
+                "synthdog/images/435620.jpg",
+                "data_engine/partII/images/69216.png",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/170041.jpeg",
+                "lnqa/images/train_83399.jpg",
+                "idk/train2014/COCO_train2014_000000565002.jpg"
+            ],
+            "hash": 16984409455878508640
+        },
+        "1417": {
+            "matched_training_indices": [
+                163399,
+                934558,
+                1241280,
+                2385682,
+                3353314,
+                3646407,
+                3708997
+            ],
+            "matched_training_filenames": [
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/11938.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/2520.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/9931.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/7021.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/11923.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/6992.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/5600.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "websight/images/train_138479.png",
+                "hfdata/iconqa/5541.jpg",
+                "lnqa/images/train_51471.jpg",
+                "synthdog/images/232872.jpg",
+                "websight/images/train_347515.png",
+                "synthdog/images/330123.jpg",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/103010636.jpeg"
+            ],
+            "hash": 18383935999109469288
+        },
+        "1426": {
+            "matched_training_indices": [
+                943027,
+                2466578
+            ],
+            "matched_training_filenames": [
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/3105.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/1511.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "hfdata/robut_wtq/20830.jpg",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/VQA_scene_recognition_COCO_train2014_000000466549.jpg"
+            ],
+            "hash": 11465980457541126410
+        },
+        "1436": {
+            "matched_training_indices": [
+                256502
+            ],
+            "matched_training_filenames": [
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/660.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000573529.jpg"
+            ],
+            "hash": 14992676325773793501
+        },
+        "1440": {
+            "matched_training_indices": [
+                2650209
+            ],
+            "matched_training_filenames": [
+                "ai2d/ai2d/images/163.png"
+            ],
+            "matched_training_filenames_old": [
+                "hfdata/robut_wikisql/23346.jpg"
+            ],
+            "hash": 17467358385473604314
+        },
+        "1446": {
+            "matched_training_indices": [
+                351221,
+                437722,
+                1413717,
+                1454962,
+                1753853,
+                1789918,
+                1811340,
+                1870728,
+                1877847,
+                2254533
+            ],
+            "matched_training_filenames": [
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/6094.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/7990.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/10735.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/9948.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/539.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/11779.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/4039.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/5615.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/8315.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/7683.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "websight/images/train_787653.png",
+                "gqa/images/2396077.jpg",
+                "arxivqa/images/1504.07620_1.jpg",
+                "Q-Instruct-DB/livefb_liveitw_aigc/000000209856_darkness_1.jpg",
+                "dvqa/images/bar_train_00110760.png",
+                "hfdata/robut_wikisql/9045.jpg",
+                "websight/images/train_551012.png",
+                "docvqa/documents/xhwg0227_2.png",
+                "/mnt/disks/storage/data/finetune_data/screen_qa/combined/21570.jpg",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/71078731.jpeg"
+            ],
+            "hash": 13467094277136355692
+        },
+        "1443": {
+            "matched_training_indices": [
+                634750,
+                1728512,
+                1775128
+            ],
+            "matched_training_filenames": [
+                "hfdata/tqa/815.jpg",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/AI2D+visual_question_answering_220_3637.png",
+                "ai2d/ai2d/images/3637.png"
+            ],
+            "matched_training_filenames_old": [
+                "synthdog/images/389434.jpg",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/5884.jpeg",
+                "lnqa/images/train_144402.jpg"
+            ],
+            "hash": 16585805931707840293
+        },
+        "1466": {
+            "matched_training_indices": [
+                1919406
+            ],
+            "matched_training_filenames": [
+                "ai2d/ai2d/images/496.png"
+            ],
+            "matched_training_filenames_old": [
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/106817.jpeg"
+            ],
+            "hash": 15457110713261937469
+        },
+        "1467": {
+            "matched_training_indices": [
+                577681,
+                928188
+            ],
+            "matched_training_filenames": [
+                "ai2d/ai2d/images/759.png",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/AI2D+visual_question_answering_437_759.png"
+            ],
+            "matched_training_filenames_old": [
+                "dvqa/images/bar_train_00152909.png",
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/Office_31+Image_Classification_Category_798_frame_0034.jpg"
+            ],
+            "hash": 13665510598688180101
+        },
+        "1469": {
+            "matched_training_indices": [
+                2207824
+            ],
+            "matched_training_filenames": [
+                "ai2d/ai2d/images/1287.png"
+            ],
+            "matched_training_filenames_old": [
+                "synthdog/images/424544.jpg"
+            ],
+            "hash": 15754474938625080417
+        },
+        "1480": {
+            "matched_training_indices": [
+                1290258,
+                3705403
+            ],
+            "matched_training_filenames": [
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/AI2D+visual_question_answering_708_1783.png",
+                "ai2d/ai2d/images/1783.png"
+            ],
+            "matched_training_filenames_old": [
+                "lnqa/images/train_177923.jpg",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/40246889.jpeg"
+            ],
+            "hash": 13554059151058447244
+        },
+        "1492": {
+            "matched_training_indices": [
+                4086,
+                166582,
+                312815,
+                1151255,
+                1964557,
+                2124347,
+                3232633
+            ],
+            "matched_training_filenames": [
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/2638.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/7130.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/3678.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/865.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/12722.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/2852.jpg",
+                "/mnt/disks/storage/data/finetune_data/scienceqa/images/3384.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "websight/images/train_420043.png",
+                "data_engine/partII/images/56795.png",
+                "tallyqa/train2014/COCO_train2014_000000048220.jpg",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/43129894.jpeg",
+                "dvqa/images/bar_train_00180478.png",
+                "synthdog/images/311917.jpg",
+                "synthdog/images/177387.jpg"
+            ],
+            "hash": 18311875132138166601
+        }
+    }
+}

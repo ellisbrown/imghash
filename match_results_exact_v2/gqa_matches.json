@@ -1,0 +1,18 @@
+{
+    "total_test_images": 398,
+    "n_test_images_with_match": 1,
+    "test_matches": {
+        "332": {
+            "matched_training_indices": [
+                3168721
+            ],
+            "matched_training_filenames": [
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/HICO+human_activity_detection_923_HICO_train2015_00023972.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "websight/images/train_312579.png"
+            ],
+            "hash": 11550213953128028907
+        }
+    }
+}

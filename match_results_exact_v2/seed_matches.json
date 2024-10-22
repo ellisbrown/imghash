@@ -1,0 +1,321 @@
+{
+    "total_test_images": 17990,
+    "n_test_images_with_match": 26,
+    "test_matches": {
+        "269": {
+            "matched_training_indices": [
+                2333723
+            ],
+            "matched_training_filenames": [
+                "data_engine/partII/images/19533.png"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K/2369817.jpg"
+            ],
+            "hash": 12894046840432669891
+        },
+        "337": {
+            "matched_training_indices": [
+                1518336
+            ],
+            "matched_training_filenames": [
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/ConceptualCaptions+image_captioning_363_a-model-walks-the-runway-at-the-stella-jean-spring-summer-2016-fashion-JRY83F.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/WIT+detailed_description_792_Li_Boguang_2006_%28cropped%29.jpg"
+            ],
+            "hash": 17982317453749672630
+        },
+        "1138": {
+            "matched_training_indices": [
+                906248
+            ],
+            "matched_training_filenames": [
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/ConceptualCaptions+image_captioning_395_c7e6cd9a_original.jpg_aki_policy=x_large.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "data_engine/partII/images/21563.png"
+            ],
+            "hash": 12874599825745494131
+        },
+        "2395": {
+            "matched_training_indices": [
+                2333723
+            ],
+            "matched_training_filenames": [
+                "data_engine/partII/images/19533.png"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K/2369817.jpg"
+            ],
+            "hash": 12894046840432669891
+        },
+        "2694": {
+            "matched_training_indices": [
+                2333723
+            ],
+            "matched_training_filenames": [
+                "data_engine/partII/images/19533.png"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K/2369817.jpg"
+            ],
+            "hash": 12894046840432669891
+        },
+        "3622": {
+            "matched_training_indices": [
+                886240
+            ],
+            "matched_training_filenames": [
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/ConceptualCaptions+image_captioning_294_mastertour-10.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "/mnt/disks/storage/data/finetune_data/gpt4v-dataset/images/9223.jpg"
+            ],
+            "hash": 13876223175350180195
+        },
+        "3790": {
+            "matched_training_indices": [
+                377832
+            ],
+            "matched_training_filenames": [
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/40361375.jpeg"
+            ],
+            "matched_training_filenames_old": [
+                "synthdog/images/359219.jpg"
+            ],
+            "hash": 12255619736443355851
+        },
+        "4210": {
+            "matched_training_indices": [
+                2333723
+            ],
+            "matched_training_filenames": [
+                "data_engine/partII/images/19533.png"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K/2369817.jpg"
+            ],
+            "hash": 12894046840432669891
+        },
+        "4568": {
+            "matched_training_indices": [
+                3504856
+            ],
+            "matched_training_filenames": [
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/71185524.jpeg"
+            ],
+            "matched_training_filenames_old": [
+                "lnqa/images/train_188246.jpg"
+            ],
+            "hash": 13865223730528706877
+        },
+        "8791": {
+            "matched_training_indices": [
+                2333723
+            ],
+            "matched_training_filenames": [
+                "data_engine/partII/images/19533.png"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K/2369817.jpg"
+            ],
+            "hash": 12894046840432669891
+        },
+        "9016": {
+            "matched_training_indices": [
+                1518336
+            ],
+            "matched_training_filenames": [
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/ConceptualCaptions+image_captioning_363_a-model-walks-the-runway-at-the-stella-jean-spring-summer-2016-fashion-JRY83F.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/WIT+detailed_description_792_Li_Boguang_2006_%28cropped%29.jpg"
+            ],
+            "hash": 17982317453749672630
+        },
+        "9312": {
+            "matched_training_indices": [
+                668506
+            ],
+            "matched_training_filenames": [
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/ConceptualCaptions+image_captioning_10_0513c579908ce3554723f47b40966937cf5f67-wm.jpg_v=3.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000307039.jpg"
+            ],
+            "hash": 14828923396616860884
+        },
+        "9544": {
+            "matched_training_indices": [
+                906248
+            ],
+            "matched_training_filenames": [
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/ConceptualCaptions+image_captioning_395_c7e6cd9a_original.jpg_aki_policy=x_large.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "data_engine/partII/images/21563.png"
+            ],
+            "hash": 12874599825745494131
+        },
+        "9577": {
+            "matched_training_indices": [
+                2594968,
+                2929035
+            ],
+            "matched_training_filenames": [
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/47213656.jpeg",
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/46802.jpeg"
+            ],
+            "matched_training_filenames_old": [
+                "hfdata/tabmwp/3975.jpg",
+                "websight/images/train_19005.png"
+            ],
+            "hash": 15481570443337003448
+        },
+        "11003": {
+            "matched_training_indices": [
+                2333723
+            ],
+            "matched_training_filenames": [
+                "data_engine/partII/images/19533.png"
+            ],
+            "matched_training_filenames_old": [
+                "vg/VG_100K/2369817.jpg"
+            ],
+            "hash": 12894046840432669891
+        },
+        "11079": {
+            "matched_training_indices": [
+                2777826
+            ],
+            "matched_training_filenames": [
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/137649852.jpeg"
+            ],
+            "matched_training_filenames_old": [
+                "ocr_vqa/images/683306448.jpg"
+            ],
+            "hash": 9863548626580364137
+        },
+        "12013": {
+            "matched_training_indices": [
+                1898269
+            ],
+            "matched_training_filenames": [
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/ConceptualCaptions+image_captioning_602_cbb457696f199ad02f563413e99e3f9d--modern-wallpaper-designs-plate-holder.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2413614.jpg"
+            ],
+            "hash": 10354110137436781647
+        },
+        "12739": {
+            "matched_training_indices": [
+                1898269
+            ],
+            "matched_training_filenames": [
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/ConceptualCaptions+image_captioning_602_cbb457696f199ad02f563413e99e3f9d--modern-wallpaper-designs-plate-holder.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "gqa/images/2413614.jpg"
+            ],
+            "hash": 10354110137436781647
+        },
+        "13076": {
+            "matched_training_indices": [
+                3504856
+            ],
+            "matched_training_filenames": [
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/71185524.jpeg"
+            ],
+            "matched_training_filenames_old": [
+                "lnqa/images/train_188246.jpg"
+            ],
+            "hash": 13865223730528706877
+        },
+        "13680": {
+            "matched_training_indices": [
+                1823707
+            ],
+            "matched_training_filenames": [
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/40256350.jpeg"
+            ],
+            "matched_training_filenames_old": [
+                "dvqa/images/bar_train_00058529.png"
+            ],
+            "hash": 10758414886279144809
+        },
+        "15215": {
+            "matched_training_indices": [
+                1991448
+            ],
+            "matched_training_filenames": [
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/100825136.jpeg"
+            ],
+            "matched_training_filenames_old": [
+                "websight/images/train_271755.png"
+            ],
+            "hash": 15153603474411518265
+        },
+        "15320": {
+            "matched_training_indices": [
+                2777826
+            ],
+            "matched_training_filenames": [
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/137649852.jpeg"
+            ],
+            "matched_training_filenames_old": [
+                "ocr_vqa/images/683306448.jpg"
+            ],
+            "hash": 9863548626580364137
+        },
+        "15915": {
+            "matched_training_indices": [
+                886240
+            ],
+            "matched_training_filenames": [
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/ConceptualCaptions+image_captioning_294_mastertour-10.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "/mnt/disks/storage/data/finetune_data/gpt4v-dataset/images/9223.jpg"
+            ],
+            "hash": 13876223175350180195
+        },
+        "16461": {
+            "matched_training_indices": [
+                1518336
+            ],
+            "matched_training_filenames": [
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/ConceptualCaptions+image_captioning_363_a-model-walks-the-runway-at-the-stella-jean-spring-summer-2016-fashion-JRY83F.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/WIT+detailed_description_792_Li_Boguang_2006_%28cropped%29.jpg"
+            ],
+            "hash": 17982317453749672630
+        },
+        "17624": {
+            "matched_training_indices": [
+                377832
+            ],
+            "matched_training_filenames": [
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/40361375.jpeg"
+            ],
+            "matched_training_filenames_old": [
+                "synthdog/images/359219.jpg"
+            ],
+            "hash": 12255619736443355851
+        },
+        "17904": {
+            "matched_training_indices": [
+                886240
+            ],
+            "matched_training_filenames": [
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/ConceptualCaptions+image_captioning_294_mastertour-10.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "/mnt/disks/storage/data/finetune_data/gpt4v-dataset/images/9223.jpg"
+            ],
+            "hash": 13876223175350180195
+        }
+    }
+}

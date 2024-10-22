@@ -1,0 +1,270 @@
+{
+    "total_test_images": 191,
+    "n_test_images_with_match": 22,
+    "test_matches": {
+        "64": {
+            "matched_training_indices": [
+                3181871
+            ],
+            "matched_training_filenames": [
+                "sam/images/sa_10225.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "dvqa/images/bar_train_00119631.png"
+            ],
+            "hash": 11566050737677617814
+        },
+        "37": {
+            "matched_training_indices": [
+                466022
+            ],
+            "matched_training_filenames": [
+                "sam/images/sa_16306.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "ocr_vqa/images/590316818.jpg"
+            ],
+            "hash": 12152074342626517227
+        },
+        "97": {
+            "matched_training_indices": [
+                1320673
+            ],
+            "matched_training_filenames": [
+                "sam/images/sa_11290.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "hfdata/robut_wtq/3640.jpg"
+            ],
+            "hash": 11358045691964163975
+        },
+        "107": {
+            "matched_training_indices": [
+                3433017
+            ],
+            "matched_training_filenames": [
+                "sam/images/sa_1244.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/185347.jpeg"
+            ],
+            "hash": 15411940409142480230
+        },
+        "128": {
+            "matched_training_indices": [
+                1182808
+            ],
+            "matched_training_filenames": [
+                "sam/images/sa_10313.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "synthdog/images/379016.jpg"
+            ],
+            "hash": 14091391022481179393
+        },
+        "114": {
+            "matched_training_indices": [
+                1196692
+            ],
+            "matched_training_filenames": [
+                "sam/images/sa_10052.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/DVQA+charts_question_answer_1_410_bar_train_00006288.png"
+            ],
+            "hash": 13596969909921673812
+        },
+        "95": {
+            "matched_training_indices": [
+                3361649
+            ],
+            "matched_training_filenames": [
+                "sam/images/sa_11405.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "geo170k/images/geo3k/train/1692/img_diagram.png"
+            ],
+            "hash": 11309351509767392324
+        },
+        "69": {
+            "matched_training_indices": [
+                1603354
+            ],
+            "matched_training_filenames": [
+                "sam/images/sa_10720.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "hfdata/chart2text/25247.jpg"
+            ],
+            "hash": 10497284310905205857
+        },
+        "90": {
+            "matched_training_indices": [
+                2134668
+            ],
+            "matched_training_filenames": [
+                "sam/images/sa_17108.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "synthdog/images/455894.jpg"
+            ],
+            "hash": 9259338430151357471
+        },
+        "42": {
+            "matched_training_indices": [
+                3038744
+            ],
+            "matched_training_filenames": [
+                "sam/images/sa_10204.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "websight/images/train_369528.png"
+            ],
+            "hash": 12084030120753578848
+        },
+        "78": {
+            "matched_training_indices": [
+                840302
+            ],
+            "matched_training_filenames": [
+                "sam/images/sa_16854.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "synthdog/images/416080.jpg"
+            ],
+            "hash": 11860379099663232451
+        },
+        "35": {
+            "matched_training_indices": [
+                543786
+            ],
+            "matched_training_filenames": [
+                "sam/images/sa_11528.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "hfdata/robut_wtq/117.jpg"
+            ],
+            "hash": 9552694414713554715
+        },
+        "22": {
+            "matched_training_indices": [
+                1715928
+            ],
+            "matched_training_filenames": [
+                "sam/images/sa_10919.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "allava/ALLaVA-4V/allava_vflan/images/images_191task_1k/AI2D+visual_question_answering_238_503.png"
+            ],
+            "hash": 13598253092977723764
+        },
+        "16": {
+            "matched_training_indices": [
+                3501958
+            ],
+            "matched_training_filenames": [
+                "sam/images/sa_17.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "hfdata/chart2text/7515.jpg"
+            ],
+            "hash": 15698024475381242752
+        },
+        "68": {
+            "matched_training_indices": [
+                2468213
+            ],
+            "matched_training_filenames": [
+                "sam/images/sa_10033.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "data_engine/partII/images/43893.png"
+            ],
+            "hash": 13242482972224259288
+        },
+        "71": {
+            "matched_training_indices": [
+                675784
+            ],
+            "matched_training_filenames": [
+                "sam/images/sa_10701.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "websight/images/train_53012.png"
+            ],
+            "hash": 17412301751082208971
+        },
+        "2": {
+            "matched_training_indices": [
+                2631304
+            ],
+            "matched_training_filenames": [
+                "sam/images/sa_10997.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/101286950.jpeg"
+            ],
+            "hash": 12721903635879601499
+        },
+        "41": {
+            "matched_training_indices": [
+                1070964
+            ],
+            "matched_training_filenames": [
+                "sam/images/sa_13337.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "websight/images/train_154100.png"
+            ],
+            "hash": 10196934400918460600
+        },
+        "92": {
+            "matched_training_indices": [
+                983480
+            ],
+            "matched_training_filenames": [
+                "sam/images/sa_16825.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "/mnt/disks/storage/data/finetune_data/screen_qa/combined/48545.jpg"
+            ],
+            "hash": 12457385986236676508
+        },
+        "111": {
+            "matched_training_indices": [
+                2547835
+            ],
+            "matched_training_filenames": [
+                "sam/images/sa_10885.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "lnqa/images/train_215240.jpg"
+            ],
+            "hash": 10443846506183800103
+        },
+        "47": {
+            "matched_training_indices": [
+                2581646
+            ],
+            "matched_training_filenames": [
+                "sam/images/sa_10415.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "dvqa/images/bar_train_00158352.png"
+            ],
+            "hash": 16274001976742186393
+        },
+        "106": {
+            "matched_training_indices": [
+                1027740
+            ],
+            "matched_training_filenames": [
+                "sam/images/sa_11370.jpg"
+            ],
+            "matched_training_filenames_old": [
+                "coco/train2017/000000285220.jpg"
+            ],
+            "hash": 10812838594850051216
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "total_test_images": 3288,
+    "n_test_images_with_match": 1,
+    "test_matches": {
+        "1258": {
+            "matched_training_indices": [
+                1164059
+            ],
+            "matched_training_filenames": [
+                "allava/ALLaVA-4V/allava_laion/image_chunks/images/42379261.jpeg"
+            ],
+            "matched_training_filenames_old": [
+                "synthdog/images/489240.jpg"
+            ],
+            "hash": 18069206440670822963
+        }
+    }
+}
