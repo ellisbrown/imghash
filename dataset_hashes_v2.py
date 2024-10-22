@@ -11,7 +11,8 @@ from multiprocessing import Pool, cpu_count
 # Parameters
 HASH_SIZE = 8        # Same as your training data
 NUM_WORKERS = cpu_count()  # Adjust as needed
-HASH_FILES_DIR = os.path.expanduser("~/test_hash_files")  # Directory to save hash pickles
+HASH_FILES_DIR = os.path.expanduser("~/test_hash_files_v2")  # Directory to save hash pickles
+SEED_IMGS = os.path.expanduser("~/resized_seed_bench_images")
 
 # Create the directory if it doesn't exist
 os.makedirs(HASH_FILES_DIR, exist_ok=True)
@@ -40,7 +41,8 @@ test_dataset_map = dict(
     pope=("lmms-lab/POPE", None, "test", "image"),
     realworldqa=("lmms-lab/RealWorldQA", None, "test", "image"),
     sqa=("derek-thomas/ScienceQA", None, "test", "image"),
-    seed=("lmms-lab/SEED-Bench", None, "test", "image"),
+    # seed=("lmms-lab/SEED-Bench", None, "test", "image"),
+    seed=("seed", None, "train", "image"),
     stvqa=("lmms-lab/ST-VQA", None, "test", "image"),
     synthdog=("naver-clova-ix/synthdog-en", None, "validation", "image"),
     textvqa=("lmms-lab/textvqa", None, "validation", "image"),
@@ -50,6 +52,10 @@ test_dataset_map = dict(
 
 def get_dataset(name):
     dataset_name, version, split = test_dataset_map[name][:3]
+
+    if dataset_name == "seed":
+        # load an imagefolder dataset from SEED_IMAGES
+        return load_dataset("imagefolder", data_dir=SEED_IMGS, split=split)
 
     if isinstance(version, list):
         datasets = []
@@ -77,29 +83,12 @@ def compute_hash(image, hash_size=HASH_SIZE):
     hash_int = int(str(hash_obj), 16)
     return hash_int
 
-def process_image(args):
+
+
+def load_image(data, key):
     """Process a single image and compute its hash."""
-    i, data, image_key, repo_id = args
     try:
-        img = data[image_key]
-        key = image_key
-        # if isinstance(img, str):
-        #     if repo_id is not None:
-        #         sub_folder, image_id = img.split('/')
-        #         path = hf_hub_download(
-        #             repo_id=repo_id,
-        #             filename=image_id,
-        #             subfolder=sub_folder,
-        #             repo_type="dataset"
-        #         )
-        #         image = Image.open(path).convert('RGB')
-        #     else:
-        #         image = Image.open(img).convert('RGB')
-        # elif isinstance(img, Image.Image):
-        #     image = img
-        # else:
-        #     print(f"Unsupported image type: {type(img)}")
-        #     return None
+        img = data[key]
         if img is None:
             # if name != "sqa":
             #     raise ValueError("Image is None")
@@ -116,17 +105,29 @@ def process_image(args):
             path = hf_hub_download(repo_id="craigwu/vstar_bench", filename=image_id, subfolder=sub_folder, repo_type="dataset")
             img = Image.open(path)
 
-        image = img.convert('RGB')
+        return img.convert('RGB')
+
+    except Exception as e:
+        print(f"Error processing image: {e}")
+        return None
+
+def process_image(args):
+    """Process a single image and compute its hash."""
+    i, data, image_key = args
+    hash_int = None
+
+    try:
+        image = load_image(data, image_key)
 
         # Preprocess the image
         image = preprocess_image(image)
 
         # Compute the hash
         hash_int = compute_hash(image, hash_size=HASH_SIZE)
-        return i, hash_int
     except Exception as e:
         print(f"Error processing image: {e}")
-        return i, None
+    
+    return i, hash_int
 
 def process_dataset(dataset_name):
     """Process a test dataset and save its hashes."""
@@ -138,13 +139,10 @@ def process_dataset(dataset_name):
 
     dataset = get_dataset(dataset_name)
     image_key = test_dataset_map[dataset_name][-1]
-    repo_id = None
-    if dataset_name == 'vstar':
-        repo_id = 'craigwu/vstar_bench'
 
     # Prepare arguments for multiprocessing
     # args_list = [(data, image_key, repo_id) for data in dataset]
-    args_list = [(i, data, image_key, repo_id) for i, data in enumerate(dataset)]
+    args_list = [(i, data, image_key) for i, data in enumerate(dataset)]
 
     # Use multiprocessing Pool to process images in parallel
     with Pool(processes=NUM_WORKERS) as pool:
@@ -163,7 +161,7 @@ def process_dataset(dataset_name):
 
 if __name__ == '__main__':
     # List of test datasets to process
-    test_datasets = list(test_dataset_map.keys())[::-1]
+    # test_datasets = list(test_dataset_map.keys())[::-1]
     test_datasets = list(test_dataset_map.keys())
 
     for dataset_name in test_datasets:

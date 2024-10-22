@@ -23,7 +23,7 @@ base_path = "/mnt/disks/storage/data/finetune_data/"
 
 # Parameters
 HASH_SIZE = 8        # Adjust as needed (e.g., 8, 16)
-BATCH_SIZE = 10000   # Number of images to process in each batch
+BATCH_SIZE = 10000   # Number of images to process in each batchse
 INDEX_FILENAME = "faiss_index_train_phash.index"  # File to save the FAISS index
 
 

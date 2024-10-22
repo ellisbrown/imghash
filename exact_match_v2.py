@@ -7,9 +7,9 @@ import json
 # Parameters
 HASH_SIZE = 8  # Should match the hash size used previously
 # TRAIN_HASH_FILES_DIR = os.path.expanduser("~/hash_files")  # Directory where train hashes are saved
-TRAIN_HASH_FILES_DIR = os.path.expanduser("~/hash_files")  # Directory where train hashes are saved
-TEST_HASH_FILES_DIR = os.path.expanduser("~/test_hash_files")  # Directory where test hashes are saved
-RESULTS_DIR = os.path.expanduser("~/match_results_exact")  # Directory to save the results
+TRAIN_HASH_FILES_DIR = os.path.expanduser("~/hash_files_v2")  # Directory where train hashes are saved
+TEST_HASH_FILES_DIR = os.path.expanduser("~/test_hash_files_v2")  # Directory where test hashes are saved
+RESULTS_DIR = os.path.expanduser("~/match_results_exact_v2")  # Directory to save the results
 IMAGE_PATHS_PICKLE = os.path.expanduser("~/image_paths.pkl")  # Path to the training image paths
 
 # Create the results directory if it doesn't exist
@@ -35,8 +35,8 @@ print(f"Found {len(train_hash_files)} train hash files.")
 current_index = 0  # Keep track of the current index in image_paths
 
 print("Loading train hashes and building hash-to-indices mapping...")
-sorted_hash_files = sorted(train_hash_files, key=lambda x: int(x.split('_')[-1].split('.')[0]))
-for hash_file in tqdm(sorted_hash_files, desc="Loading train hashes"):
+sorted_train_hash_files = sorted(train_hash_files, key=lambda x: int(x.split('_')[-1].split('.')[0]))
+for hash_file in tqdm(sorted(train_hash_files), desc="Loading train hashes"):
     with open(hash_file, 'rb') as f:
         hashes = pickle.load(f)
         num_hashes = len(hashes)
@@ -44,12 +44,13 @@ for hash_file in tqdm(sorted_hash_files, desc="Loading train hashes"):
         indices = list(range(current_index, current_index + num_hashes))
         current_index += num_hashes
         # Build the mapping
-        for h, idx in zip(hashes, indices):
+        for (h, fn), idx in zip(hashes, indices):
             h_int = int(h)
+            tup = (idx, fn)
             if h_int in train_hash_to_indices:
-                train_hash_to_indices[h_int].append(idx)
+                train_hash_to_indices[h_int].append(tup)
             else:
-                train_hash_to_indices[h_int] = [idx]
+                train_hash_to_indices[h_int] = [tup]
 print(f"Total unique train hashes loaded: {len(train_hash_to_indices)}")
 
 # Process each test dataset
@@ -62,7 +63,7 @@ test_hash_files = [
 # Initialize a dictionary to store results
 match_results = {}
 
-for hash_file in tqdm(test_hash_files, desc="Processing test datasets"):
+for hash_file in tqdm(sorted(test_hash_files), desc="Processing test datasets"):
     dataset_name = os.path.basename(hash_file).replace('_hashes.pkl', '')
     results_file = os.path.join(RESULTS_DIR, f"{dataset_name}_matches.json")
     print(f"\nProcessing test dataset: {dataset_name}")
@@ -76,16 +77,19 @@ for hash_file in tqdm(test_hash_files, desc="Processing test datasets"):
     # Check for exact matches
     n_test_images_with_match = 0
     test_matches = {}
-    for i, test_hash in enumerate(test_hashes):
+    for n, (i, test_hash) in enumerate(test_hashes):
         test_hash_int = int(test_hash)  # Ensure test_hash is an integer
         if test_hash_int in train_hash_to_indices:
             n_test_images_with_match += 1
             # Record the matching training indices and filenames
-            matched_training_indices = train_hash_to_indices[test_hash_int]
-            matched_training_filenames = [image_paths[idx] for idx in matched_training_indices]
+            match = train_hash_to_indices[test_hash_int]
+            match_indices, match_filenames = zip(*match)
+            matched_training_filenames = [image_paths[idx] for idx in match_indices]
             test_matches[i] = {
-                'matched_training_indices': matched_training_indices,
-                'matched_training_filenames': matched_training_filenames
+                'matched_training_indices': match_indices,
+                'matched_training_filenames': match_filenames,
+                'matched_training_filenames_old': matched_training_filenames,
+                'hash': test_hash,
             }
 
     print(f"Number of test images with exact hash matches in the training set: {n_test_images_with_match}")

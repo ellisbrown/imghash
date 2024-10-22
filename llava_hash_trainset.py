@@ -2,7 +2,6 @@ import os
 import numpy as np
 import imagehash
 from PIL import Image
-import faiss
 from tqdm import tqdm
 import pickle
 from multiprocessing import Pool, cpu_count
@@ -14,11 +13,11 @@ CHUNK_SIZE = 10000   # Number of images to process in each chunk
 NUM_WORKERS = cpu_count()  # Number of parallel processes
 # INDEX_FILENAME = "faiss_index_train_phash.index"  # File to save the FAISS index
 # HASH_FILES_DIR = "~/hash_files"  # Directory to save the hash files
-HASH_FILES_DIR = "~/hash_files_v2"  # Directory to save the hash files
+HASH_FILES_DIR = "~/hash_files_llava"  # Directory to save the hash files
 
 # Base path where your images are stored
 base_path = "/mnt/disks/storage/data/finetune_data/"
-pickle_path = os.path.expanduser("~/image_paths.pkl")
+pickle_path = os.path.expanduser("~/image_paths_llava.pkl")
 
 
 def preprocess_image(image):
@@ -96,32 +95,6 @@ def main():
     with Pool(processes=NUM_WORKERS) as pool:
         list(tqdm(pool.imap_unordered(process_and_save_chunk, args_list), total=num_chunks))
 
-    # # Collect all hashes from hash files
-    # all_hashes = []
-    # print("Loading hashes from hash files")
-    # for chunk_id in tqdm(range(num_chunks)):
-    #     hash_file = os.path.join(hash_files_dir, f"hashes_{chunk_id}.pkl")
-    #     if os.path.exists(hash_file):
-    #         with open(hash_file, 'rb') as f:
-    #             hashes = pickle.load(f)
-    #             all_hashes.extend(hashes)
-    #     else:
-    #         print(f"Warning: Hash file {hash_file} is missing. Skipping.")
-
-    # # Convert all hashes to binary arrays
-    # print("Converting hashes to binary arrays")
-    # hashes_bin = hashes_to_binary_array(all_hashes, HASH_SIZE)
-
-    # # Build the FAISS index
-    # num_bits = HASH_SIZE * HASH_SIZE
-    # print(f"Creating a FAISS index with {num_bits}-bit binary hashes")
-    # index = faiss.IndexBinaryFlat(num_bits)
-    # index.add(hashes_bin)
-    # print(f"Total number of hashes in index: {index.ntotal}")
-
-    # # Save the FAISS index to disk
-    # faiss.write_index_binary(index, INDEX_FILENAME)
-    # print(f"Saved FAISS index to {INDEX_FILENAME}")
     print("Done")
 
 def hashes_to_binary_array(hashes, hash_size):
